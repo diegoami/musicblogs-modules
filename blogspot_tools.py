@@ -20,13 +20,13 @@ def iterate_blog_posts(id,api_key):
             nextPageToken= None
             break
 
-def retrieve_title_and_videos(rjs,api_key):
+def iterate_title_and_videos(rjs,api_key):
     if 'items' in rjs:
         items = rjs['items']
         for item in items:
             content=item['content']
             m = re.search('src=\\\".*?youtube\.com\/embed\/(.*?)[\"\?]', content)
             if m:
-                return item['title'],m.group(1)
+                yield item['title'] , m.group(1)
     else:
-        return None, None
+        yield None, None
