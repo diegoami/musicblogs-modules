@@ -45,3 +45,14 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Other
+.idea
+output
+resources\*
+notused
+client_secrets.json
+client_secrets_yt.json
+legacy/*.txt
+blogger.dat
+*.pyc

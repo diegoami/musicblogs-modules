@@ -1,6 +1,7 @@
 import requests
 import json
 import re
+from oauth2client import client
 
 
 def iterate_blog_posts(id,api_key):		
@@ -19,6 +20,13 @@ def iterate_blog_posts(id,api_key):
         else:
             nextPageToken= None
             break
+        
+
+
+
+        
+        
+        
 
 def iterate_title_and_videos(rjs,api_key):
     if 'items' in rjs:
@@ -28,5 +36,7 @@ def iterate_title_and_videos(rjs,api_key):
             m = re.search('src=\\\".*?youtube\.com\/embed\/(.*?)[\"\?]', content)
             if m:
                 yield item['title'] , m.group(1)
+            else:
+                yield item['title'], None
     else:
         yield None, None
