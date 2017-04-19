@@ -3,7 +3,7 @@ import sys
 
 import youtube_tools
 
-from legacy import blogspot_tools
+import blogspot_tools
 
 
 def print_videos_in_blog(blog_id, apikey, fileout):
