@@ -7,13 +7,14 @@ import csv
 import re
 import codecs
 import traceback
+from tool_blog_client import iterate_blog_posts
+
 
 from apiclient.discovery import build
 from apiclient.errors import HttpError
 from oauth2client.client import flow_from_clientsecrets
 from oauth2client.file import Storage
-from oauth2client.tools import argparser, run_flow
-
+from oauth2client.tools import run_flow
 
 # The CLIENT_SECRETS_FILE variable specifies the name of a file that contains
 # the OAuth 2.0 information for this application, including its client_id and
@@ -91,41 +92,29 @@ def iterate_videos_from_file(filename):
         for rowline in rowlines:
             m = re.search('\,([\w\-]{11})\,', rowline)
             if m:
-                videoid = m.group(1)
-                yield videoid
+                videoId = m.group(1)
+                yield videoId
 
             else:
                 print('No video found in row : '+ rowline)
 
-if __name__ == "__main__":
-    argparser.add_argument('--filename')
-    args = argparser.parse_args()
 
-    youtube = get_authenticated_service(args)
+def get_channel_id(youtube, videoId):
+    result = get_video(youtube, videoId)
+    channelId= result['items'][0]['snippet']['channelId']
+    return channelId
 
-    filename=args.filename
-    for videoid in iterate_videos_from_file(filename):
-        try:
-            print('Found video ' + videoid)
-            like_video(youtube, videoid)
-            result = get_video(youtube, videoid)
-            channel_Id = result['items'][0]['snippet']['channelId']
-            print('Adding channel ' + channel_Id)
+def subscribe_channel(youtube, channelId):
+    print('Subscribing to channel '+channelId)
+    youtube.subscriptions().insert(
+        part='snippet',
+        body=dict(
+            snippet=dict(
+                resourceId=dict(
+                    channelId=channelId
+                )
+            )
+        )).execute()
 
-            youtube.subscriptions().insert(
-                part='snippet',
-                body=dict(
-                    snippet=dict(
-                        resourceId=dict(
-                            channelId=channel_Id
-                        )
-                    )
-                )).execute()
 
-        except HttpError as e:
-            print("An HTTP error %d occurred:\n%s" % (e.resp.status, e.content))
-        except Exception as e:
-            traceback.print_exc()
-        else:
-            print('Liked video ' + videoid)
 
