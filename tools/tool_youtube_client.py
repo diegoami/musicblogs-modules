@@ -7,7 +7,7 @@ import csv
 import re
 import codecs
 import traceback
-from tool_blog_client import iterate_blog_posts
+from tools.tool_blog_client import iterate_blog_posts
 
 
 from apiclient.discovery import build

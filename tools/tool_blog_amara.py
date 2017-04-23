@@ -1,5 +1,4 @@
-
-import tool_blog_client
+from tools import tool_blog_client
 
 import amara.amara_tools
 
@@ -19,8 +18,7 @@ def test_add_amaratags( blogId, postId):
     service, flags = tool_blog_client.login()
     tool_blog_client. insert_amara_tags(blogId, postId, service.posts())
 
-def test_subtitles_workflow(blogId, postId, language_code):
+def subtitles_workflow(blogId, postId, language_code):
     test_add_amaratags(blogId, postId)
     post_video_from_blog(blogId, postId, language_code)
 
-test_subtitles_workflow('446998987295244185', '6125845547148704089', 'ru')

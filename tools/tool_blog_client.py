@@ -55,7 +55,7 @@ def insert_amara_tags(blogId, postId, posts):
     if content.find('amara') > -1:
         return
     pos_iframe= content.find('<iframe')
-    snippet_amara = '<div class="amara-embed" data-height="390px" data-resizable="true" data-show-subtitles-default="true" data-url="http://www.youtube.com/watch?v='+videoId+'" data-width="640px"></div>'
+    snippet_amara = '<div class="amara-embed" data-height="390px" data-resizable="true" data-show-subtitles-default="true" data-url="http://www.youtube.com/watch?v='+videoId+'" data-width="640px"></div></br>'
     newContent = content[0:pos_iframe]+snippet_amara +content[pos_iframe:len(content)]
     posts_doc['content'] = newContent
     posts_doc['labels'].append('subtitled')
