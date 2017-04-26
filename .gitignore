@@ -56,3 +56,9 @@ client_secrets_yt.json
 legacy/*.txt
 blogger.dat
 *.pyc
+*.dmp
+legacy/environment.py
+*.json
+*.bat
+*.txt
+*.sh
