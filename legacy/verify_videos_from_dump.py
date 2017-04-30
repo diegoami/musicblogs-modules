@@ -35,13 +35,13 @@ def print_missing_video(postId, title, videoId ):
     sendmail_video("Video not found", mail_text)
     print(mail_text)
 
-def process_map(videoMap, apikey,maxcount=5000, debug=False):
+def process_map(videoMap, apikey,maxcount=5000, debug=False, days=3):
     count = 0
     for id, v in sorted(videoMap.items(),key=lambda x: x[1][2]):
         title, videoId, lastdate = v
         currentdate = datetime.date.fromtimestamp(time.time())
         delta = currentdate - lastdate
-        if delta.days >= 2:
+        if delta.days >= days:
             debug and print(title, videoId, lastdate)
             if title is not None:
                 if videoId is not None:
@@ -61,13 +61,15 @@ parser.add_argument('--apikey')
 parser.add_argument('--inputfile')
 parser.add_argument('--maxcount')
 parser.add_argument('--debug')
+parser.add_argument('--days')
+
 args = parser.parse_args()
 debug = False if args.debug == None else True
 
 
 with open(args.inputfile, 'rb') as handle:
     videoMap = pickle.load(handle)
-    process_map(videoMap,args.apikey,int(args.maxcount), debug=debug )
+    process_map(videoMap,args.apikey,int(args.maxcount), debug=debug, days=(args.days or 3) )
 
 with open(args.inputfile, 'wb') as handle:
      pickle.dump(videoMap, handle,  protocol=pickle.HIGHEST_PROTOCOL)
