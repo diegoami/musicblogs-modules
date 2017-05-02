@@ -8,7 +8,7 @@ def stripHtmlTags(htmlTxt):
     if htmlTxt is None:
         return None
     else:
-        return ''.join(BeautifulSoup(htmlTxt).findAll(text=True))
+        return '\n'.join(BeautifulSoup(htmlTxt).findAll(text=True))
 
 from apiclient.errors import HttpError
 
@@ -97,11 +97,3 @@ def test_drive():
             replace_object_in_blog_post(service, blogId, post['id'])
         except HttpError as e:
             print("An HTTP error %d occurred:\n%s" % (e.resp.status, e.content))
-
-
-def test_retrieve_lyrics():
-    blogId = '446998987295244185'
-    postId =  '3434782100071308805'
-    service, flags = login()
-    print(retrieve_lyrics(service, blogId, postId))
-
