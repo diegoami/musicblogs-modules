@@ -69,7 +69,7 @@ debug = False if args.debug == None else True
 
 with open(args.inputfile, 'rb') as handle:
     videoMap = pickle.load(handle)
-    process_map(videoMap,args.apikey,int(args.maxcount), debug=debug, days=(args.days or 3) )
+    process_map(videoMap,args.apikey,int(args.maxcount), debug=debug, days=(int(args.days) or 3) )
 
 with open(args.inputfile, 'wb') as handle:
      pickle.dump(videoMap, handle,  protocol=pickle.HIGHEST_PROTOCOL)
