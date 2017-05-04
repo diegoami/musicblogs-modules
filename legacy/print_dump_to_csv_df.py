@@ -1,5 +1,5 @@
 import argparse
-import csv
+import pandas as pd
 import pickle
 from datetime import datetime
 
@@ -13,13 +13,15 @@ parser.add_argument('--debug')
 
 
 args = parser.parse_args()
-debug = False if args.debug == None else True   
+debug = False if args.debug == None else True
 
 
 with open(args.inputfile, 'rb') as handle:
     videoMap = pickle.load(handle)
-
-    with open(args.outputfile, 'w', encoding='utf-8') as whandle:
-        writer = csv.writer(whandle)
-        for key, (title, videoId, lastOk ) in sorted(videoMap.items(), key=lambda x: x[1][2]):
-            writer.writerow([key, title, videoId, lastOk ])
+    print(videoMap)
+    df = pd.DataFrame.from_dict(videoMap,orient='index')
+    df.columns = ['title', 'videoId','lastOk']
+    df.index.name = 'postId'
+    print(df.info())
+    df = df.sort(columns='lastOk', ascending=True)
+    df.to_csv(args.ouputfile, encoding='utf-8')

@@ -62,3 +62,4 @@ legacy/environment.py
 *.bat
 *.txt
 *.sh
+*.csv
