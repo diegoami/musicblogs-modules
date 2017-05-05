@@ -15,15 +15,19 @@ import argparse
 
 
 def sendmail_video(subject,text):
-    msg = MIMEText(text,_charset ='utf-8')
+    print("Now sending mail....")
+    print(subject)
+    print(text)
+    """
+    msg = MIMEText(text)
     msg['Subject'] = subject
     msg['From'] = env.DESTINATION_MAIL
     msg['To'] = env.DESTINATION_MAIL
     s = smtplib.SMTP(env.MAIL_SERVER)
     s.sendmail(msg['To'], [msg['From']], msg.as_string())
     s.quit()
+    """
     print("Mail sent")
-
 
 def print_missing_video(postId, title, videoId ):
     mail_text = ''
