@@ -33,7 +33,7 @@ def iterate_title_and_videos(rjs,api_key):
         items = rjs['items']
         for item in items:
             content=item['content']
-            m = re.search('src=\\\".*?youtube\.com\/embed\/(.*?)[\"\?]', content)
+            m = re.search('src=\\\".*?youtube\.com\/embed\/([\w\-]{11})[\"\?]', content)
             if m:
                 yield item['id'], item['title'] , m.group(1)
             else:
