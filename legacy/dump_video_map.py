@@ -11,15 +11,16 @@ import datetime
 import argparse
 
 def fill_map(blogId, apikey, blogMap, debug=False ):
-
+    newBlogMap = {}
     for blog_post in blogspot_tools.iterate_blog_posts(blogId, apikey):
         for id, title, videoId in blogspot_tools.iterate_title_and_videos(blog_post, apikey):
             if id not in blogMap or blogMap[id][1] != videoId:
                 debug and print("Updating "+id+" to "+videoId)
-                blogMap[id] = (title, videoId, datetime.date.fromtimestamp(0))
+                newBlogMap[id] = (title, videoId, datetime.date.fromtimestamp(0))
             else:
                 debug and print("Ignoring " + id + " and " + videoId)
-    return blogMap
+                newBlogMap[id] = blogMap[id]
+    return newBlogMap
 
 
 parser = argparse.ArgumentParser()
