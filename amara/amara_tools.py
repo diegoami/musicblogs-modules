@@ -28,8 +28,10 @@ def get_video_id(video_url,language_code):
 def post_video(video_url,language_code):
     url = 'https://amara.org/api/videos/'
     urldict = dict({'video_url':video_url, 'primary_audio_language_code':language_code})
-    r = requests.post(url, data=urldict, headers=headers )
+    print(urldict)
 
+    r = requests.post(url, data=urldict, headers=headers )
+    print(r.content)
     json_ret =  r.json()
     if 'id' in json_ret:
         return json_ret['id']
