@@ -1,9 +1,7 @@
 
 
 import requests
-import json
-import re
-from oauth2client import client
+
 
 from amara.amara_env import amara_headers
 
@@ -40,7 +38,7 @@ def post_video(video_url,language_code):
 
 def get_actions(video_id,language_code):
     url = 'https://amara.org/api/videos/'+video_id+'/languages/'+language_code+'/subtitles/actions/'
-    r = requests.get(url, headers=headers)
+    r = requests.get(url, headers=amara_headers)
     print(r.json())
 
 def post_subtitles(video_id,language_code, subtitles):
