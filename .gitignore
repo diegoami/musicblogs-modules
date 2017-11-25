@@ -64,3 +64,4 @@ legacy/environment.py
 *.sh
 *.csv
 amara/amara_env.py
+*env.py
