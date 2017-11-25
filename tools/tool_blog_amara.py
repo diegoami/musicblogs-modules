@@ -14,11 +14,11 @@ def post_video_from_blog(blogId, postId, language_code):
     amara.amara_tools.get_actions(videoId ,language_code)
     amara.amara_tools.post_subtitles(videoId, language_code, conv_lyrics )
 
-def test_add_amaratags( blogId, postId):
+def test_add_amaratags( blogId, postId, language_code):
     service, flags = tool_blog_client.login()
-    tool_blog_client. insert_amara_tags(blogId, postId, service.posts())
+    tool_blog_client. insert_amara_tags(blogId, postId, service.posts(), language_code)
 
 def subtitles_workflow(blogId, postId, language_code):
-    test_add_amaratags(blogId, postId)
+    test_add_amaratags(blogId, postId, language_code)
     post_video_from_blog(blogId, postId, language_code)
 

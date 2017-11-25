@@ -47,7 +47,7 @@ def extract_content_and_video(blogId, postId, posts):
     result_dict = {'content':content, 'videoId': videoId, 'posts_doc': posts_doc}
     return result_dict
 
-def insert_amara_tags(blogId, postId, posts):
+def insert_amara_tags(blogId, postId, posts, language_code):
 
 
     result_dict = extract_content_and_video(blogId, postId, posts)
@@ -55,7 +55,7 @@ def insert_amara_tags(blogId, postId, posts):
     if content.find('amara') > -1:
         return
     pos_iframe= content.find('<iframe')
-    snippet_amara = '<div class="amara-embed" data-height="390px" data-resizable="true" data-show-subtitles-default="true" data-url="http://www.youtube.com/watch?v='+videoId+'" data-width="640px"></div></br>'
+    snippet_amara = '<div class="amara-embed" data-height="390px" data-resizable="true" data-show-subtitles-default="true" data-url="http://www.youtube.com/watch?v='+videoId+'" data-width="640px" data-initial-language="'+language_code+'"></div></br>'
     newContent = content[0:pos_iframe]+snippet_amara +content[pos_iframe:len(content)]
     posts_doc['content'] = newContent
     posts_doc['labels'].append('subtitled')
