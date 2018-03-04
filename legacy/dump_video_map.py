@@ -1,9 +1,9 @@
 import csv
 import sys
 import os
-import youtube_tools
+from . import youtube_tools
 
-import blogspot_tools
+from . import blogspot_tools
 import parser
 import pickle
 import datetime
@@ -12,14 +12,16 @@ import argparse
 
 def fill_map(blogId, apikey, blogMap, debug=False ):
     newBlogMap = {}
-    for blog_post in blogspot_tools.iterate_blog_posts(blogId, apikey):
-        for id, title, videoId in blogspot_tools.iterate_title_and_videos(blog_post, apikey):
-            if id not in blogMap or blogMap[id][1] != videoId:
-                debug and print("Updating "+id+" to "+videoId)
-                newBlogMap[id] = (title, videoId, datetime.date.fromtimestamp(0))
+    for postList in blogspot_tools.iterate_blog_posts(blogId, apikey):
+
+        for blogPost in blogspot_tools.iterate_title_and_videos(postList, apikey):
+
+            if blogPost.postId not in blogMap or blogMap.postId[1] != blogPost.videoId:
+                debug and print("Updating "+blogPost.postId+" to "+blogPost.videoId)
+                newBlogMap[blogPost.postId] = (blogPost.title, blogPost.videoId, datetime.date.fromtimestamp(0))
             else:
-                debug and print("Ignoring " + id + " and " + videoId)
-                newBlogMap[id] = blogMap[id]
+                debug and print("Ignoring " + blogPost.postId + " and " + blogPost.videoId)
+                newBlogMap[blogPost.postId] = blogMap[blogPost.postId]
     return newBlogMap
 
 

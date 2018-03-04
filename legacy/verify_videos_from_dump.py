@@ -1,14 +1,14 @@
 import csv
 import sys
 
-import youtube_tools
+from . import youtube_tools
 
-import blogspot_tools
+from . import blogspot_tools
 import parser
 import pickle
 import datetime
 import time
-import environment as env
+from . import environment as env
 import smtplib
 from email.mime.text import MIMEText
 import argparse
@@ -39,7 +39,7 @@ def print_missing_video(postId, title, videoId ):
     sendmail_video("Video not found", mail_text)
     print(mail_text)
 
-def process_map(videoMap, apikey,maxcount=5000, debug=False, days=3):
+def process_map(videoMap, apikey, maxcount=5000, debug=False, days=3):
     count = 0
     for id, v in sorted(videoMap.items(),key=lambda x: x[1][2]):
         title, videoId, lastdate = v

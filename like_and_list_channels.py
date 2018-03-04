@@ -2,13 +2,14 @@
 
 import traceback
 
-import tool_youtube_client
+from tools import tool_youtube_client
 from apiclient.errors import HttpError
 from oauth2client.tools import argparser
 
 from tools import tool_blog_client
 
 if __name__ == "__main__":
+
     argparser.add_argument('--blogId')
     args = argparser.parse_args()
     channelsDict = dict()
