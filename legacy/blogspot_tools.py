@@ -2,7 +2,7 @@ import requests
 import json
 import re
 from collections import namedtuple
-
+from tools.tool_blog_client import  stripHtmlTags
 BlogPost = namedtuple('BlogPost', 'postId title videoId content labels')
 
 
@@ -28,8 +28,8 @@ def iterate_title_and_videos(rjs):
             content=item['content']
             m = re.search('src=\\\".*?youtube\.com\/embed\/([\w\-]{11})[\"\?]', content)
             if m:
-                yield BlogPost(postId =item['id'], title=item['title'], videoId=m.group(1), content=item['content'], labels=item.get('labels', None))
+                yield BlogPost(postId =item['id'], title=item['title'], videoId=m.group(1), content=stripHtmlTags(item['content']), labels=item.get('labels', None))
             else:
-                yield BlogPost(postId=item['id'], title=item['title'], videoId=None, content=item['content'], labels=item['labels'])
+                yield BlogPost(postId=item['id'], title=item['title'], videoId=None, content=stripHtmlTags(item['content']), labels=item['labels'])
     else:
         yield None, None, None
