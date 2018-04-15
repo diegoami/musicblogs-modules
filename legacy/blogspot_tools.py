@@ -3,7 +3,7 @@ import json
 import re
 from collections import namedtuple
 from tools.tool_blog_client import  stripHtmlTags
-BlogPost = namedtuple('BlogPost', 'postId title videoId content labels')
+BlogPost = namedtuple('BlogPost', 'postId url title videoId content labels amara_embed')
 
 
 
@@ -26,10 +26,15 @@ def iterate_title_and_videos(rjs):
         items = rjs['items']
         for item in items:
             content=item['content']
-            m = re.search('src=\\\".*?youtube\.com\/embed\/([\w\-]{11})[\"\?]', content)
-            if m:
-                yield BlogPost(postId =item['id'], title=item['title'], videoId=m.group(1), content=stripHtmlTags(item['content']), labels=item.get('labels', None))
-            else:
-                yield BlogPost(postId=item['id'], title=item['title'], videoId=None, content=stripHtmlTags(item['content']), labels=item['labels'])
-    else:
-        yield None, None, None
+            m_you_tube = re.search('src=\\\".*?youtube\.com\/embed\/([\w\-]{11})[\"\?]', content)
+            m_amara_embed = re.search('amara-embed', content)
+            video_id = m_you_tube.group(1) if m_you_tube else None
+            yield BlogPost(postId=item['id'],
+                           url=item['url'],
+                           title=item['title'],
+                           videoId=video_id,
+                           content=stripHtmlTags(item['content']),
+                           labels=item.get('labels', None),
+                           amara_embed=1 if m_amara_embed else 0)
+
+    yield None, None, None
