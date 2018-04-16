@@ -31,7 +31,7 @@ def iterate_title_and_videos(rjs):
             video_id = m_you_tube.group(1) if m_you_tube else None
             yield BlogPost(postId=item['id'],
                            url=item['url'],
-                           title=item['title'],
+                           title=item['title'].strip(),
                            videoId=video_id,
                            content=stripHtmlTags(item['content']),
                            labels=item.get('labels', None),

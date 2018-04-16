@@ -8,7 +8,9 @@ def stripHtmlTags(htmlTxt):
     if htmlTxt is None:
         return None
     else:
-        return '\n'.join(BeautifulSoup(htmlTxt).findAll(text=True))
+        all_lines = BeautifulSoup(htmlTxt).findAll(text=True)
+        not_empty_lines = [line for line in all_lines if len(line) > 0]
+        return '\n'.join(not_empty_lines)
 
 from apiclient.errors import HttpError
 
