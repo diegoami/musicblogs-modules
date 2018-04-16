@@ -52,7 +52,12 @@ if __name__ == "__main__":
 
 
     posts_in_blog = posts_collection.find()
-    posts_map = {p['postId']: BlogPost(postId=p['postId'], title=p['title'], videoId=p['videoId'], content=p['content'], labels=p.get('labels',0))  for p in posts_in_blog }
+    posts_map = \
+        { p['postId']: BlogPost(
+               postId=p['postId'], title=p['title'], videoId=p['videoId'], content=p['content'], labels=p.get('labels',0), url=p.get('url', ''),
+               amara_embed=p.get('amara_embed', '')
+            ) for p in posts_in_blog
+        }
 
 
     update_blog_collection(posts_collection, blogId=args.blogId, apiKey=config['API-KEY'], olddata=posts_map )
