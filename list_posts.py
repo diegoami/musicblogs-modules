@@ -10,8 +10,10 @@ import yaml
 
 def update_blog_collection(posts_collection, blogId, apiKey, olddata=None):
     tdata = olddata if olddata else {}
+    postids = set(tdata.keys())
     for post_list in iterate_blog_posts(blogId, apiKey ):
         for blogPost in iterate_title_and_videos(post_list ):
+
             if not blogPost:
                 print("Skipping empty post")
                 continue
@@ -19,8 +21,10 @@ def update_blog_collection(posts_collection, blogId, apiKey, olddata=None):
             if not hasattr(blogPost, "postId"):
                 print("Skipping post : {}".format(blogPost))
                 continue
-
+            if (blogPost.postId in postids):
+                postids.remove(blogPost.postId)
             if blogPost.postId in tdata:
+
                 update_key, update_value = {'postId': blogPost.postId}, {k: v for k, v in blogPost._asdict().items() if k not in "postId"}
 
                 if blogPost  != tdata[blogPost.postId]:
@@ -30,12 +34,15 @@ def update_blog_collection(posts_collection, blogId, apiKey, olddata=None):
                     posts_collection.update_one(update_key,   { '$set' : update_value } )
                     print("updated {} to {}".format(update_key, update_value))
                 else:
-                    print("skipping {}".format(update_key))
+                    print("post {} unchanged".format(blogPost.postId))
             else:
                 print("inserting {} ".format(blogPost))
 
                 posts_collection.insert_one(blogPost._asdict())
                 print("inserted {} ".format(blogPost._asdict()))
+    for postid in postids:
+        posts_collection.delete_one({'postId': postid})
+        print("post {} deleted".format(postid))
 
 if __name__ == "__main__":
 

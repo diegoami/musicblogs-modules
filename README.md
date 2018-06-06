@@ -11,8 +11,11 @@ Collection of scripts simplifying the maintainance of my music blogs
 * http://italianlyrics.blogspot.com/
 
 Including subtitles using http://www.amara.org 
+Also used to fill the database for http://europoplyrics.com
 
 ## Credential needed
 
 * client_secrets_yt.json (youtube)
 * client_secrets.json (blogger)
+
+
