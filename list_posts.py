@@ -44,6 +44,7 @@ def update_blog_collection(posts_collection, blogId, apiKey, olddata=None):
         posts_collection.delete_one({'postId': postid})
         print("post {} deleted".format(postid))
 
+
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
