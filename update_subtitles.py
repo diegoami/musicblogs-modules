@@ -17,7 +17,7 @@ def update_subtitles_collection(subtitles_collection, blogId, languages_str, api
                 labels = blogPost.labels
                 video_url = blogPost.videoId
 
-                if labels and 'subtitled' in labels or 'SUBTITLED' in labels:
+                if labels and ('subtitled' in labels or 'SUBTITLED' in labels):
                     video_info = get_video_info('https://youtu.be/'+video_url)
                     if (video_info):
                         print(video_info)
