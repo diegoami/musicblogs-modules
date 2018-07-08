@@ -10,7 +10,6 @@ def get_subtitles(video_id,language):
 
     r =requests.get(url, headers=amara_headers)
     rjs= r.json()
-    print(rjs['subtitles'])
     return rjs['subtitles']
 
 def get_video_id(video_url,language_code):
