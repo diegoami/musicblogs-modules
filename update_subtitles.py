@@ -1,5 +1,6 @@
 
 import argparse
+import traceback
 from pymongo import MongoClient
 from amara.amara_tools import get_subtitles, get_video_id, get_languages, get_video_info
 
@@ -18,25 +19,31 @@ def update_subtitles_collection(subtitles_collection, blogId, languages_str, api
                 video_url = blogPost.videoId
 
                 if labels and ('subtitled' in labels or 'SUBTITLED' in labels):
-                    video_info = get_video_info('https://youtu.be/'+video_url)
-                    if (video_info):
-                        print(video_info)
-                        video_id = video_info["id"]
-                        if (video_id):
-                            languages_video = get_languages(video_id)
-                            print(languages_video)
-                            common_languages = [l for l in languages_video if l in languages]
-                            if (common_languages):
-                                sel_lang = common_languages[0]
-                                subtitles = get_subtitles(video_id, sel_lang)
-                                if (subtitles and len(subtitles) > 0):
-                                    subtitles_collection.replace_one(
-                                        filter={"video_url": video_url},
-                                        replacement={"video_url" : video_url, "video_id" : video_id, "lang" : sel_lang, "subtitles" : subtitles},
-                                        upsert = True
-                                    );
+                    print("Trying to get video for {}".format(video_url))
+                    try:
+                        video_info = get_video_info('https://youtu.be/'+video_url)
+                        if (video_info):
+                            print(video_info)
+                            video_id = video_info["id"]
+                            if (video_id):
+                                languages_video = get_languages(video_id)
+                                #print(languages_video)
+                                common_languages = [l for l in languages_video if l in languages]
+                                if (common_languages):
+                                    sel_lang = common_languages[0]
+                                    subtitles = get_subtitles(video_id, sel_lang)
+                                    #print(subtitles)
+                                    if (subtitles and len(subtitles) > 0):
+                                        print("Saving subtitles for {}".format(video_id))
+                                        subtitles_collection.replace_one(
+                                            filter={"video_url": video_url},
+                                            replacement={"video_url" : video_url, "video_id" : video_id, "lang" : sel_lang, "subtitles" : subtitles},
+                                            upsert = True
+                                        );
 
-
+                    except:
+                        print("Could not process {} from {}".format(video_id, blogPost.url))
+                        traceback.print_exc()
 
 if __name__ == "__main__":
 
