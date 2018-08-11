@@ -19,4 +19,11 @@ Also used to fill the database for http://www.europoplyrics.com .
 * client_secrets_yt.json (youtube)
 * client_secrets.json (blogger)
 
+## Update blogs entries
+
+A mongodb instance should be running. Execute
+
+* ./update_musicblog.sh
+* ./update_subtitles.sh
+
 
