@@ -48,6 +48,7 @@ Temporary Items
 
 # Other
 .idea
+.env
 output
 resources\*
 notused

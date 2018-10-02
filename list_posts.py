@@ -1,10 +1,13 @@
 
 import argparse
 from pymongo import MongoClient
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
 
 
 from legacy.blogspot_tools import iterate_blog_posts, iterate_title_and_videos, BlogPost
-from tools.tool_blog_client import stripHtmlTags
 import yaml
 
 
@@ -51,10 +54,15 @@ if __name__ == "__main__":
 
     parser.add_argument('--blogId')
     parser.add_argument('--configFile')
+    blog_api_key = os.getenv("BLOG-API-KEY")
+    mongo_connection = os.getenv("mongo_connection")
 
     args = parser.parse_args()
-    config = yaml.safe_load(open(args.configFile))
-    client = MongoClient(config['mongo_connection'])
+    if (args.configFile):
+        config = yaml.safe_load(open(args.configFile))
+        blog_api_key = config['API-KEY']
+        mongo_connection = config['mongo_connection']
+    client = MongoClient(mongo_connection)
     musicblogs_database = client.musicblogs
     posts_collection= musicblogs_database['posts.'+args.blogId]
 
@@ -68,4 +76,4 @@ if __name__ == "__main__":
         }
 
 
-    update_blog_collection(posts_collection, blogId=args.blogId, apiKey=config['API-KEY'], olddata=posts_map )
+    update_blog_collection(posts_collection, blogId=args.blogId, apiKey=blog_api_key, olddata=posts_map )
