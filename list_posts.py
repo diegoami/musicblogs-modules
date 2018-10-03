@@ -18,11 +18,9 @@ def update_blog_collection(posts_collection, blogId, apiKey, olddata=None):
         for blogPost in iterate_title_and_videos(post_list ):
 
             if not blogPost:
-                print("Skipping empty post")
                 continue
 
             if not hasattr(blogPost, "postId"):
-                print("Skipping post : {}".format(blogPost))
                 continue
             if (blogPost.postId in postids):
                 postids.remove(blogPost.postId)
@@ -54,7 +52,7 @@ if __name__ == "__main__":
 
     parser.add_argument('--blogId')
     parser.add_argument('--configFile')
-    api_key = os.getenv("API-KEY")
+    api_key = os.getenv("BLOG-API-KEY")
     mongo_connection = os.getenv("mongo_connection")
 
     args = parser.parse_args()

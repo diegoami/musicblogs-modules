@@ -3,13 +3,15 @@ import argparse
 import traceback
 from pymongo import MongoClient
 from amara.amara_tools import get_subtitles, get_languages, get_video_info
-from amara.amara_env import amara_headers
-
 from legacy.blogspot_tools import iterate_blog_posts, iterate_title_and_videos
 import yaml
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
 
-def update_subtitles_collection(subtitles_collection, blogId, languages_str, apiKey):
+
+def update_subtitles_collection(subtitles_collection, blogId, languages_str, apiKey, amara_headers):
     languages = languages_str.split(',')
     for post_list in iterate_blog_posts(blogId, apiKey ):
         for blogPost in iterate_title_and_videos(post_list ):
@@ -22,7 +24,7 @@ def update_subtitles_collection(subtitles_collection, blogId, languages_str, api
                     try:
                         video_info = get_video_info('https://youtu.be/'+video_url, amara_headers)
                         if (video_info):
-                            print(video_info)
+                            #print(video_info)
                             video_id = video_info["id"]
                             if (video_id):
                                 languages_video = get_languages(video_id, amara_headers)
@@ -52,7 +54,7 @@ if __name__ == "__main__":
     parser.add_argument('--languages')
 
     args = parser.parse_args()
-    api_key = os.getenv("API-KEY")
+    api_key = os.getenv("BLOG-API-KEY")
     mongo_connection = os.getenv("mongo_connection")
 
     args = parser.parse_args()
@@ -61,9 +63,13 @@ if __name__ == "__main__":
         blog_api_key = config['API-KEY']
         mongo_connection = config['mongo_connection']
 
+    amara_headers = {
+        "X-api-username": os.getenv('AMARA-X-api-username'),
+        "X-api-key": os.getenv('AMARA-X-api-key')
+    }
 
     client = MongoClient(mongo_connection)
     musicblogs_database = client.musicblogs
     subtitles_collection= musicblogs_database['subtitles.'+args.blogId]
     musicblogs_database = client.musicblogs
-    update_subtitles_collection(subtitles_collection=subtitles_collection, blogId=args.blogId, languages_str=args.languages, apiKey=api_key)
+    update_subtitles_collection(subtitles_collection=subtitles_collection, blogId=args.blogId, languages_str=args.languages, apiKey=api_key, amara_headers=amara_headers)

@@ -27,3 +27,16 @@ A mongodb instance should be running. Execute
 * ./update_subtitles.sh
 
 
+## Create new entries in amara
+
+```
+python create_entry_for_amara.py --blogId <blogId> --postId <postId> --language_code <language_code>
+```
+
+.env and client_secrets.json
+
+## Docker file
+
+docker build -f Dockerfile -t diegoami/musicblog_scripts:latest .
+export CWD=$(pwd)
+docker run -v $CWD/.env:/opt/.env -v $CWD/client_secrets.json:/opt/client_secrets.json -v $CWD/blogger.dat:/opt/blogger.dat -it diegoami/musicblog_scripts:latest bash
