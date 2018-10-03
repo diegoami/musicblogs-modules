@@ -19,7 +19,7 @@ def get_video_id(video_url,language_code,amara_headers):
     if 'objects' in json_ret and len (json_ret['objects']) > 0 :
         return json_ret['objects'][0]['id']
     else:
-        return post_video(video_url,language_code)
+        return post_video(video_url,language_code, amara_headers)
 
 
 def get_video_info(video_url,amara_headers):
