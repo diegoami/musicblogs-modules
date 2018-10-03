@@ -1,5 +1,4 @@
 import requests
-import json
 import re
 from collections import namedtuple
 from tools.tool_blog_client import  stripHtmlTags
