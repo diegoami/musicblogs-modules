@@ -1,0 +1,14 @@
+FROM alpine:3.7
+RUN apk add --no-cache --virtual .build-deps g++ python3-dev libffi-dev openssl-dev
+RUN apk add --no-cache --update python3
+RUN pip3 install --upgrade pip setuptools
+RUN apk add --no-cache --virtual bash vim
+RUN mkdir opt
+ADD requirements-updateblogs.txt /opt
+RUN pip install -r /opt/requirements-updateblogs.txt
+ADD legacy /opt/legacy
+ADD amara /opt/amara
+ADD tools /opt/tools
+ADD update_subtitles.py /opt
+ADD list_posts.py /opt
+RUN cd /opt

@@ -1,23 +1,19 @@
-from tools import tool_blog_client
-import amara.amara_tools
+from amara.amara_env import amara_headers
+import tools.tool_blog_amara
 
 from oauth2client.tools import argparser
-from oauth2client.tools import argparser
 
-import amara.amara_tools
 from tools import tool_blog_client
-
-#parser = argparse.ArgumentParser(description='Process some integers.', parents=[argparser])
 
 argparser.add_argument('--blogId')
 argparser.add_argument('--postId')
-
+argparser.add_argument('--language_code')
 
 args = argparser.parse_args()
-#youtube = tool_youtube_client.get_authenticated_service(args)
 service, flags = tool_blog_client.login()
-blogId=args.blogId
+blogId = args.blogId
+language_code = args.language_code
+
+
 postId = args.postId
-lyrics = tool_blog_client.retrieve_lyrics(service, blogId, postId)
-conv_lyrics = amara.amara_tools.convert_to_lyrics(lyrics )
-print(conv_lyrics)
+tools.tool_blog_amara.subtitles_workflow(blogId, postId, language_code, amara_headers)

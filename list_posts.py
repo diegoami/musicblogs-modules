@@ -54,7 +54,7 @@ if __name__ == "__main__":
 
     parser.add_argument('--blogId')
     parser.add_argument('--configFile')
-    blog_api_key = os.getenv("BLOG-API-KEY")
+    api_key = os.getenv("API-KEY")
     mongo_connection = os.getenv("mongo_connection")
 
     args = parser.parse_args()
@@ -76,4 +76,4 @@ if __name__ == "__main__":
         }
 
 
-    update_blog_collection(posts_collection, blogId=args.blogId, apiKey=blog_api_key, olddata=posts_map )
+    update_blog_collection(posts_collection, blogId=args.blogId, apiKey=api_key, olddata=posts_map )

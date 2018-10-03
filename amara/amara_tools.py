@@ -3,16 +3,14 @@
 import requests
 
 
-from amara.amara_env import amara_headers
-
-def get_subtitles(video_id,language):
+def get_subtitles(video_id,language,amara_headers):
     url='https://amara.org/api/videos/'+video_id+'/languages/'+language+'/subtitles/?sub_format=srt'
 
     r =requests.get(url, headers=amara_headers)
     rjs= r.json()
     return rjs['subtitles']
 
-def get_video_id(video_url,language_code):
+def get_video_id(video_url,language_code,amara_headers):
     url = 'https://amara.org/api/videos/'
     urldict = dict({'video_url': video_url})
     r = requests.get(url, params=urldict, headers=amara_headers)
@@ -24,7 +22,7 @@ def get_video_id(video_url,language_code):
         return post_video(video_url,language_code)
 
 
-def get_video_info(video_url):
+def get_video_info(video_url,amara_headers):
     url = 'https://amara.org/api/videos/'
     urldict = dict({'video_url': video_url})
     r = requests.get(url, params=urldict, headers=amara_headers)
@@ -33,7 +31,7 @@ def get_video_info(video_url):
         return json_ret['objects'][0]
 
 
-def post_video(video_url,language_code):
+def post_video(video_url,language_code,amara_headers):
     url = 'https://amara.org/api/videos/'
     urldict = dict({'video_url':video_url, 'primary_audio_language_code':language_code})
     print(urldict)
@@ -45,20 +43,20 @@ def post_video(video_url,language_code):
     else:
         return None
 
-def get_actions(video_id,language_code):
+def get_actions(video_id,language_code,amara_headers):
     url = 'https://amara.org/api/videos/'+video_id+'/languages/'+language_code+'/subtitles/actions/'
     r = requests.get(url, headers=amara_headers)
     print(r.json())
     return r.json
 
-def get_languages(video_id):
+def get_languages(video_id,amara_headers):
     url = 'https://amara.org/api/videos/'+video_id+'/languages/';
     r = requests.get(url, headers=amara_headers)
     rjson = r.json()
     lngs = [ o['language_code'] for o in rjson['objects']]
     return lngs
 
-def post_subtitles(video_id,language_code, subtitles):
+def post_subtitles(video_id,language_code, subtitles,amara_headers):
     url = 'https://amara.org/api/videos/'+video_id+'/languages/'+language_code+'/subtitles/'
     urldict = dict({'subtitles': subtitles, 'sub_format': 'srt'})
     r = requests.post(url, data=urldict, headers=amara_headers)
@@ -74,9 +72,3 @@ def convert_to_lyrics(lines):
         ret_value = ret_value + '\r\n\r\n'
 
     return ret_value
-
-
-
-
-        #post_video(video_url='https://youtu.be/eYaDTMbxIrY',language='ru')
-#get_subtitles('yYxDKmZhNPKy','ru')

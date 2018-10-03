@@ -1,6 +1,7 @@
 import tkinter as tk
 
-import tools.tool_blog_amara;
+import tools.tool_blog_amara
+from amara.amara_env import amara_headers
 
 class Application(tk.Frame):
     def __init__(self, master=None):
@@ -43,7 +44,7 @@ class Application(tk.Frame):
         self.quit.pack(side="bottom")
 
     def do_import(self):
-        tools.tool_blog_amara.subtitles_workflow(self.blogIdEntryBox.get(), self.postIdEntryBox.get(), self.languageCodeBox.get())
+        tools.tool_blog_amara.subtitles_workflow(self.blogIdEntryBox.get(), self.postIdEntryBox.get(), self.languageCodeBox.get(), amara_headers)
 
 root = tk.Tk()
 app = Application(master=root)
