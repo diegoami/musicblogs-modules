@@ -10,8 +10,8 @@ ADD legacy /opt/legacy
 ADD amara /opt/amara
 ADD tools /opt/tools
 ADD create_entry_for_amara.py /opt
-ADD flask_create_amara.py /opt
+ADD list_posts.py /opt
+ADD ui_create_amara.py /opt
+ADD update_subtitles.py /opt
+ADD update_musicblogs.sh /opt
 RUN cd /opt
-WORKDIR /opt
-EXPOSE 5001
-CMD python3 flask_create_amara.py
