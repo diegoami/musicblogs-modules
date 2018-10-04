@@ -4,6 +4,19 @@ import re
 from bs4 import BeautifulSoup  # Or from BeautifulSoup import BeautifulSoup
 import datetime
 
+from oauth2client.tools import argparser, run_flow
+
+import argparse
+import os
+
+from googleapiclient import discovery
+from googleapiclient.http import build_http
+from oauth2client import client
+from oauth2client import file
+from oauth2client import tools
+
+
+
 def stripHtmlTags(htmlTxt):
     if htmlTxt is None:
         return None
@@ -16,9 +29,57 @@ from apiclient.errors import HttpError
 
 def login():
     service, flags = sample_tools.init(
-        sys.argv, 'blogger', 'v3', __doc__, __file__,
+        sys.argv+['--noauth_local_webserver'], 'blogger', 'v3', __doc__, __file__,
         scope='https://www.googleapis.com/auth/blogger')
     return service, flags
+
+def init_alt(argv, name, version, doc, filename, scope=None, parents=[], discovery_filename=None):
+    if scope is None:
+        scope = 'https://www.googleapis.com/auth/' + name
+
+    # Parser command-line arguments.
+    parent_parsers = [tools.argparser]
+    parent_parsers.extend(parents)
+    parser = argparse.ArgumentParser(
+        description=doc,
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        parents=parent_parsers)
+    flags = parser.parse_args(argv[1:])
+
+    # Name of a file containing the OAuth 2.0 information for this
+    # application, including client_id and client_secret, which are found
+    # on the API Access tab on the Google APIs
+    # Console <http://code.google.com/apis/console>.
+    client_secrets = os.path.join(os.path.dirname(filename),
+                                  'client_secrets.json')
+
+    # Set up a Flow object to be used if we need to authenticate.
+    flow = client.flow_from_clientsecrets(client_secrets,
+                                          scope=scope,
+                                          message=tools.message_if_missing(client_secrets))
+
+    # Prepare credentials, and authorize HTTP object with them.
+    # If the credentials don't exist or are invalid run through the native client
+    # flow. The Storage object will ensure that if successful the good
+    # credentials will get written back to a file.
+    storage = file.Storage(name + '.dat')
+    credentials = storage.get()
+    if credentials is None or credentials.invalid:
+        flags.noauth_local_webserver = True
+        credentials = tools.run_flow(flow, storage, flags)
+    http = credentials.authorize(http=build_http())
+    if discovery_filename is None:
+        # Construct a service object via the discovery service.
+        service = discovery.build(name, version, http=http)
+    else:
+        # Construct a service object using a local discovery document file.
+        with open(discovery_filename) as discovery_file:
+            service = discovery.build_from_document(
+                discovery_file.read(),
+                base='https://www.googleapis.com/',
+                http=http)
+    return (service, flags)
+
 
 def replace_object_in_blog_post(service, blogId, postId):
     posts = service.posts()
