@@ -36,9 +36,10 @@ python create_entry_for_amara.py --blogId <blogId> --postId <postId> --language_
 .env and client_secrets.json
 
 ## Docker file
-
-docker build -f Dockerfile -t diegoami/musicblog_scripts:latest .
+```
+docker build -f Dockerfile-flaskamara -t diegoami/musicblog_scripts:latest .
 export CWD=$(pwd)
-docker run -v $CWD/.env:/opt/.env -v $CWD/client_secrets.json:/opt/client_secrets.json -v $CWD/blogger.dat:/opt/blogger.dat -it diegoami/musicblog_scripts:latest bash
+docker run -v $CWD/.env:/opt/.env -v $CWD/client_secrets.json:/opt/client_secrets.json -v $CWD/blogger.dat:/opt/blogger.dat -it diegoami/flaskamara:latest bash
 
-docker run -p 5001:5001 -v $CWD/.env:/opt/.env -v $CWD/client_secrets.json:/opt/client_secrets.json -v $CWD/blogger.dat:/opt/blogger.dat -it diegoami/musicblog_scripts:latest
+docker run -p 5001:5001 -v $CWD/.env:/opt/.env -v $CWD/client_secrets.json:/opt/client_secrets.json -v $CWD/blogger.dat:/opt/blogger.dat -it diegoami/flaskamara:latest
+```
