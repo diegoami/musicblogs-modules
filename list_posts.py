@@ -37,10 +37,9 @@ def update_blog_collection(posts_collection, blogId, apiKey, olddata=None):
                 else:
                     print("post {} unchanged".format(blogPost.postId))
             else:
-                print("inserting {} ".format(blogPost))
-
+                print("inserting {} ".format(blogPost.postId))
                 posts_collection.insert_one(blogPost._asdict())
-                print("inserted {} ".format(blogPost._asdict()))
+                print("inserted {} ".format(blogPost.postId))
     for postid in postids:
         posts_collection.delete_one({'postId': postid})
         print("post {} deleted".format(postid))
