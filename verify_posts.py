@@ -5,7 +5,6 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 import sys
-
 from legacy import youtube_tools
 
 import argparse
