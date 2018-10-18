@@ -20,8 +20,12 @@ def verify_blog_collection(posts_collection, blogId, apiKey, data=None):
         if not blogPost:
             continue
 
-        if not hasattr(blogPost, "postId"):
+        if not hasattr(blogPost, "videoId"):
             continue
+
+        if not blogPost.videoId:
+            continue
+
 
         validLink = youtube_tools.verify_link(blogPost.title, blogPost.videoId, apiKey)
         if not validLink:

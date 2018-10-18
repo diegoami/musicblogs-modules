@@ -15,7 +15,7 @@ def verify_link(title,code,api_key):
             else:
                 if 'contentDetails' in items[0]:
                     contentDetails = items[0]['contentDetails']
-                    if 'regionRestriction' in contentDetails and 'blocked' in contentDetails['regionRestriction'] and 'PL' in contentDetails['regionRestriction']['blocked']:
+                    if 'regionRestriction' in contentDetails and 'blocked' in contentDetails['regionRestriction'] and 'DE' in contentDetails['regionRestriction']['blocked']:
                         return False
                     else:
                         return True
