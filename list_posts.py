@@ -29,11 +29,11 @@ def update_blog_collection(posts_collection, blogId, apiKey, olddata=None):
                 update_key, update_value = {'postId': blogPost.postId}, {k: v for k, v in blogPost._asdict().items() if k not in "postId"}
 
                 if blogPost  != tdata[blogPost.postId]:
-                    print("updating {} to {}".format(update_key, update_value ))
+                    print("updating {}".format(update_key ))
 
 
                     posts_collection.update_one(update_key,   { '$set' : update_value } )
-                    print("updated {} to {}".format(update_key, update_value))
+                    print("updated {} ".format(update_key))
                 else:
                     print("post {} unchanged".format(blogPost.postId))
             else:
