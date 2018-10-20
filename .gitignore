@@ -61,7 +61,6 @@ blogger.dat
 legacy/environment.py
 *.json
 *.bat
-*.txt
 *.csv
 amara/amara_env.py
 *env.py
