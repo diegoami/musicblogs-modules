@@ -1850,9 +1850,6 @@ Successfully processed videos 4gLLEPB-GZo in post 6146743937421359153 : Zaho - D
 Successfully processed videos 4J39Ol6T0Xw in post 2369091034002307504 : TAL - Rien N'est Parfait [Clip Officiel]
 Successfully processed videos E-14_HyZUr4 in post 6225291573900259815 : Shy'm - La Première Fois [Clip Officiel]
 Successfully processed videos 03-V4y-giBI in post 1154647437286260923 : Jenifer - Au Soleil
-=========================================================
-MISSING VIDEO nBI0bDH8W28 IN POST 7864265955925023798 : Vianney - Pas là
-=========================================================
 Successfully processed videos OijSJIdyHo8 in post 5104187440350353502 : France Gall - Si maman, si (1977)
 Successfully processed videos ydtryV65UGk in post 7916449303885325221 : ZAZ - "Sous le ciel de Paris"
 Successfully processed videos fOIW1yIyHF8 in post 153215939943302686 : ZAZ - "La lessive"
@@ -2176,7 +2173,6 @@ Successfully processed videos M9e6TsDRIns in post 6307659651069325872 : Анна
 Successfully processed videos lKzOubpE_1s in post 194314280823152388 : Анна Седокова - Ни слова о нем
 Successfully processed videos twWmXAS9skM in post 6389127127601842087 : Ирина Дубцова - Факт
 Successfully processed videos fX8ibm3aGew in post 3800889362579718984 : ЕВА – Посмотри
-Successfully processed videos Cm_CxXdM5Bw in post 6028823754355277922 : Алена Апина - Давай так
 Successfully processed videos N6mR1PT9CCQ in post 3824694826103011910 : Elvira T – Зараза
 Successfully processed videos sjZ0vLZgBIw in post 2247737959898640347 : Самира – Ради Любви
 Successfully processed videos i-lSC3B9Wk0 in post 8574094783460336065 : Наталка Карпа - Ти мій тип
@@ -2614,9 +2610,7 @@ Successfully processed videos vYKCy_skmYw in post 200462535439982435 : Кира 
 Successfully processed videos qp-oam39sRU in post 6496765907709939108 : NIKITA - ВДЫХАЙ
 Successfully processed videos B-H9_OAQsCc in post 1616054190578733169 : Елена Темникова - Ревность
 Successfully processed videos cQbVr19rJf8 in post 4146990377250182566 : Яна Соломко - Гимн счастливой женщины
-=========================================================
-MISSING VIDEO eVsLySW-bnY IN POST 2192889326484053474 : Эрика - Весь мир
-=========================================================
+Successfully processed videos xJvPoaLBw-k in post 2192889326484053474 : Эрика - Весь мир
 Successfully processed videos e949kCZz8g0 in post 2161906477511703658 : Виолетта Дядюра (VIA-Летта) - С чего начать
 Successfully processed videos oRv2qNvWvyc in post 3499587604471766594 : Натали - Володя
 Successfully processed videos LhcIoWDSvQU in post 7030842247150699799 : Юлианна Караулова - Ты не такой
@@ -3248,9 +3242,7 @@ Successfully processed videos IZWbYp-qhrs in post 5149921028107979458 : Ната
 Successfully processed videos 4Z0T03asvv8 in post 4893747174783271500 : Юлия Войс - Ненавижу любя
 Successfully processed videos A4tIGpefqF8 in post 6339721860950955593 : Пропаганда - Яй-я
 Successfully processed videos 3hemztXn33E in post 2301868068930473988 : Алсу - "Нет тебя дороже"
-=========================================================
-MISSING VIDEO uJBMI96W1RE IN POST 4616332168925821 : Юлия Савичева Стоп
-=========================================================
+Successfully processed videos PFIR9UT2EOQ in post 4616332168925821 : Юлия Савичева Стоп
 Successfully processed videos dxnYZR2lzPs in post 7223766049676569769 : Максим-Я люблю тебя
 Successfully processed videos 1DYmmPxAlyg in post 5786092696939682638 : Ани Лорак - Красиво
 Successfully processed videos JCv2kveuE3A in post 4870241859387872902 : LOBODA - Облака
@@ -3353,9 +3345,7 @@ Successfully processed videos uDQ5lzfCmqA in post 5208354519916365999 : План
 Successfully processed videos f08IwbowGF4 in post 910352019028115197 : Mirami feat. VovaZiL'vova - Сексуальна
 Successfully processed videos T6kVFmf0soY in post 7462867678942916044 : Юля Савичева - Сердцебиение
 Successfully processed videos tKqD0o_pkrA in post 4998086821204698804 : DJ Slon Джимми Джимми
-=========================================================
-MISSING VIDEO _jds3k2Zk3U IN POST 2937739691515506184 : Юлия Савичева - Зима
-=========================================================
+Successfully processed videos gtAAm2Br8ic in post 2937739691515506184 : Юлия Савичева - Зима
 Successfully processed videos zAU--cBIV_k in post 2956470420466872948 : Лия Шамсина  - UP UP
 Successfully processed videos -yZ836bDHVU in post 1448576971413845480 : Алина Гросу - Танцуют все!
 Successfully processed videos Py0PZHUmGMI in post 1254146619053823681 : Светлана Светикова - Ночь
@@ -3592,9 +3582,7 @@ Successfully processed videos hbNDlZak_0c in post 2661504486422403849 : Согд
 Successfully processed videos Q8oRahfDCkw in post 547179890570242712 : 100 вершин, Эмилия Вишневская
 Successfully processed videos 3wWLTxRhr5I in post 1298355319936568105 : Нюша - Ты обещал
 Successfully processed videos pr1NOothxxk in post 4790008766108758423 : Юлия Савичева - Никак
-=========================================================
-MISSING VIDEO rJ-29Ol5TaQ IN POST 6761840779038476380 : Юлия Савичева - Мало
-=========================================================
+Successfully processed videos RiZ5lHwjv6U in post 6761840779038476380 : Юлия Савичева - Мало
 Successfully processed videos LHK4vj-JrwA in post 7339648994930381955 : Ирина Билык - О любви...
 Successfully processed videos YjHtjSd7i6E in post 5393843600670344526 : Катя Лель - Долетай
 Successfully processed videos Tn-z95ev64s in post 7370207633064353253 : Катя Лель - Мой мармеладный
@@ -3612,3 +3600,4 @@ Successfully processed videos 4raeDRYjkAU in post 7338569842236926132 : Ирин
 MISSING VIDEO RUSRUSRUSRU IN POST 6911723806392765220 : Technical Post - Russian Blog
 =========================================================
 Successfully processed videos aLP0RrK3ztE in post 1013768165101539144 : Клава Кока - Крутишь
+Successfully processed videos VeVUenVVe0g in post 3019389652347695506 : Selfie - Лед
