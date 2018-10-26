@@ -2458,7 +2458,9 @@ Successfully processed videos sajZP8ACfRE in post 230730156163217842 : Евге�
 Successfully processed videos 4H78rCl_cFI in post 3462734764205989594 : SEREBRO – Пройдёт
 Successfully processed videos 4U97Tp8ZLU8 in post 3638456831096158384 : Аида - Не обещай
 Successfully processed videos eYaDTMbxIrY in post 3434782100071308805 : Вирус - Счастье
-Successfully processed videos Yvbilgo-Xrw in post 6314301201195065267 : Вирус - Девчонка
+=========================================================
+MISSING VIDEO Yvbilgo-Xrw IN POST 6314301201195065267 : Вирус - Девчонка
+=========================================================
 Successfully processed videos znrFtXPG53U in post 1768211691913937431 : Вирус - Все пройдет
 Successfully processed videos iZ8RPNn3i0k in post 3225811729165250680 : Вика Воронина - Привет, Москва!
 Successfully processed videos FH1ZrDoFhwQ in post 1466304925992902531 : Любовные истории - Возвращайся
@@ -2766,7 +2768,9 @@ Successfully processed videos rr3MYnzsEYE in post 6742571571501716016 : Катя
 Successfully processed videos HKxxUAaa4uE in post 2032073090688382049 : Ани Лорак - Осенняя любовь
 Successfully processed videos u2_730ISSXk in post 4334899119639371182 : Светлана Тарабарова - Не касается
 Successfully processed videos kdSRnHB10jc in post 5279032265787290611 : Лавика - В городе весна
-Successfully processed videos g4Rg7Z7B_30 in post 6565542707432879628 : Вирус - Ручки
+=========================================================
+MISSING VIDEO g4Rg7Z7B_30 IN POST 6565542707432879628 : Вирус - Ручки
+=========================================================
 Successfully processed videos 7EB3bLCWjXU in post 4474623340503557824 : Мари Краймбрери - Давай Навсегда
 Successfully processed videos Loz06GXPFR8 in post 4218228655310074687 : Зина Куприянович - Навстречу ветру
 Successfully processed videos dsioPbL8pug in post 6825353098494888547 : Elvira T - МОРЕ
