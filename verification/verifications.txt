@@ -1142,6 +1142,16 @@ Successfully processed videos Qsv5ylipT-E in post 973095690240218216 : Tanja Ža
 =========================================================
 MISSING VIDEO SSLSSLSSLSS IN POST 6740435241511694467 : Technical Post - South Slavic Lyrics
 =========================================================
+Successfully processed videos vyyVnFUoQfk in post 8347828127674543283 : Mari Jana - Dijamant
+Successfully processed videos 9sMN3DGavt8 in post 5662775919884589977 : Danijela Martinović - Brodolom
+Successfully processed videos wtRQNK9NIqI in post 4468106157382505837 : Lana Jurčević - Ubile usne moje
+Successfully processed videos vOhNFHHh78M in post 3498257747689255709 : Domenica Žuvela - Baš Baš
+Successfully processed videos UAzcuE2wcyY in post 4960345167739170465 : Nina Badric - Rekao si
+Successfully processed videos VSrSiyPsbDQ in post 3504596530409071707 : TIJANA DAPČEVIĆ - KILOMETRI
+Successfully processed videos BrLpBmG7u0E in post 7141586986905891460 : Colonia - Melem
+Successfully processed videos yQG3qOljUsM in post 2140414170872466787 : SEVERINA feat. PETAR GRAŠO - UNAPRIJED GOTOVO
+Successfully processed videos Iu6XPp2L07E in post 5053866607389786034 : MILENA CERANIC - SEFICA
+Successfully processed videos OskcEEMJ_FE in post 1626197031670674090 : Lejla Zahirović - Boginja
 Successfully processed videos hFCuIiEtMX4 in post 2136301947250011005 : ADDA - Mama Soacra
 Successfully processed videos 7R7dHPHzI3A in post 7978876831907752637 : Lora - Pleaca
 Successfully processed videos 2bF6KJSt7mc in post 1433172030263518272 : VOLTAJ - Kori Gent
@@ -1424,7 +1434,9 @@ Successfully processed videos KifQ5BXcie0 in post 7043433534756565271 : Ruby- St
 Successfully processed videos ruIM9MvfcNg in post 6606286500732952315 : Ana Baniciu – Aroma de iarna
 Successfully processed videos c01MaJ67vf4 in post 5609086523934832569 : Alina - Tu esti vara mea
 Successfully processed videos yCQIj22ghjY in post 2145483276937308819 : Alessia - Plouă
-Successfully processed videos OLue0VGOpDU in post 2715122208635887790 : Candy - Te iert
+=========================================================
+MISSING VIDEO OLue0VGOpDU IN POST 2715122208635887790 : Candy - Te iert
+=========================================================
 Successfully processed videos AS7dB1Ll9eg in post 3524683520468803707 : LORA - UN VIS
 Successfully processed videos 5FD3fQrVYfI in post 7247939938224792396 : Betty Blue - Intr-o secunda
 Successfully processed videos gMuLIjjZ6JE in post 8774834266497270206 : Elena - De neinlocuit
@@ -1505,6 +1517,12 @@ Successfully processed videos sjb6tHcbPig in post 1434509241283674927 : Candy - 
 =========================================================
 MISSING VIDEO ROMROMROMRO IN POST 4816947456490118715 : Test Post - Romanian Lyrics
 =========================================================
+Successfully processed videos W2PJk7VnT50 in post 8069567477011639055 : Alexia Talavutis - Lumea mea
+Successfully processed videos WNTaNdjZTac in post 7626718267537686407 : Alexandra Mitroi - Uita
+Successfully processed videos XXWwRJLB5Fs in post 1052740884516744049 : Nico - Oare cine?
+Successfully processed videos oyfhZPvIpW4 in post 3139303769198861799 : ANTONIA feat. Connect-R - Adio
+Successfully processed videos Ihz2yWuoEIY in post 8872187701255570666 : Nicole Cherry - Danseaza amandoi
+Successfully processed videos P00jf-_Up24 in post 790661728408973734 : Iuliana Beregoi - Cine sunt eu
 Successfully processed videos 7AGt_qpHl30 in post 3454792388918804952 : Tereza Kerndlová - Když Nebe Padá Nám
 Successfully processed videos Vk7dFgYnbsM in post 2432646889854896542 : Lucie Vondráčková - Paralelní světy
 Successfully processed videos vB8MOXAlNao in post 4077386673127780254 : Rúzsa Magdolna - Aduász
@@ -1702,6 +1720,7 @@ Successfully processed videos wduImA4aD6I in post 823400707607547787 : Unique - 
 =========================================================
 MISSING VIDEO EASEASEASEA IN POST 8862784476786227171 : Test Post - Eastern Lyrics
 =========================================================
+Successfully processed videos 4PdowcESMBA in post 4492986815296411983 : VERONA - Parabola
 Successfully processed videos dzWit_mevK0 in post 4811006299972780875 : Lara Fabian - Papillon
 Successfully processed videos PZpnN2UoASM in post 3407314393744784346 : Najoua Belyzel - Cheveux aux vents
 Successfully processed videos 2z0AJrnUVLY in post 8855178202712189820 : Kamini - Renaissance
@@ -2173,6 +2192,7 @@ Successfully processed videos M9e6TsDRIns in post 6307659651069325872 : Анна
 Successfully processed videos lKzOubpE_1s in post 194314280823152388 : Анна Седокова - Ни слова о нем
 Successfully processed videos twWmXAS9skM in post 6389127127601842087 : Ирина Дубцова - Факт
 Successfully processed videos fX8ibm3aGew in post 3800889362579718984 : ЕВА – Посмотри
+Successfully processed videos Cm_CxXdM5Bw in post 6028823754355277922 : Алена Апина - Давай так
 Successfully processed videos N6mR1PT9CCQ in post 3824694826103011910 : Elvira T – Зараза
 Successfully processed videos sjZ0vLZgBIw in post 2247737959898640347 : Самира – Ради Любви
 Successfully processed videos i-lSC3B9Wk0 in post 8574094783460336065 : Наталка Карпа - Ти мій тип
@@ -2457,7 +2477,7 @@ Successfully processed videos sajZP8ACfRE in post 230730156163217842 : Евге�
 Successfully processed videos 4H78rCl_cFI in post 3462734764205989594 : SEREBRO – Пройдёт
 Successfully processed videos 4U97Tp8ZLU8 in post 3638456831096158384 : Аида - Не обещай
 Successfully processed videos eYaDTMbxIrY in post 3434782100071308805 : Вирус - Счастье
-Successfully processed videos Yvbilgo-Xrw in post 6314301201195065267 : Вирус - Девчонка
+Successfully processed videos U-u9lCo0Ils in post 6314301201195065267 : Вирус - Девчонка
 Successfully processed videos znrFtXPG53U in post 1768211691913937431 : Вирус - Все пройдет
 Successfully processed videos iZ8RPNn3i0k in post 3225811729165250680 : Вика Воронина - Привет, Москва!
 Successfully processed videos FH1ZrDoFhwQ in post 1466304925992902531 : Любовные истории - Возвращайся
@@ -2765,7 +2785,7 @@ Successfully processed videos rr3MYnzsEYE in post 6742571571501716016 : Катя
 Successfully processed videos HKxxUAaa4uE in post 2032073090688382049 : Ани Лорак - Осенняя любовь
 Successfully processed videos u2_730ISSXk in post 4334899119639371182 : Светлана Тарабарова - Не касается
 Successfully processed videos kdSRnHB10jc in post 5279032265787290611 : Лавика - В городе весна
-Successfully processed videos g4Rg7Z7B_30 in post 6565542707432879628 : Вирус - Ручки
+Successfully processed videos 5-qou2hgt2Q in post 6565542707432879628 : Вирус - Ручки
 Successfully processed videos 7EB3bLCWjXU in post 4474623340503557824 : Мари Краймбрери - Давай Навсегда
 Successfully processed videos Loz06GXPFR8 in post 4218228655310074687 : Зина Куприянович - Навстречу ветру
 Successfully processed videos dsioPbL8pug in post 6825353098494888547 : Elvira T - МОРЕ
@@ -3601,3 +3621,10 @@ MISSING VIDEO RUSRUSRUSRU IN POST 6911723806392765220 : Technical Post - Russian
 =========================================================
 Successfully processed videos aLP0RrK3ztE in post 1013768165101539144 : Клава Кока - Крутишь
 Successfully processed videos VeVUenVVe0g in post 3019389652347695506 : Selfie - Лед
+Successfully processed videos A7Zoucr4sV8 in post 7251417667337760245 : Иди - Татьяна Буланова
+Successfully processed videos QY-UMPVV5vU in post 397119602175968006 : Анна Седокова - Шантарам
+Successfully processed videos KcLUWNr0N7k in post 561061996710817327 : Alyosha - Dama
+Successfully processed videos EE29Rti1V44 in post 1803597404565702201 : Мари Краймбрери - Поговори со мной
+Successfully processed videos _cpKZ9Rn8OY in post 1104884438855995608 : ВИРУС! - Я бы хотела
+Successfully processed videos Xeg78Vv0ETU in post 1363385753860689927 : Евгения - Не потеряй мою любовь
+Successfully processed videos 1NI-Ry4oWJU in post 5487914660243679929 : Александра Белякова - Обернись
