@@ -265,7 +265,9 @@ Successfully processed videos 9FiluvGdamM in post 4847018787801434574 : Ania Sza
 Successfully processed videos wO_lA6hV1Ag in post 552821173260186357 : Mela Koteluk - Melodia Ulotna
 Successfully processed videos kYykCDu3JrQ in post 2882799998398562971 : Kasia Wilk - Po Prostu
 Successfully processed videos AY9cwSUCG7k in post 4902956578808060055 : Kasia Wilk - Do kiedy jestem
-Successfully processed videos XOq6F3CqQLQ in post 2603439649927909079 : Mela Koteluk - Tragikomedia
+=========================================================
+MISSING VIDEO XOq6F3CqQLQ IN POST 2603439649927909079 : Mela Koteluk - Tragikomedia
+=========================================================
 Successfully processed videos lKk78SzNv44 in post 4820314169360373600 : Puder - Co zostało z nas
 Successfully processed videos wtw7jUBX_ys in post 7149097972623446510 : Sarsa - Indiana
 Successfully processed videos B-rKxxm8EsQ in post 522592781529251815 : Maria Niklinska - Jesli Tylko Chcesz
@@ -542,6 +544,7 @@ Successfully processed videos Hm-LIKnNflk in post 846259909284911300 : Gosia And
 =========================================================
 MISSING VIDEO POLPOLPOLPO IN POST 4362082921220402757 : Technical post - Polish Lyrics
 =========================================================
+Successfully processed videos ni-VPXPpi1Q in post 7652118872290306032 : BOVSKA - XYZ
 Successfully processed videos 73reXUqghbc in post 6196556388528231427 : JELENA ROZGA - OSTANI
 Successfully processed videos g9PZOnU0w4I in post 8494819157938259679 : KIJA FEAT MINISTARKE - NE VRACAM SE NA STARO
 Successfully processed videos 2oedZZGvbOA in post 4645831616374827065 : INA GARDIJAN - PRVA DAMA
@@ -2007,6 +2010,8 @@ Successfully processed videos vkiyW0vqat8 in post 5504106228817495491 : Mylene F
 =========================================================
 MISSING VIDEO FRAFRAFRAFR IN POST 2162255099594712492 : Test Post - French Lyrics
 =========================================================
+Successfully processed videos EagrkSuaKPc in post 4733312654104337322 : Jenifer - Encore et encore
+Successfully processed videos fSChfByWNqI in post 1544352190202127859 : Vanessa Paradis - Ces mots simples
 Successfully processed videos bXuwhnlg13A in post 385761067360810720 : Elisa - Se Piovesse Il Tuo Nome
 Successfully processed videos A1hchTlWVfo in post 8047103689707608755 : Laura Pausini - La soluzione
 Successfully processed videos SQa4ColupuA in post 2921899976525565837 : Noemi - Porcellana
