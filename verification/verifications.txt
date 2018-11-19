@@ -543,6 +543,7 @@ Successfully processed videos Hm-LIKnNflk in post 846259909284911300 : Gosia And
 MISSING VIDEO POLPOLPOLPO IN POST 4362082921220402757 : Technical post - Polish Lyrics
 =========================================================
 Successfully processed videos ni-VPXPpi1Q in post 7652118872290306032 : BOVSKA - XYZ
+Successfully processed videos 9B9kT2VQ7us in post 4118624427545499464 : Sabina Jeszka - Jeśli Żyć
 Successfully processed videos 73reXUqghbc in post 6196556388528231427 : JELENA ROZGA - OSTANI
 Successfully processed videos g9PZOnU0w4I in post 8494819157938259679 : KIJA FEAT MINISTARKE - NE VRACAM SE NA STARO
 Successfully processed videos 2oedZZGvbOA in post 4645831616374827065 : INA GARDIJAN - PRVA DAMA
@@ -1153,6 +1154,9 @@ Successfully processed videos BrLpBmG7u0E in post 7141586986905891460 : Colonia 
 Successfully processed videos yQG3qOljUsM in post 2140414170872466787 : SEVERINA feat. PETAR GRAŠO - UNAPRIJED GOTOVO
 Successfully processed videos Iu6XPp2L07E in post 5053866607389786034 : MILENA CERANIC - SEFICA
 Successfully processed videos OskcEEMJ_FE in post 1626197031670674090 : Lejla Zahirović - Boginja
+Successfully processed videos NTPU2ZH4Vfo in post 1505140343385348248 : JOVANA NIKOLIC - DOBAR SI
+Successfully processed videos jsOQqfLY7Bo in post 4506807227673598111 : Antonija Šola - Gdje je srce tu je dom
+Successfully processed videos zHwkR_jLTHQ in post 3642034231969694707 : Danijela Martinović - Nemam mjeru
 Successfully processed videos hFCuIiEtMX4 in post 2136301947250011005 : ADDA - Mama Soacra
 Successfully processed videos 7R7dHPHzI3A in post 7978876831907752637 : Lora - Pleaca
 Successfully processed videos 2bF6KJSt7mc in post 1433172030263518272 : VOLTAJ - Kori Gent
@@ -1524,6 +1528,12 @@ Successfully processed videos XXWwRJLB5Fs in post 1052740884516744049 : Nico - O
 Successfully processed videos oyfhZPvIpW4 in post 3139303769198861799 : ANTONIA feat. Connect-R - Adio
 Successfully processed videos Ihz2yWuoEIY in post 8872187701255570666 : Nicole Cherry - Danseaza amandoi
 Successfully processed videos P00jf-_Up24 in post 790661728408973734 : Iuliana Beregoi - Cine sunt eu
+Successfully processed videos tMtsaKjwcXA in post 6398055427450491921 : Voltaj - Amprente
+Successfully processed videos sUICzkLWp3U in post 8702043531319528511 : Sandra N - De dragul tau
+Successfully processed videos O2JyOz2wFgk in post 869985046576406720 : Irina Rimes - Nu Stii Tu Sa Fii Barbat
+Successfully processed videos y-rrtmIybNU in post 911577617461586164 : Alina Eremia - 69
+Successfully processed videos DB8M3g-nKp8 in post 4272504060241589365 : Lora - Soare negru
+Successfully processed videos -EcLPkVwlqA in post 8960174039847735386 : Lidia Buble - Tu
 Successfully processed videos 7AGt_qpHl30 in post 3454792388918804952 : Tereza Kerndlová - Když Nebe Padá Nám
 Successfully processed videos Vk7dFgYnbsM in post 2432646889854896542 : Lucie Vondráčková - Paralelní světy
 Successfully processed videos vB8MOXAlNao in post 4077386673127780254 : Rúzsa Magdolna - Aduász
@@ -3635,3 +3645,7 @@ Successfully processed videos 4raeDRYjkAU in post 7338569842236926132 : Ирин
 =========================================================
 MISSING VIDEO RUSRUSRUSRU IN POST 6911723806392765220 : Technical Post - Russian Blog
 =========================================================
+Successfully processed videos pb_xGZA7zl0 in post 4810524268912020938 : Мика Ньютон - Ангел
+Successfully processed videos 5Fv19KVVya8 in post 3162112541083174897 : KAZKA — CRY / ПЛАКАЛА
+Successfully processed videos 8fVwK7yx0Xo in post 3840383173212197860 : ВИА ГРА – «Я полюбила монстра»
+Successfully processed videos fMJgDwvSMyc in post 2486188812586868709 : МакSим - Мои секреты
