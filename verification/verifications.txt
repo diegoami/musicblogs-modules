@@ -2020,6 +2020,7 @@ MISSING VIDEO FRAFRAFRAFR IN POST 2162255099594712492 : Test Post - French Lyric
 =========================================================
 Successfully processed videos EagrkSuaKPc in post 4733312654104337322 : Jenifer - Encore et encore
 Successfully processed videos fSChfByWNqI in post 1544352190202127859 : Vanessa Paradis - Ces mots simples
+Successfully processed videos I8-lmhRTSoE in post 6948712955214351688 : Isabelle Boulay - Mieux qu'ici-bas
 Successfully processed videos bXuwhnlg13A in post 385761067360810720 : Elisa - Se Piovesse Il Tuo Nome
 Successfully processed videos A1hchTlWVfo in post 8047103689707608755 : Laura Pausini - La soluzione
 Successfully processed videos SQa4ColupuA in post 2921899976525565837 : Noemi - Porcellana
@@ -2179,6 +2180,8 @@ Successfully processed videos xB6QA7snWqk in post 5555894311840284961 : Anna Tat
 =========================================================
 MISSING VIDEO ITAITAITAIT IN POST 8354660777270402595 : Test blog - Italian Lyrics
 =========================================================
+Successfully processed videos WoE7qA9-1tE in post 8083032600899513030 : Alessandra Amoroso - Trova un modo
+Successfully processed videos KIacTWFCm5E in post 8875169685669297730 : Emma - Mondiale
 Successfully processed videos -T5G2j9Og8c in post 5848803195056160208 : Импульсы - Елена Темникова
 Successfully processed videos jOEas7bGM8Q in post 2863579059768961411 : Таисия Повалий - Я помолюсь за тебя
 Successfully processed videos gs1JrhjUpnc in post 3529843302676686150 : LOBODA - SuperSTAR
@@ -3649,3 +3652,4 @@ Successfully processed videos pb_xGZA7zl0 in post 4810524268912020938 : Мика
 Successfully processed videos 5Fv19KVVya8 in post 3162112541083174897 : KAZKA — CRY / ПЛАКАЛА
 Successfully processed videos 8fVwK7yx0Xo in post 3840383173212197860 : ВИА ГРА – «Я полюбила монстра»
 Successfully processed videos fMJgDwvSMyc in post 2486188812586868709 : МакSим - Мои секреты
+Successfully processed videos eYs8jLv_tjw in post 4885567516434302544 : Камила Измайлова - Я дура
