@@ -1439,9 +1439,7 @@ Successfully processed videos KifQ5BXcie0 in post 7043433534756565271 : Ruby- St
 Successfully processed videos ruIM9MvfcNg in post 6606286500732952315 : Ana Baniciu – Aroma de iarna
 Successfully processed videos c01MaJ67vf4 in post 5609086523934832569 : Alina - Tu esti vara mea
 Successfully processed videos yCQIj22ghjY in post 2145483276937308819 : Alessia - Plouă
-=========================================================
-MISSING VIDEO OLue0VGOpDU IN POST 2715122208635887790 : Candy - Te iert
-=========================================================
+Successfully processed videos qly6IGgbIN8 in post 2715122208635887790 : Candy - Te iert
 Successfully processed videos AS7dB1Ll9eg in post 3524683520468803707 : LORA - UN VIS
 Successfully processed videos 5FD3fQrVYfI in post 7247939938224792396 : Betty Blue - Intr-o secunda
 Successfully processed videos gMuLIjjZ6JE in post 8774834266497270206 : Elena - De neinlocuit
