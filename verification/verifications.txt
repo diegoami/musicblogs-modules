@@ -479,7 +479,9 @@ Successfully processed videos cKKWT4zR5aY in post 7022694777260594687 : Natalia 
 Successfully processed videos RaYShyAZYPA in post 8738321554256446647 : Natalia Kukulska - Decymy
 Successfully processed videos FOc0MRymV3U in post 7086480830698315832 : Magda - Nigdy Więcej
 Successfully processed videos ty3n87vbVe4 in post 3600693443293210309 : Brodka - Mial byc slub
-Successfully processed videos 2aXbbnLANFs in post 3365390694012091709 : Ania Wyszkoni - Zakochaj nas
+=========================================================
+MISSING VIDEO 2aXbbnLANFs IN POST 3365390694012091709 : Ania Wyszkoni - Zakochaj nas
+=========================================================
 Successfully processed videos cDDpYG-HhZw in post 6017638912414247024 : Jula - Nie Zatrzymasz Mnie ( Video )
 Successfully processed videos P76cebZzFr4 in post 1219598423098790524 : Jula - Ślad
 Successfully processed videos y3bmeafP778 in post 2684727995570855607 : Kasia Cerekwicka - Na kolana
