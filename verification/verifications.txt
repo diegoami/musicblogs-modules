@@ -1540,6 +1540,8 @@ Successfully processed videos DB8M3g-nKp8 in post 4272504060241589365 : Lora - S
 Successfully processed videos -EcLPkVwlqA in post 8960174039847735386 : Lidia Buble - Tu
 Successfully processed videos nDUtYC_LZ4U in post 5762123890370952959 : Delia Rus - Iarta-ma
 Successfully processed videos Y3o70u5-qAw in post 2848408925976500739 : Irina Rimes - Da Ce Tu
+Successfully processed videos f0kX44ChU3s in post 8438114294585725624 : Adda - De Piatra
+Successfully processed videos -uxtFVIh9us in post 8178797632334499624 : MIRA - Tu ma faci
 Successfully processed videos 7AGt_qpHl30 in post 3454792388918804952 : Tereza Kerndlová - Když Nebe Padá Nám
 Successfully processed videos Vk7dFgYnbsM in post 2432646889854896542 : Lucie Vondráčková - Paralelní světy
 Successfully processed videos vB8MOXAlNao in post 4077386673127780254 : Rúzsa Magdolna - Aduász
@@ -2195,7 +2197,7 @@ Successfully processed videos 19A_rFyugnc in post 8658489176480873985 : SEREBRO 
 Successfully processed videos Pl8u2kY_3IQ in post 4556030362859385286 : Не модные - Елена Темникова
 Successfully processed videos Tw6j5wLMzWE in post 838236031089834313 : Анна Плетнёва "Винтаж" - Воскресный ангел
 Successfully processed videos PjTVcLNUbMA in post 8320825886763860009 : Таисия Повалий - Ты в глаза мне посмотри
-Successfully processed videos WCrBleK_hms in post 5220524536226090165 : Полина Гагарина - Камень на сердце
+Successfully processed videos PgOXGf6fgtc in post 5220524536226090165 : Полина Гагарина - Камень на сердце
 Successfully processed videos Ai0m-ucz4eM in post 3454355148684380945 : Горячий шоколад - Сжигай меня дотла
 Successfully processed videos MILxQKh2iZw in post 3642905533255066390 : Мари Краймбрери - На тату
 Successfully processed videos l51R9xIlNV8 in post 4098020116905921947 : ІРИНА ФЕДИШИН - БІЛІ ТРОЯНДИ
@@ -3660,3 +3662,4 @@ Successfully processed videos 8fVwK7yx0Xo in post 3840383173212197860 : ВИА �
 Successfully processed videos fMJgDwvSMyc in post 2486188812586868709 : МакSим - Мои секреты
 Successfully processed videos eYs8jLv_tjw in post 4885567516434302544 : Камила Измайлова - Я дура
 Successfully processed videos 6CuAWiHt_6E in post 7577728734968683433 : Максим Фадеев feat. SEREBRO - Притяженья больше нет
+Successfully processed videos ebkTvL2Z_Uc in post 2747023062068987781 : Альбина Джанабаева - Хочешь
