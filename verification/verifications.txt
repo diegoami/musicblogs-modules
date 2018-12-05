@@ -1170,7 +1170,9 @@ Successfully processed videos NTPU2ZH4Vfo in post 1505140343385348248 : JOVANA N
 Successfully processed videos jsOQqfLY7Bo in post 4506807227673598111 : Antonija Šola - Gdje je srce tu je dom
 Successfully processed videos zHwkR_jLTHQ in post 3642034231969694707 : Danijela Martinović - Nemam mjeru
 Successfully processed videos nOl8UqZHlVg in post 4886265178209131444 : LUNA - Seceru
-Successfully processed videos lJdZ_I8EUvY in post 2186159077676423682 : Nina Donelli - Ljubav nema kraj
+=========================================================
+MISSING VIDEO lJdZ_I8EUvY IN POST 2186159077676423682 : Nina Donelli - Ljubav nema kraj
+=========================================================
 Successfully processed videos hFCuIiEtMX4 in post 2136301947250011005 : ADDA - Mama Soacra
 Successfully processed videos 7R7dHPHzI3A in post 7978876831907752637 : Lora - Pleaca
 Successfully processed videos 2bF6KJSt7mc in post 1433172030263518272 : VOLTAJ - Kori Gent
