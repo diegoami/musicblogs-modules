@@ -556,6 +556,7 @@ Successfully processed videos _ve25v7enjw in post 8413160745453026333 : Natalia 
 Successfully processed videos ywbmS_6ymnk in post 5036118804403181366 : Saszan - Zabierz Mnie Stąd ft. Wac Toja
 Successfully processed videos rPl2AVj7bHc in post 1583850408435783565 : Marysia Starosta - Dlatego
 Successfully processed videos -1H4vCY67P8 in post 1927981213562051539 : Doda - Nie wolno płakać
+Successfully processed videos 1ws2aKH-7DY in post 7977856888458107099 : Mela Koteluk - Ogniwo
 Successfully processed videos 73reXUqghbc in post 6196556388528231427 : JELENA ROZGA - OSTANI
 Successfully processed videos g9PZOnU0w4I in post 8494819157938259679 : KIJA FEAT MINISTARKE - NE VRACAM SE NA STARO
 Successfully processed videos 2oedZZGvbOA in post 4645831616374827065 : INA GARDIJAN - PRVA DAMA
@@ -1173,6 +1174,8 @@ Successfully processed videos nOl8UqZHlVg in post 4886265178209131444 : LUNA - S
 =========================================================
 MISSING VIDEO lJdZ_I8EUvY IN POST 2186159077676423682 : Nina Donelli - Ljubav nema kraj
 =========================================================
+Successfully processed videos 3y9O6ge1gR0 in post 4021042641852967312 : MIA BORISAVLJEVIC - SKANDAL
+Successfully processed videos erxYmQ2R4AY in post 3305613433713195364 : Učiteljice - NA USNAMA
 Successfully processed videos hFCuIiEtMX4 in post 2136301947250011005 : ADDA - Mama Soacra
 Successfully processed videos 7R7dHPHzI3A in post 7978876831907752637 : Lora - Pleaca
 Successfully processed videos 2bF6KJSt7mc in post 1433172030263518272 : VOLTAJ - Kori Gent
@@ -1553,6 +1556,10 @@ Successfully processed videos Y3o70u5-qAw in post 2848408925976500739 : Irina Ri
 Successfully processed videos f0kX44ChU3s in post 8438114294585725624 : Adda - De Piatra
 Successfully processed videos -uxtFVIh9us in post 8178797632334499624 : MIRA - Tu ma faci
 Successfully processed videos BmpkD09xfY4 in post 4905601825190927470 : Lora - Radacini
+Successfully processed videos JhP3lzzK_iI in post 1764852633008361228 : Delia - Traieste Frumos
+Successfully processed videos OjTOP4PDuHM in post 542473654114707116 : Elena - Luna alba
+Successfully processed videos 4IrC7Ot50P8 in post 7798197518092465252 : Delia Rus - Fericire
+Successfully processed videos Oy2fxDlnjBY in post 7516446621947324229 : Amna - E sarbatoare acum
 Successfully processed videos 7AGt_qpHl30 in post 3454792388918804952 : Tereza Kerndlová - Když Nebe Padá Nám
 Successfully processed videos Vk7dFgYnbsM in post 2432646889854896542 : Lucie Vondráčková - Paralelní světy
 Successfully processed videos vB8MOXAlNao in post 4077386673127780254 : Rúzsa Magdolna - Aduász
@@ -1751,6 +1758,7 @@ Successfully processed videos wduImA4aD6I in post 823400707607547787 : Unique - 
 MISSING VIDEO EASEASEASEA IN POST 8862784476786227171 : Test Post - Eastern Lyrics
 =========================================================
 Successfully processed videos 4PdowcESMBA in post 4492986815296411983 : VERONA - Parabola
+Successfully processed videos rSbCkdCdITo in post 4757518348752955154 : Mária Čírová - Dokonalý svet
 Successfully processed videos dzWit_mevK0 in post 4811006299972780875 : Lara Fabian - Papillon
 Successfully processed videos PZpnN2UoASM in post 3407314393744784346 : Najoua Belyzel - Cheveux aux vents
 Successfully processed videos 2z0AJrnUVLY in post 8855178202712189820 : Kamini - Renaissance
@@ -3675,3 +3683,5 @@ Successfully processed videos eYs8jLv_tjw in post 4885567516434302544 : Ками
 Successfully processed videos 6CuAWiHt_6E in post 7577728734968683433 : Максим Фадеев feat. SEREBRO - Притяженья больше нет
 Successfully processed videos ebkTvL2Z_Uc in post 2747023062068987781 : Альбина Джанабаева - Хочешь
 Successfully processed videos EJG7fruKxjo in post 883736430672757020 : Ани Лорак - Сон
+Successfully processed videos bvew26v7Stw in post 2160192696661863931 : Ольга Баскаева - Быть нужной
+Successfully processed videos cFhSrBC21PI in post 745881859485940973 : Евгения - Буду милой твоей
