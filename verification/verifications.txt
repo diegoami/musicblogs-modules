@@ -3384,7 +3384,9 @@ Successfully processed videos p5eXs1scsZU in post 3566264995909955055 : REFLEX -
 Successfully processed videos 02bQ6f-9pQ0 in post 4827559165063738184 : Лера Туманова - Новогодняя.mp4
 Successfully processed videos Z10ieDkzzsQ in post 3224817347878334558 : Mary - Зима
 Successfully processed videos DyJNUDTe0Zo in post 8099399184923790842 : Лавика - Крылья (LIVE)
-Successfully processed videos pW5n19vc0EI in post 6840789798517002631 : Фабрика - Она - это я(HD)
+=========================================================
+MISSING VIDEO pW5n19vc0EI IN POST 6840789798517002631 : Фабрика - Она - это я(HD)
+=========================================================
 Successfully processed videos CXRz16eEbIQ in post 2483623661224193543 : Тутси «Сто свечей (Рождественская)»
 Successfully processed videos cOUe2vyRThQ in post 4742971878538196426 : Валерия - Я буду ждать тебя
 Successfully processed videos 278tytJwuk0 in post 5785011824753077248 : Виа Сливки Буду я любить тебя
