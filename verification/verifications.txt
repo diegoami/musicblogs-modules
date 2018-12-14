@@ -479,9 +479,7 @@ Successfully processed videos cKKWT4zR5aY in post 7022694777260594687 : Natalia 
 Successfully processed videos RaYShyAZYPA in post 8738321554256446647 : Natalia Kukulska - Decymy
 Successfully processed videos FOc0MRymV3U in post 7086480830698315832 : Magda - Nigdy Więcej
 Successfully processed videos ty3n87vbVe4 in post 3600693443293210309 : Brodka - Mial byc slub
-=========================================================
-MISSING VIDEO 2aXbbnLANFs IN POST 3365390694012091709 : Ania Wyszkoni - Zakochaj nas
-=========================================================
+Successfully processed videos bU1iPkqbmvA in post 3365390694012091709 : Ania Wyszkoni - Zakochaj nas
 Successfully processed videos cDDpYG-HhZw in post 6017638912414247024 : Jula - Nie Zatrzymasz Mnie ( Video )
 Successfully processed videos P76cebZzFr4 in post 1219598423098790524 : Jula - Ślad
 Successfully processed videos y3bmeafP778 in post 2684727995570855607 : Kasia Cerekwicka - Na kolana
@@ -886,7 +884,9 @@ Successfully processed videos cNvTfnTtGB4 in post 2137198259113767223 : VIKI MIL
 Successfully processed videos w0AMj4ZP1jA in post 7861137183394013519 : Milica Pavlovic - La Fiesta
 Successfully processed videos -ReSxUz2wgQ in post 3669564777152232277 : Djavolice - Cokolada i Vanila
 Successfully processed videos GOAfE_d0SFE in post 4036239029179420415 : Ana Kokic - Pogresna ljubav
-Successfully processed videos iiOy6EqfHXU in post 6589694328523038923 : JELENA ROZGA - OTROV
+=========================================================
+MISSING VIDEO iiOy6EqfHXU IN POST 6589694328523038923 : JELENA ROZGA - OTROV
+=========================================================
 Successfully processed videos 6wxRF_Fu0kM in post 584758618263413804 : DANICA KRSTIC - SUZE ZA KRAJ
 Successfully processed videos x45J3SSZSRw in post 9056313464092328003 : PAMELA RAMLJAK - PRIJATELJICA
 Successfully processed videos 8Khp04xdJao in post 4521217048689004638 : PAMELA RAMLJAK - ISPOD KOŽE
@@ -1171,11 +1171,11 @@ Successfully processed videos NTPU2ZH4Vfo in post 1505140343385348248 : JOVANA N
 Successfully processed videos jsOQqfLY7Bo in post 4506807227673598111 : Antonija Šola - Gdje je srce tu je dom
 Successfully processed videos zHwkR_jLTHQ in post 3642034231969694707 : Danijela Martinović - Nemam mjeru
 Successfully processed videos nOl8UqZHlVg in post 4886265178209131444 : LUNA - Seceru
-=========================================================
-MISSING VIDEO lJdZ_I8EUvY IN POST 2186159077676423682 : Nina Donelli - Ljubav nema kraj
-=========================================================
+Successfully processed videos LZHDWa3u5nw in post 2186159077676423682 : Nina Donelli - Ljubav nema kraj
 Successfully processed videos 3y9O6ge1gR0 in post 4021042641852967312 : MIA BORISAVLJEVIC - SKANDAL
 Successfully processed videos erxYmQ2R4AY in post 3305613433713195364 : Učiteljice - NA USNAMA
+Successfully processed videos hMH7Sq_sMX0 in post 1265807116548312069 : MILICA TODOROVIC - ISTA JA
+Successfully processed videos tJJ-Edm0J_c in post 2619192785031596987 : Antonija Šola - Mir u duši
 Successfully processed videos hFCuIiEtMX4 in post 2136301947250011005 : ADDA - Mama Soacra
 Successfully processed videos 7R7dHPHzI3A in post 7978876831907752637 : Lora - Pleaca
 Successfully processed videos 2bF6KJSt7mc in post 1433172030263518272 : VOLTAJ - Kori Gent
