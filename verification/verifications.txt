@@ -1560,6 +1560,7 @@ Successfully processed videos JhP3lzzK_iI in post 1764852633008361228 : Delia - 
 Successfully processed videos OjTOP4PDuHM in post 542473654114707116 : Elena - Luna alba
 Successfully processed videos 4IrC7Ot50P8 in post 7798197518092465252 : Delia Rus - Fericire
 Successfully processed videos Oy2fxDlnjBY in post 7516446621947324229 : Amna - E sarbatoare acum
+Successfully processed videos ybkzOOdcXnc in post 8261580496002501526 : Delia - Du-te-ma
 Successfully processed videos 7AGt_qpHl30 in post 3454792388918804952 : Tereza Kerndlová - Když Nebe Padá Nám
 Successfully processed videos Vk7dFgYnbsM in post 2432646889854896542 : Lucie Vondráčková - Paralelní světy
 Successfully processed videos vB8MOXAlNao in post 4077386673127780254 : Rúzsa Magdolna - Aduász
@@ -2048,6 +2049,7 @@ MISSING VIDEO FRAFRAFRAFR IN POST 2162255099594712492 : Test Post - French Lyric
 Successfully processed videos EagrkSuaKPc in post 4733312654104337322 : Jenifer - Encore et encore
 Successfully processed videos fSChfByWNqI in post 1544352190202127859 : Vanessa Paradis - Ces mots simples
 Successfully processed videos I8-lmhRTSoE in post 6948712955214351688 : Isabelle Boulay - Mieux qu'ici-bas
+Successfully processed videos WnRGighEBss in post 8534831534882432764 : Mylène Farmer - Désobéissance
 Successfully processed videos bXuwhnlg13A in post 385761067360810720 : Elisa - Se Piovesse Il Tuo Nome
 Successfully processed videos A1hchTlWVfo in post 8047103689707608755 : Laura Pausini - La soluzione
 Successfully processed videos SQa4ColupuA in post 2921899976525565837 : Noemi - Porcellana
@@ -2209,6 +2211,7 @@ MISSING VIDEO ITAITAITAIT IN POST 8354660777270402595 : Test blog - Italian Lyri
 =========================================================
 Successfully processed videos WoE7qA9-1tE in post 8083032600899513030 : Alessandra Amoroso - Trova un modo
 Successfully processed videos KIacTWFCm5E in post 8875169685669297730 : Emma - Mondiale
+Successfully processed videos sOAwgYRC3rU in post 6387578522939603964 : Federica Abbate - Finalmente
 Successfully processed videos -T5G2j9Og8c in post 5848803195056160208 : Импульсы - Елена Темникова
 Successfully processed videos jOEas7bGM8Q in post 2863579059768961411 : Таисия Повалий - Я помолюсь за тебя
 Successfully processed videos gs1JrhjUpnc in post 3529843302676686150 : LOBODA - SuperSTAR
@@ -3686,3 +3689,4 @@ Successfully processed videos 4raeDRYjkAU in post 7338569842236926132 : Ирин
 MISSING VIDEO RUSRUSRUSRU IN POST 6911723806392765220 : Technical Post - Russian Blog
 =========================================================
 Successfully processed videos yqPaB4E7Cxk in post 3468143847491611185 : SEREBRO - Пятница
+Successfully processed videos B_y-Uye1uIk in post 2393872887960532411 : Наталья Подольская - Сильная Слабая
