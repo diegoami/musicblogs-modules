@@ -1178,6 +1178,12 @@ Successfully processed videos hMH7Sq_sMX0 in post 1265807116548312069 : MILICA T
 Successfully processed videos tJJ-Edm0J_c in post 2619192785031596987 : Antonija Šola - Mir u duši
 Successfully processed videos uII36iSrRXU in post 954553450644845629 : LINA PEJOVSKA - NEMA
 Successfully processed videos lI3iRtk6uB4 in post 6081142507813988407 : MAGAZIN - DAN POBJEDE
+Successfully processed videos OTnH0OANHX4 in post 6963738502833457695 : Lina Pejovska - Odluči se
+Successfully processed videos fNtJxk4LrhE in post 5954686529162185114 : MIA - BEZIMENI
+Successfully processed videos 3NgILhmpfnA in post 4059040531888489613 : MIA - SANJAJ ME
+Successfully processed videos ei3OhLh64LY in post 7199413555642480889 : Džejla Ramović – Jedna kao nijedna
+Successfully processed videos YQF_shalrU0 in post 7032142013650581397 : MIA - SNJEŽNA ULICA
+Successfully processed videos i7iuCz1ZMGk in post 163730547911340498 : SEVERINA - IMAŠ PRAVO
 Successfully processed videos hFCuIiEtMX4 in post 2136301947250011005 : ADDA - Mama Soacra
 Successfully processed videos 7R7dHPHzI3A in post 7978876831907752637 : Lora - Pleaca
 Successfully processed videos 2bF6KJSt7mc in post 1433172030263518272 : VOLTAJ - Kori Gent
@@ -1563,6 +1569,7 @@ Successfully processed videos OjTOP4PDuHM in post 542473654114707116 : Elena - L
 Successfully processed videos 4IrC7Ot50P8 in post 7798197518092465252 : Delia Rus - Fericire
 Successfully processed videos Oy2fxDlnjBY in post 7516446621947324229 : Amna - E sarbatoare acum
 Successfully processed videos ybkzOOdcXnc in post 8261580496002501526 : Delia - Du-te-ma
+Successfully processed videos HARF26kEQbE in post 4254964832107742303 : KAIRA - ACASĂ
 Successfully processed videos 7AGt_qpHl30 in post 3454792388918804952 : Tereza Kerndlová - Když Nebe Padá Nám
 Successfully processed videos Vk7dFgYnbsM in post 2432646889854896542 : Lucie Vondráčková - Paralelní světy
 Successfully processed videos vB8MOXAlNao in post 4077386673127780254 : Rúzsa Magdolna - Aduász
@@ -3692,3 +3699,4 @@ MISSING VIDEO RUSRUSRUSRU IN POST 6911723806392765220 : Technical Post - Russian
 =========================================================
 Successfully processed videos yqPaB4E7Cxk in post 3468143847491611185 : SEREBRO - Пятница
 Successfully processed videos B_y-Uye1uIk in post 2393872887960532411 : Наталья Подольская - Сильная Слабая
+Successfully processed videos aSHrzyaJHWw in post 2947843940934632461 : Глюк’oZа – ФЭН-ШУЙ
