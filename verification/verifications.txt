@@ -556,6 +556,8 @@ Successfully processed videos rPl2AVj7bHc in post 1583850408435783565 : Marysia 
 Successfully processed videos -1H4vCY67P8 in post 1927981213562051539 : Doda - Nie wolno płakać
 Successfully processed videos 1ws2aKH-7DY in post 7977856888458107099 : Mela Koteluk - Ogniwo
 Successfully processed videos oHa5aQY7fes in post 2436219825202120118 : Lanberry - Nieznajomy
+Successfully processed videos vRECTxZGqYU in post 1730878935337033520 : Paulla - Dotykaj Mnie
+Successfully processed videos yUE7vpVG7sc in post 4526172021276497290 : Maja Koman - Kocham Karpia
 Successfully processed videos 73reXUqghbc in post 6196556388528231427 : JELENA ROZGA - OSTANI
 Successfully processed videos g9PZOnU0w4I in post 8494819157938259679 : KIJA FEAT MINISTARKE - NE VRACAM SE NA STARO
 Successfully processed videos 2oedZZGvbOA in post 4645831616374827065 : INA GARDIJAN - PRVA DAMA
@@ -885,9 +887,7 @@ Successfully processed videos cNvTfnTtGB4 in post 2137198259113767223 : VIKI MIL
 Successfully processed videos w0AMj4ZP1jA in post 7861137183394013519 : Milica Pavlovic - La Fiesta
 Successfully processed videos -ReSxUz2wgQ in post 3669564777152232277 : Djavolice - Cokolada i Vanila
 Successfully processed videos GOAfE_d0SFE in post 4036239029179420415 : Ana Kokic - Pogresna ljubav
-=========================================================
-MISSING VIDEO iiOy6EqfHXU IN POST 6589694328523038923 : JELENA ROZGA - OTROV
-=========================================================
+Successfully processed videos VeiBK89Gjm0 in post 6589694328523038923 : JELENA ROZGA - OTROV
 Successfully processed videos 6wxRF_Fu0kM in post 584758618263413804 : DANICA KRSTIC - SUZE ZA KRAJ
 Successfully processed videos x45J3SSZSRw in post 9056313464092328003 : PAMELA RAMLJAK - PRIJATELJICA
 Successfully processed videos 8Khp04xdJao in post 4521217048689004638 : PAMELA RAMLJAK - ISPOD KOŽE
@@ -1188,6 +1188,7 @@ Successfully processed videos i7iuCz1ZMGk in post 163730547911340498 : SEVERINA 
 Successfully processed videos dAQY44kqJao in post 3336880513181627606 : Milica Pavlovic - Da me volis
 Successfully processed videos g4nkKxDsyiI in post 6736163105146133678 : Petra Kovačević - Neka uče od nas
 Successfully processed videos MjHVnKCAekQ in post 9127574205122482856 : Milica Pavlovic - Ne secam se
+Successfully processed videos r3aVxAydAO8 in post 3448146872677387551 : Teška Industrija - Ti si mi u krvi
 Successfully processed videos hFCuIiEtMX4 in post 2136301947250011005 : ADDA - Mama Soacra
 Successfully processed videos 7R7dHPHzI3A in post 7978876831907752637 : Lora - Pleaca
 Successfully processed videos 2bF6KJSt7mc in post 1433172030263518272 : VOLTAJ - Kori Gent
