@@ -227,8 +227,12 @@ Successfully processed videos lWdHL30zezs in post 7429805041598960530 : Renata P
 Successfully processed videos -9CBg4kfawc in post 1044775432332713789 : Liber & Sylwia Grzeszczak - Co z nami będzie
 Successfully processed videos nJjgBvtBBCc in post 2931198335403452548 : Alicja Janosz - Jest jak jest
 Successfully processed videos 4m96YSme5dc in post 1034619121862366711 : Alicja Janosz - Zbudziłam się
-Successfully processed videos Y6Yqf__48Hs in post 7056196719251273766 : Kaja Paschalska - Tylko Ty
-Successfully processed videos BmHuTxdclac in post 6991922220628578620 : Kaja Paschalska - Przyjaciel Od Zaraz
+=========================================================
+MISSING VIDEO Y6Yqf__48Hs IN POST 7056196719251273766 : Kaja Paschalska - Tylko Ty
+=========================================================
+=========================================================
+MISSING VIDEO BmHuTxdclac IN POST 6991922220628578620 : Kaja Paschalska - Przyjaciel Od Zaraz
+=========================================================
 Successfully processed videos s0YdE4bwvHE in post 566635551532629584 : Julia Kamińska - Każdy chciałby tak mieć
 Successfully processed videos LFyHxM8YfEc in post 1232181060990943127 : Rafal Brzozowski - Kto
 Successfully processed videos ZtGziAgN7K8 in post 4014151808472705732 : Patrycja Markowska - Alter Ego
