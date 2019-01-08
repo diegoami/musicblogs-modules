@@ -1852,7 +1852,9 @@ Successfully processed videos XHGkGE6b850 in post 4838099803607134347 : Lorie - 
 Successfully processed videos pHy0LkdpxSU in post 3246587387153698102 : Zaho - C'est Chelou
 Successfully processed videos w2wrHUQhdfI in post 1271163689661409920 : Mylène Farmer - L'Amour N'Est Rien...
 Successfully processed videos 6yUb-hqF_wY in post 7852521791533195793 : Zaho - Je Te Promets
-Successfully processed videos SFKZQSaVxuE in post 6241453003029797990 : VITAA - Tu Me Laisseras
+=========================================================
+MISSING VIDEO SFKZQSaVxuE IN POST 6241453003029797990 : VITAA - Tu Me Laisseras
+=========================================================
 Successfully processed videos xyqSAsR_Tms in post 1294330556244654145 : Louane - On était beau
 Successfully processed videos PHDVFQnYj2Q in post 7644263806155267505 : Rose - la liste
 Successfully processed videos G5erDuKhr8Q in post 2146421307049126443 : Joyce Jonathan - Je ne veux pas de toi
