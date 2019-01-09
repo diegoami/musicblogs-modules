@@ -815,7 +815,9 @@ Successfully processed videos eyPlM1G-aEE in post 3486640209235946948 : Nina Don
 Successfully processed videos z_43DBMrIWU in post 7704380652419279046 : Alya - Moja pesem
 Successfully processed videos SYYeXfGG6N0 in post 6469594322791703823 : Ines Erbus - Kada cura časti
 Successfully processed videos roxUY7lQDkE in post 6623923618768649339 : Ines Erbus - Moje oči plave
-Successfully processed videos O3m7jGKz1hc in post 926510335644102140 : KATARINA GRUJIC - GRESKA
+=========================================================
+MISSING VIDEO O3m7jGKz1hc IN POST 926510335644102140 : KATARINA GRUJIC - GRESKA
+=========================================================
 Successfully processed videos 08fgKwlbLeI in post 4616758469628431263 : Lidija Bačić - Krivi čovjek
 Successfully processed videos 4PmFQD4VWPM in post 5215841418317318030 : Jelena Tomašević - Ime moje
 Successfully processed videos 0zP1OHM0iuo in post 301115274468807760 : Marija Serifovic - Pametna i Luda
@@ -2667,7 +2669,9 @@ Successfully processed videos 5HZt4sKyLsw in post 4551646413116876554 : Selfy - 
 Successfully processed videos GI1Emueo-9o in post 7264533169505072805 : Алена Винницкая - Давай забудем все
 Successfully processed videos Crv92js5EEE in post 7578408419793690849 : Ева Бушмина - Лето напрокат
 Successfully processed videos gACAQaYpI7U in post 409816716852891514 : Нюша / Nyusha – «Целуй»
-Successfully processed videos v8vi9ftIrlA in post 6337361915686685465 : Настя Кудри - Не шути
+=========================================================
+MISSING VIDEO v8vi9ftIrlA IN POST 6337361915686685465 : Настя Кудри - Не шути
+=========================================================
 Successfully processed videos wmPgnlhDs9E in post 3848026861953994706 : Татьяна Решетняк - 9 жизней.
 Successfully processed videos dN1EITPC0-U in post 8892636723614583379 : Анна Семенович - Без руля
 Successfully processed videos WzRLPi3kUT0 in post 4140634443997005811 : USTINOVA - Мечта
