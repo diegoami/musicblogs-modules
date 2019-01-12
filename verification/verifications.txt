@@ -2325,7 +2325,9 @@ Successfully processed videos 1Xd48GdAWAQ in post 3221507053679836713 : Оля �
 Successfully processed videos pYl6tgaJaGU in post 1295279911558955321 : Оля Цибульська - Сукня біла
 Successfully processed videos mzNcWgADn3Q in post 627552914173323448 : Ірина Білик - Не ховай очей
 Successfully processed videos R8Xpb7dGBE8 in post 8210855991781866022 : Клава Кока — Забери Меня
-Successfully processed videos qYANU_3UtMQ in post 1707532765071090301 : МакSим - Здесь и Сейчас
+=========================================================
+MISSING VIDEO qYANU_3UtMQ IN POST 1707532765071090301 : МакSим - Здесь и Сейчас
+=========================================================
 Successfully processed videos T3BrBaP0hvA in post 5314371840085260886 : Не сдерживай меня - Елена Темникова
 Successfully processed videos aD-nvN8a6Ec in post 1380053680273476309 : Алсу - Не молчи
 Successfully processed videos RU5gpCoXbU0 in post 3985383119362334117 : Юля Паршута - Все в порядке
