@@ -915,7 +915,9 @@ Successfully processed videos LNQU857v5zw in post 3648245865297241423 : GOCA TRZ
 Successfully processed videos ZLK7OsyU6aA in post 4674669819775878737 : Gabrijela Pejcev - Ne dam nikom da me zeza
 Successfully processed videos sfCGwGqCHH8 in post 7172475975741208214 : IVANA PAVKOVIC - AURA
 Successfully processed videos Eh-fZEfX0Bs in post 6111593988999231902 : NATASA BEKVALAC - PSETO
-Successfully processed videos u6LVGhwPuGM in post 7100012278197388377 : Anabela i Mia - Sto ratova
+=========================================================
+MISSING VIDEO u6LVGhwPuGM IN POST 7100012278197388377 : Anabela i Mia - Sto ratova
+=========================================================
 Successfully processed videos 5mwzkR-dZL4 in post 5639791373321737453 : Anabela - Nocna patrola
 Successfully processed videos YaWPijcqJ7c in post 2907625985294866976 : UČITELJICE - ŠOK
 Successfully processed videos NWSUP6T4voI in post 4075430823460908807 : Lidija Bačić - Odlično se snalazim
