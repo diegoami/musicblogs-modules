@@ -888,9 +888,7 @@ Successfully processed videos _HQq7s4a6ww in post 3891749239742591883 : KRISTIAN
 Successfully processed videos pq9rNHAH2uU in post 5891670075482284907 : KRISTIANA - DIGI DAY, DAY / КРИСТИАНА - ДИГИ ДАЙ,
 Successfully processed videos ER0obit1q2o in post 4268279494073991697 : DJOGANI - Andjeo bez krila
 Successfully processed videos O3uf2zW_ZXI in post 3466337307171773843 : DJOGANI - Znam ja
-=========================================================
-MISSING VIDEO uzok6EtseH0 IN POST 4335131881649908390 : MAYA BEROVIC - PAUZA
-=========================================================
+Successfully processed videos uzok6EtseH0 in post 4335131881649908390 : MAYA BEROVIC - PAUZA
 Successfully processed videos y82cqVAaWhA in post 5451036083207014257 : VANJA MIJATOVIC - VRATI KRAJ
 Successfully processed videos 0vuHVDUqIWw in post 7470920445896749812 : KRISTINA VUKAS - BURMA
 Successfully processed videos vG9nVr_36mQ in post 8974861662915932231 : Učiteljice - Dunav ( official video )
