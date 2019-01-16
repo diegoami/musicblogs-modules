@@ -2477,7 +2477,9 @@ Successfully processed videos GggXbANOjX8 in post 5232626185985508062 : Юлия
 Successfully processed videos PI3Ioy9paVw in post 3685597604675831213 : Анна Корнильева - Август
 Successfully processed videos 8athLMCarCg in post 519032185782049330 : ВЕСНА - Тянет ко мне
 Successfully processed videos Nm4wMLMIbDU in post 4716399154285096417 : ВЕСНА - Состою из тебя
-Successfully processed videos mLqh5RFRarE in post 6454341937562094386 : Ксения Луговая - Забыла (Official Video) Премьера 2017
+=========================================================
+MISSING VIDEO mLqh5RFRarE IN POST 6454341937562094386 : Ксения Луговая - Забыла (Official Video) Премьера 2017
+=========================================================
 Successfully processed videos I5xrK4uoi3k in post 8938603399577721064 : Ирина Дубцова - О нём
 Successfully processed videos GpKUMD5SUck in post 132469817724062439 : LOREN - Люби
 Successfully processed videos Bu6Rbs40JwI in post 4030178703527885594 : Reflex - Ирина Нельсон "После тебя"
@@ -3666,7 +3668,9 @@ Successfully processed videos QmacxKdkQg8 in post 7043263256704642998 : IKA-Де
 Successfully processed videos fkJKDEQRams in post 6133577168178918384 : LOBODA - Революция
 Successfully processed videos tn3wN0JAGMc in post 8635285697565418357 : Анна Седокова - Привыкаю
 Successfully processed videos EGbOa65jOm0 in post 4072042903771270744 : Вера Брежнева - Лепестками Слез
-Successfully processed videos 2fxNTLRn7fQ in post 5192703750113128152 : Винтаж- Мама Мия
+=========================================================
+MISSING VIDEO 2fxNTLRn7fQ IN POST 5192703750113128152 : Винтаж- Мама Мия
+=========================================================
 Successfully processed videos XWa9iDYsCDU in post 6774013141640508419 : Ангел А - "Холодный дождь"
 Successfully processed videos 8c8YYWAthpM in post 6660933423453446462 : Fabrika - Malina
 Successfully processed videos FSVeZYP0g_M in post 5315906476122082842 : ПАЮЩИЕ ТРУСЫ — САУНА
