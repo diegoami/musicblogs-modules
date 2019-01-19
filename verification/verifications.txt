@@ -3719,7 +3719,9 @@ Successfully processed videos 01Suo9zCsRE in post 385368380897010633 : Лави�
 Successfully processed videos qvAKAPK50sk in post 5050943193630403535 : Планка - Не остановить закат
 Successfully processed videos YZZH8aNuXuQ in post 2194906457470494826 : Виктория Дайнеко - Сотри его из memory
 Successfully processed videos pvHWPjATqj4 in post 1373296420799780825 : Юлия Савичева - Ты Вернешься, Знаю
-Successfully processed videos b0PdVrl8qQ8 in post 2196591353418024911 : Планка - Не Дождалась
+=========================================================
+MISSING VIDEO b0PdVrl8qQ8 IN POST 2196591353418024911 : Планка - Не Дождалась
+=========================================================
 Successfully processed videos agtdIcMGbJc in post 5233528302600122033 : Аника - Знаешь
 Successfully processed videos hbNDlZak_0c in post 2661504486422403849 : Согдиана - Только не молчи
 Successfully processed videos Q8oRahfDCkw in post 547179890570242712 : 100 вершин, Эмилия Вишневская
