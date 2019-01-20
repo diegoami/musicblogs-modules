@@ -874,7 +874,9 @@ Successfully processed videos By4tDrHdAzQ in post 3385234386377686803 : MIA BORI
 Successfully processed videos n7fkWEcM2jw in post 5948446509721624671 : JELENA ROZGA - UDAJEM SE
 Successfully processed videos vPu3QEfiZ0Q in post 8210955295428017866 : SEVERINA - SEKUNDE
 Successfully processed videos Aya8O7CeD_E in post 7819061324643752210 : NATASA BEKVALAC - LUDILO
-Successfully processed videos RaJR8HqfwwA in post 5594017284942265820 : Anabela - Pice za drugare
+=========================================================
+MISSING VIDEO RaJR8HqfwwA IN POST 5594017284942265820 : Anabela - Pice za drugare
+=========================================================
 Successfully processed videos 6ssNhh7oQss in post 7754721473113491995 : Biljana Secivanovic - Ili ili
 Successfully processed videos 8B-WRCFUtmI in post 4130863301972996191 : Neda Ukraden - Terapija
 Successfully processed videos nnaou8ywsVI in post 166568979034959855 : UČITELJICE & TARAPANA BAND - AKO MI SE NE SPAVA (official video)
@@ -3719,9 +3721,7 @@ Successfully processed videos 01Suo9zCsRE in post 385368380897010633 : Лави�
 Successfully processed videos qvAKAPK50sk in post 5050943193630403535 : Планка - Не остановить закат
 Successfully processed videos YZZH8aNuXuQ in post 2194906457470494826 : Виктория Дайнеко - Сотри его из memory
 Successfully processed videos pvHWPjATqj4 in post 1373296420799780825 : Юлия Савичева - Ты Вернешься, Знаю
-=========================================================
-MISSING VIDEO b0PdVrl8qQ8 IN POST 2196591353418024911 : Планка - Не Дождалась
-=========================================================
+Successfully processed videos b0PdVrl8qQ8 in post 2196591353418024911 : Планка - Не Дождалась
 Successfully processed videos agtdIcMGbJc in post 5233528302600122033 : Аника - Знаешь
 Successfully processed videos hbNDlZak_0c in post 2661504486422403849 : Согдиана - Только не молчи
 Successfully processed videos Q8oRahfDCkw in post 547179890570242712 : 100 вершин, Эмилия Вишневская
