@@ -817,9 +817,7 @@ Successfully processed videos eyPlM1G-aEE in post 3486640209235946948 : Nina Don
 Successfully processed videos z_43DBMrIWU in post 7704380652419279046 : Alya - Moja pesem
 Successfully processed videos SYYeXfGG6N0 in post 6469594322791703823 : Ines Erbus - Kada cura časti
 Successfully processed videos roxUY7lQDkE in post 6623923618768649339 : Ines Erbus - Moje oči plave
-=========================================================
-MISSING VIDEO O3m7jGKz1hc IN POST 926510335644102140 : KATARINA GRUJIC - GRESKA
-=========================================================
+Successfully processed videos O3m7jGKz1hc in post 926510335644102140 : KATARINA GRUJIC - GRESKA
 Successfully processed videos 08fgKwlbLeI in post 4616758469628431263 : Lidija Bačić - Krivi čovjek
 Successfully processed videos 4PmFQD4VWPM in post 5215841418317318030 : Jelena Tomašević - Ime moje
 Successfully processed videos 0zP1OHM0iuo in post 301115274468807760 : Marija Serifovic - Pametna i Luda
@@ -913,7 +911,9 @@ Successfully processed videos _6dsHn7GqG8 in post 1962025631533720882 : Indira R
 Successfully processed videos _EdpIzHnIxQ in post 1377613703142379236 : Ivana Selakov - Godine i laži
 Successfully processed videos LNQU857v5zw in post 3648245865297241423 : GOCA TRZAN - GRADSKE KUCKE
 Successfully processed videos ZLK7OsyU6aA in post 4674669819775878737 : Gabrijela Pejcev - Ne dam nikom da me zeza
-Successfully processed videos sfCGwGqCHH8 in post 7172475975741208214 : IVANA PAVKOVIC - AURA
+=========================================================
+MISSING VIDEO sfCGwGqCHH8 IN POST 7172475975741208214 : IVANA PAVKOVIC - AURA
+=========================================================
 Successfully processed videos Eh-fZEfX0Bs in post 6111593988999231902 : NATASA BEKVALAC - PSETO
 Successfully processed videos u6LVGhwPuGM in post 7100012278197388377 : Anabela i Mia - Sto ratova
 Successfully processed videos 5mwzkR-dZL4 in post 5639791373321737453 : Anabela - Nocna patrola
