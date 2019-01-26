@@ -1216,6 +1216,7 @@ Successfully processed videos 2zN9BzZhlz0 in post 8264438826297426345 : Emina Tu
 Successfully processed videos 0vZ0gHAcxrM in post 9104674430637356828 : TANJA ŽAGAR - PET DO POLNOČI
 Successfully processed videos yJL91Fyam3c in post 7152810759031708710 : COLONIA - Melem
 Successfully processed videos 6JC6OtTKXoE in post 3001312766597993099 : Mia Dimšić  - OVAJ GRAD
+Successfully processed videos LTN63dM_hhI in post 4053435385101668920 : Sandra Rešić - Mene ne zanima
 Successfully processed videos hFCuIiEtMX4 in post 2136301947250011005 : ADDA - Mama Soacra
 Successfully processed videos 7R7dHPHzI3A in post 7978876831907752637 : Lora - Pleaca
 Successfully processed videos 2bF6KJSt7mc in post 1433172030263518272 : VOLTAJ - Kori Gent
@@ -1604,6 +1605,7 @@ Successfully processed videos ybkzOOdcXnc in post 8261580496002501526 : Delia - 
 Successfully processed videos HARF26kEQbE in post 4254964832107742303 : KAIRA - ACASĂ
 Successfully processed videos Vq1b0-XaQyQ in post 1737649096249237951 : Rawanne - Iar ea
 Successfully processed videos 9PQi85bnQfQ in post 7547025249240742989 : Delia Rus - Alandala
+Successfully processed videos FUS7qsrm1iY in post 5305218041052836654 : Feli - Nu ma inveti tu
 Successfully processed videos 7AGt_qpHl30 in post 3454792388918804952 : Tereza Kerndlová - Když Nebe Padá Nám
 Successfully processed videos Vk7dFgYnbsM in post 2432646889854896542 : Lucie Vondráčková - Paralelní světy
 Successfully processed videos vB8MOXAlNao in post 4077386673127780254 : Rúzsa Magdolna - Aduász
@@ -3364,7 +3366,7 @@ Successfully processed videos 6K_6_0hyUvg in post 880103119546855975 : Ани Л
 Successfully processed videos EbuEJBKBnO8 in post 1399768261851858760 : Георгин - Планка
 Successfully processed videos 01NggYZ4s-o in post 7609979738148420156 : Анна Седокова - Драма
 Successfully processed videos R07T-0v8ybU in post 8643684435023497779 : ФАБРИКА "Мы такие разные"
-Successfully processed videos qehm9FOjRZU in post 1771653712346962053 : ВИА &quot;Сириус&quot; - Дыши Глубже
+Successfully processed videos qehm9FOjRZU in post 1771653712346962053 : ВИА Сириус - Дыши Глубже
 Successfully processed videos 1HD6LgoFDuY in post 8372590792944605513 : Пающие трусы Гимн Евро 2012
 Successfully processed videos ymLsf6ryr-0 in post 6635583227883386016 : Поющие трусы Стринги HD
 Successfully processed videos AfI9CVpp6fg in post 2044922989566949419 : Светлана Лобода - Я забуду тебя
@@ -3754,3 +3756,5 @@ Successfully processed videos KbKLg5nHwXk in post 7339897903042401945 : 5sta Fam
 Successfully processed videos zwa1vlYTxoc in post 4386822387792358033 : Анна Седокова - Не могу
 Successfully processed videos xoKTtQ7j4OU in post 1673753042964927207 : REFLEX — ИРИНА НЕЛЬСОН — ЗИМА
 Successfully processed videos 8maveZ9ZMu0 in post 2601342391283469862 : Lama - Привіт, привіт
+Successfully processed videos DaltLrF0yb4 in post 6279815577161301448 : Юлия Ковальчук - Давай
+Successfully processed videos VYjrQY8PKzg in post 9024980625807181020 : ІРИНА ФЕДИШИН - РОМАН
