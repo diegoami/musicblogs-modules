@@ -227,12 +227,8 @@ Successfully processed videos lWdHL30zezs in post 7429805041598960530 : Renata P
 Successfully processed videos -9CBg4kfawc in post 1044775432332713789 : Liber & Sylwia Grzeszczak - Co z nami będzie
 Successfully processed videos nJjgBvtBBCc in post 2931198335403452548 : Alicja Janosz - Jest jak jest
 Successfully processed videos 4m96YSme5dc in post 1034619121862366711 : Alicja Janosz - Zbudziłam się
-=========================================================
-MISSING VIDEO Y6Yqf__48Hs IN POST 7056196719251273766 : Kaja Paschalska - Tylko Ty
-=========================================================
-=========================================================
-MISSING VIDEO BmHuTxdclac IN POST 6991922220628578620 : Kaja Paschalska - Przyjaciel Od Zaraz
-=========================================================
+Successfully processed videos InRq5Q2-Or4 in post 7056196719251273766 : Kaja Paschalska - Tylko Ty
+Successfully processed videos cpX4vfH-_PI in post 6991922220628578620 : Kaja Paschalska - Przyjaciel Od Zaraz
 Successfully processed videos s0YdE4bwvHE in post 566635551532629584 : Julia Kamińska - Każdy chciałby tak mieć
 Successfully processed videos LFyHxM8YfEc in post 1232181060990943127 : Rafal Brzozowski - Kto
 Successfully processed videos ZtGziAgN7K8 in post 4014151808472705732 : Patrycja Markowska - Alter Ego
@@ -579,9 +575,7 @@ Successfully processed videos Ae7JGSMS_2E in post 9121031915882253359 : Lana Jur
 Successfully processed videos L1wlOWYeoKE in post 8173850270959508186 : Mari Jana - Ne glum
 Successfully processed videos xohfVIM44RQ in post 2626873921449101889 : Zvezdana - Meta
 Successfully processed videos 6ggJ8BHa-_I in post 376564538078649591 : Mirjana Mirkovic - Da si moj
-=========================================================
-MISSING VIDEO r-VJp3nq0cE IN POST 2012084433835644948 : LIDIJA BACIC LILLE - 3 MINUTE
-=========================================================
+Successfully processed videos EukVJBhELpw in post 2012084433835644948 : LIDIJA BACIC LILLE - 3 MINUTE
 Successfully processed videos 0Bf1Pvm0S58 in post 1893242880626665618 : Sanja Vasiljević - Nazovi me
 Successfully processed videos 95ulpVG5bgc in post 1804346672288756993 : Lea Mijatović - Sanjam te
 Successfully processed videos tWwgc_m9Buk in post 8335939683639293717 : Colonia - Miris parfema
@@ -650,9 +644,7 @@ Successfully processed videos gl-tAJleiE4 in post 6999237458140355852 : MARIJA S
 Successfully processed videos 5e35I07VT3E in post 8833388465277459734 : MARIJA SERIFOVIC - 11
 Successfully processed videos Qi7Pr4w2i6k in post 7085369032163687474 : Jelena Kostov - Da je dan ko godina
 Successfully processed videos DQRolQecXkU in post 5790050501697819893 : Ilma Karahmet - Zaledi Grijeh
-=========================================================
-MISSING VIDEO MHVa5m8EOts IN POST 5581198083265986247 : Tanja Savic - Gde ljubav putuje
-=========================================================
+Successfully processed videos oWdWAeqMF1c in post 5581198083265986247 : Tanja Savic - Gde ljubav putuje
 Successfully processed videos DsY3LFlKL7I in post 7215699028343428908 : ANABELA - ZABRANJENO
 Successfully processed videos 5mVbOy-CzUw in post 2261607804481789939 : Lea Mijatović - Između oprosta i kajanja
 Successfully processed videos 1we8LLegwNk in post 3628841203409977373 : SEKA ALEKSIC - TI I JA SMO PAR
@@ -851,9 +843,7 @@ Successfully processed videos _R5UWxD_kLQ in post 8389435910711636717 : ENELA PA
 Successfully processed videos wrUFgnPNC0o in post 5263615774767161403 : MARINA TADIC - NOVI ZIVOT
 Successfully processed videos XP7RQ9f8zNE in post 8001075113484147199 : Nina Badric - Dani i godine
 Successfully processed videos q3SnNfL0iek in post 9044761623485371821 : LANA JURČEVIĆ - *"NEKE SE NOĆI NE SPAVAJU"*
-=========================================================
-MISSING VIDEO LeiFGO9vO5k IN POST 370785800546473460 : EMINA JAHOVIC - ROMEO
-=========================================================
+Successfully processed videos pbwo3ifeiC4 in post 370785800546473460 : EMINA JAHOVIC - ROMEO
 Successfully processed videos 2wY8lxKoKOc in post 1218442443540854300 : Natasa Bekvalac - Zeton
 Successfully processed videos Zusf52CcUs8 in post 9137213326115258433 : Jelena Tomasevic - Zivot u koferima
 Successfully processed videos CmKRytS87uo in post 5938413408389583303 : Jelena Kostov - 1005
@@ -875,7 +865,9 @@ Successfully processed videos 6lfbH2GFzz0 in post 8371400218824307224 : Mira M -
 Successfully processed videos By4tDrHdAzQ in post 3385234386377686803 : MIA BORISAVLJEVIC - NISTA LICNO
 Successfully processed videos n7fkWEcM2jw in post 5948446509721624671 : JELENA ROZGA - UDAJEM SE
 Successfully processed videos vPu3QEfiZ0Q in post 8210955295428017866 : SEVERINA - SEKUNDE
-Successfully processed videos Aya8O7CeD_E in post 7819061324643752210 : NATASA BEKVALAC - LUDILO
+=========================================================
+MISSING VIDEO Aya8O7CeD_E IN POST 7819061324643752210 : NATASA BEKVALAC - LUDILO
+=========================================================
 Successfully processed videos RaJR8HqfwwA in post 5594017284942265820 : Anabela - Pice za drugare
 Successfully processed videos 6ssNhh7oQss in post 7754721473113491995 : Biljana Secivanovic - Ili ili
 Successfully processed videos 8B-WRCFUtmI in post 4130863301972996191 : Neda Ukraden - Terapija
@@ -913,9 +905,7 @@ Successfully processed videos _6dsHn7GqG8 in post 1962025631533720882 : Indira R
 Successfully processed videos _EdpIzHnIxQ in post 1377613703142379236 : Ivana Selakov - Godine i laži
 Successfully processed videos LNQU857v5zw in post 3648245865297241423 : GOCA TRZAN - GRADSKE KUCKE
 Successfully processed videos ZLK7OsyU6aA in post 4674669819775878737 : Gabrijela Pejcev - Ne dam nikom da me zeza
-=========================================================
-MISSING VIDEO sfCGwGqCHH8 IN POST 7172475975741208214 : IVANA PAVKOVIC - AURA
-=========================================================
+Successfully processed videos nD3to6CEC7o in post 7172475975741208214 : IVANA PAVKOVIC - AURA
 Successfully processed videos Eh-fZEfX0Bs in post 6111593988999231902 : NATASA BEKVALAC - PSETO
 Successfully processed videos u6LVGhwPuGM in post 7100012278197388377 : Anabela i Mia - Sto ratova
 Successfully processed videos 5mwzkR-dZL4 in post 5639791373321737453 : Anabela - Nocna patrola
@@ -1217,6 +1207,9 @@ Successfully processed videos 0vZ0gHAcxrM in post 9104674430637356828 : TANJA Ž
 Successfully processed videos yJL91Fyam3c in post 7152810759031708710 : COLONIA - Melem
 Successfully processed videos 6JC6OtTKXoE in post 3001312766597993099 : Mia Dimšić  - OVAJ GRAD
 Successfully processed videos LTN63dM_hhI in post 4053435385101668920 : Sandra Rešić - Mene ne zanima
+Successfully processed videos 0XazYz5fjos in post 8689781608718570976 : Milica Pavlovic - Hej zeno
+Successfully processed videos cySswFVrW28 in post 3597443691202844986 : Saška Hajder - Bezimena
+Successfully processed videos LUMQYg1G8aY in post 1362911234944814448 : Sara Jo - Bez sna
 Successfully processed videos hFCuIiEtMX4 in post 2136301947250011005 : ADDA - Mama Soacra
 Successfully processed videos 7R7dHPHzI3A in post 7978876831907752637 : Lora - Pleaca
 Successfully processed videos 2bF6KJSt7mc in post 1433172030263518272 : VOLTAJ - Kori Gent
@@ -1862,9 +1855,7 @@ Successfully processed videos XHGkGE6b850 in post 4838099803607134347 : Lorie - 
 Successfully processed videos pHy0LkdpxSU in post 3246587387153698102 : Zaho - C'est Chelou
 Successfully processed videos w2wrHUQhdfI in post 1271163689661409920 : Mylène Farmer - L'Amour N'Est Rien...
 Successfully processed videos 6yUb-hqF_wY in post 7852521791533195793 : Zaho - Je Te Promets
-=========================================================
-MISSING VIDEO SFKZQSaVxuE IN POST 6241453003029797990 : VITAA - Tu Me Laisseras
-=========================================================
+Successfully processed videos 1ZBVu3bcnrM in post 6241453003029797990 : VITAA - Tu Me Laisseras
 Successfully processed videos xyqSAsR_Tms in post 1294330556244654145 : Louane - On était beau
 Successfully processed videos PHDVFQnYj2Q in post 7644263806155267505 : Rose - la liste
 Successfully processed videos G5erDuKhr8Q in post 2146421307049126443 : Joyce Jonathan - Je ne veux pas de toi
@@ -2103,6 +2094,11 @@ Successfully processed videos b7jHPvnpjNQ in post 846893797912485950 : Lara Fabi
 Successfully processed videos Wfn0WbYdkJs in post 2623612139871138353 : Alizée - A cause de l'automne
 Successfully processed videos TytF2EpluHI in post 494747371680268236 : Zazie - L'Essenciel
 Successfully processed videos 35WEY7_RevU in post 4102899982225766753 : Julie Zenatti - Pars sans rien dire
+Successfully processed videos fhNAWzXDotA in post 2182562471015451086 : Eugénie - Sur La Mer
+Successfully processed videos 5oqqt9pqZyM in post 2138021120703454685 : Hélène : Ce train qui s'en va
+Successfully processed videos OrBjkXziXnw in post 6593032422967707362 : Hélène : Je m'appelle Hélène
+Successfully processed videos UCB5zRmQ-qg in post 7478454782680574653 : Alma - La chute est lente
+Successfully processed videos SwFkaFuv8HA in post 1893025366421171119 : Hélène : Peut-être qu'en septembre
 Successfully processed videos bXuwhnlg13A in post 385761067360810720 : Elisa - Se Piovesse Il Tuo Nome
 Successfully processed videos A1hchTlWVfo in post 8047103689707608755 : Laura Pausini - La soluzione
 Successfully processed videos SQa4ColupuA in post 2921899976525565837 : Noemi - Porcellana
