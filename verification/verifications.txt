@@ -1855,7 +1855,9 @@ Successfully processed videos XHGkGE6b850 in post 4838099803607134347 : Lorie - 
 Successfully processed videos pHy0LkdpxSU in post 3246587387153698102 : Zaho - C'est Chelou
 Successfully processed videos w2wrHUQhdfI in post 1271163689661409920 : Mylène Farmer - L'Amour N'Est Rien...
 Successfully processed videos 6yUb-hqF_wY in post 7852521791533195793 : Zaho - Je Te Promets
-Successfully processed videos 1ZBVu3bcnrM in post 6241453003029797990 : VITAA - Tu Me Laisseras
+=========================================================
+MISSING VIDEO 1ZBVu3bcnrM IN POST 6241453003029797990 : VITAA - Tu Me Laisseras
+=========================================================
 Successfully processed videos xyqSAsR_Tms in post 1294330556244654145 : Louane - On était beau
 Successfully processed videos PHDVFQnYj2Q in post 7644263806155267505 : Rose - la liste
 Successfully processed videos G5erDuKhr8Q in post 2146421307049126443 : Joyce Jonathan - Je ne veux pas de toi
@@ -2554,7 +2556,9 @@ Successfully processed videos 1NI-Ry4oWJU in post 5487914660243679929 : Алек
 Successfully processed videos A9FsaKdwoG4 in post 4373505464245480205 : Алина Гросу - Ложь
 Successfully processed videos rctCUqOrWWs in post 1362474943508789716 : Винтаж - Кто хочет стать королевой
 Successfully processed videos NZtm7h3iJQI in post 5772687102327654116 : Мика Ньютон - В Плену
-Successfully processed videos SF6DK2WgMsE in post 5319466931821260609 : Алина Гросу - Найки
+=========================================================
+MISSING VIDEO SF6DK2WgMsE IN POST 5319466931821260609 : Алина Гросу - Найки
+=========================================================
 Successfully processed videos MsvUscdzkAc in post 8768463791383387371 : МАКSИМ - МОЙ РАЙ
 Successfully processed videos pb_xGZA7zl0 in post 4810524268912020938 : Мика Ньютон - Ангел
 Successfully processed videos 5Fv19KVVya8 in post 3162112541083174897 : KAZKA — CRY / ПЛАКАЛА
@@ -3190,9 +3194,7 @@ Successfully processed videos 55mq0IEC20Y in post 2239621257056712386 : ИРИН
 Successfully processed videos 3RbkeYfSL74 in post 6405457510442123467 : Ани Лорак - Спроси
 Successfully processed videos uQYgVQVCBk0 in post 578757686057009855 : Дилайс - Желание
 Successfully processed videos e3K7ANnj8is in post 9185247918431275377 : Юлия Тойвонен - Город дождей
-=========================================================
-MISSING VIDEO PyBTpuugSJs IN POST 8432038705771571472 : Балаган Лимитед - ОРВИ
-=========================================================
+Successfully processed videos PyBTpuugSJs in post 8432038705771571472 : Балаган Лимитед - ОРВИ
 Successfully processed videos 8oPFiXH8FXc in post 2131207303380432696 : Майя Подольская - Я не я
 Successfully processed videos 8GGArWUc70U in post 7934499352823721548 : Не могу отвыкнуть - Горячий Шоколад
 Successfully processed videos p_-poV-R6Nk in post 7763492459434563536 : Лама - З Джерела
@@ -3261,9 +3263,7 @@ Successfully processed videos T1TKf2r2pWU in post 5722402179915651351 : Оля �
 Successfully processed videos YZcMgcXcTvs in post 7977308098326003078 : Лавика - Я рядом
 Successfully processed videos o8Qd83hQV2o in post 3167524460083534237 : Горячий Шоколад - Фурия
 Successfully processed videos O-q1_KDKw70 in post 3374940856497054651 : Наташа Ростова - Красавчик
-=========================================================
-MISSING VIDEO _r9sXlKWQp0 IN POST 6576058247897674384 : Таня Брянцева - Киев
-=========================================================
+Successfully processed videos _r9sXlKWQp0 in post 6576058247897674384 : Таня Брянцева - Киев
 Successfully processed videos ut8W5mkDk1E in post 2173939646990124321 : Наталья Подольская - Прощаю
 Successfully processed videos eeatXvzTdSM in post 3139589161477746273 : ИНФИНИТИ - А он такой - Премьера на WOW TV
 Successfully processed videos Ko-apemFC-g in post 6073293441825336173 : Наташа Королева - Стояла и Плакала.
@@ -3299,9 +3299,7 @@ Successfully processed videos 1Yjm9HlIaJo in post 4414552473493871694 : Ани �
 Successfully processed videos CSkHoQRQMsE in post 2789121590061661904 : ВИА ГРА - Перемирие
 Successfully processed videos oHPClm0xCOA in post 6194016234101052104 : Ева Бушмина - Религия
 Successfully processed videos bq8nhvc1O5c in post 7348314432590738194 : Ассорти - &quot;Не с тобой&quot;
-=========================================================
-MISSING VIDEO 8U2PoH_swbw IN POST 4275632552492254662 : Даша Столбова - Ты не умеешь мечтать
-=========================================================
+Successfully processed videos 8U2PoH_swbw in post 4275632552492254662 : Даша Столбова - Ты не умеешь мечтать
 Successfully processed videos 8NXT0bAE5Io in post 2962857639209713408 : Жанна Перегон - На мели
 Successfully processed videos 2iAJ36GhRoo in post 6668665645612463571 : Pulse - Ты убиваешь меня
 Successfully processed videos z9pn6G5MltI in post 5635869601651020527 : Эрика- С первого взгляда
@@ -3368,9 +3366,7 @@ Successfully processed videos 6K_6_0hyUvg in post 880103119546855975 : Ани Л
 Successfully processed videos EbuEJBKBnO8 in post 1399768261851858760 : Георгин - Планка
 Successfully processed videos 01NggYZ4s-o in post 7609979738148420156 : Анна Седокова - Драма
 Successfully processed videos R07T-0v8ybU in post 8643684435023497779 : ФАБРИКА "Мы такие разные"
-=========================================================
-MISSING VIDEO qehm9FOjRZU IN POST 1771653712346962053 : ВИА Сириус - Дыши Глубже
-=========================================================
+Successfully processed videos qehm9FOjRZU in post 1771653712346962053 : ВИА Сириус - Дыши Глубже
 Successfully processed videos 1HD6LgoFDuY in post 8372590792944605513 : Пающие трусы Гимн Евро 2012
 Successfully processed videos ymLsf6ryr-0 in post 6635583227883386016 : Поющие трусы Стринги HD
 Successfully processed videos AfI9CVpp6fg in post 2044922989566949419 : Светлана Лобода - Я забуду тебя
@@ -3388,9 +3384,7 @@ Successfully processed videos Jn0L6ZVBCaY in post 6973076591077875969 : Анна
 Successfully processed videos O5kCvV5kj4E in post 5025268030310358312 : Элина - Ты Не Мой
 Successfully processed videos 7zuFBTRq6I0 in post 3007893955078468739 : Dekolte - Любовь наркотик
 Successfully processed videos Cj1MSi0fw74 in post 3847977717731634813 : Mary - Падай, как вода
-=========================================================
-MISSING VIDEO JmB7dutspVM IN POST 2315924230279000731 : Декольте В одной рубашке
-=========================================================
+Successfully processed videos JmB7dutspVM in post 2315924230279000731 : Декольте В одной рубашке
 Successfully processed videos syfkr8E08a8 in post 502028814715711944 : Вера Брежнева - Хороший день
 Successfully processed videos q5bMMYmhB0U in post 1102533162129956662 : Даша Столбова - Ты, ты
 Successfully processed videos KX2nBJAsiH4 in post 988781537740834723 : Инфинити - Нежно
