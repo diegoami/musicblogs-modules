@@ -900,7 +900,9 @@ Successfully processed videos IJGAoi4H8QM in post 1176451481515383725 : Lidija B
 Successfully processed videos h3hJ-OzQHeE in post 6976213368193678938 : Dajana Jaksic - Nova ljubav stare navike
 Successfully processed videos -qu73PyyRV8 in post 8931156139533004183 : Nikolina Kovac - Hollywood
 Successfully processed videos PrEvlpNyfZM in post 5040606016111521552 : SOFIJA PERIC - PRVI PUT
-Successfully processed videos sYSX303c4qw in post 2881761897234200117 : JOVANA TIPSIN - MUZIKA ZASPALA
+=========================================================
+MISSING VIDEO sYSX303c4qw IN POST 2881761897234200117 : JOVANA TIPSIN - MUZIKA ZASPALA
+=========================================================
 Successfully processed videos _6dsHn7GqG8 in post 1962025631533720882 : Indira Radic - Mnogo si se promenio
 Successfully processed videos _EdpIzHnIxQ in post 1377613703142379236 : Ivana Selakov - Godine i laži
 Successfully processed videos LNQU857v5zw in post 3648245865297241423 : GOCA TRZAN - GRADSKE KUCKE
@@ -2556,9 +2558,7 @@ Successfully processed videos 1NI-Ry4oWJU in post 5487914660243679929 : Алек
 Successfully processed videos A9FsaKdwoG4 in post 4373505464245480205 : Алина Гросу - Ложь
 Successfully processed videos rctCUqOrWWs in post 1362474943508789716 : Винтаж - Кто хочет стать королевой
 Successfully processed videos NZtm7h3iJQI in post 5772687102327654116 : Мика Ньютон - В Плену
-=========================================================
-MISSING VIDEO SF6DK2WgMsE IN POST 5319466931821260609 : Алина Гросу - Найки
-=========================================================
+Successfully processed videos SF6DK2WgMsE in post 5319466931821260609 : Алина Гросу - Найки
 Successfully processed videos MsvUscdzkAc in post 8768463791383387371 : МАКSИМ - МОЙ РАЙ
 Successfully processed videos pb_xGZA7zl0 in post 4810524268912020938 : Мика Ньютон - Ангел
 Successfully processed videos 5Fv19KVVya8 in post 3162112541083174897 : KAZKA — CRY / ПЛАКАЛА
