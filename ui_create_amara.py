@@ -1,13 +1,14 @@
 import tkinter as tk
-
-import tools.tool_blog_amara
+from tools.blog_amara_tool import BlogAmaraTool
 from amara.amara_env import amara_headers
 
 class Application(tk.Frame):
-    def __init__(self, master=None):
+    def __init__(self, amara_headers, master=None):
         super().__init__(master)
+        self.amara_headers = amara_headers
         self.pack()
         self.create_widgets()
+        self.blog_amara_tool = BlogAmaraTool(amara_headers)
 
     def create_widgets(self):
         self.blogIdLabel= tk.Label(self)
@@ -39,13 +40,13 @@ class Application(tk.Frame):
         self.executeButton["command"] = self.do_import
         self.executeButton.pack(side="top")
 
-        self.quit = tk.Button(self, text="QUIT", fg="red",
-                              command=root.destroy)
+        self.quit = tk.Button(self, text="QUIT", fg="red", command=root.destroy)
         self.quit.pack(side="bottom")
 
     def do_import(self):
-        tools.tool_blog_amara.subtitles_workflow(self.blogIdEntryBox.get(), self.postIdEntryBox.get(), self.languageCodeBox.get(), amara_headers)
+
+        self.blog_amara_tool.subtitles_workflow(self.blogIdEntryBox.get(), self.postIdEntryBox.get(), self.languageCodeBox.get())
 
 root = tk.Tk()
-app = Application(master=root)
+app = Application(amara_headers=amara_headers, master=root)
 app.mainloop()

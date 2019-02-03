@@ -10,16 +10,7 @@ def get_subtitles(video_id,language,amara_headers):
     rjs= r.json()
     return rjs['subtitles']
 
-def get_video_id(video_url,language_code,amara_headers):
-    url = 'https://amara.org/api/videos/'
-    urldict = dict({'video_url': video_url})
-    r = requests.get(url, params=urldict, headers=amara_headers)
-    json_ret = r.json()
-    print(json_ret)
-    if 'objects' in json_ret and len (json_ret['objects']) > 0 :
-        return json_ret['objects'][0]['id']
-    else:
-        return post_video(video_url,language_code, amara_headers)
+
 
 
 def get_video_info(video_url,amara_headers):
