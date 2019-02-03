@@ -31,7 +31,6 @@ def update_blog_collection(posts_collection, blogId, apiKey, olddata=None):
                 if blogPost  != tdata[blogPost.postId]:
                     print("updating {}".format(update_key ))
 
-
                     posts_collection.update_one(update_key,   { '$set' : update_value } )
                     print("updated {} ".format(update_key))
                 else:
