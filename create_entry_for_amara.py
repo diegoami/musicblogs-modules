@@ -1,4 +1,4 @@
-import tools.tool_blog_amara
+from tools.blog_amara_tool import BlogAmaraTool
 import os
 from oauth2client.tools import argparser
 
@@ -23,4 +23,5 @@ amara_headers={
     "X-api-key": os.getenv('AMARA-X-api-key')
 }
 
-tools.tool_blog_amara.subtitles_workflow(blogId, postId, language_code, amara_headers)
+blog_amara_tool = BlogAmaraTool(amara_headers)
+blog_amara_tool.subtitles_workflow(blogId, postId, language_code)
