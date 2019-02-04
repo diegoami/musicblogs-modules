@@ -559,6 +559,7 @@ Successfully processed videos oHa5aQY7fes in post 2436219825202120118 : Lanberry
 Successfully processed videos vRECTxZGqYU in post 1730878935337033520 : Paulla - Dotykaj Mnie
 Successfully processed videos yUE7vpVG7sc in post 4526172021276497290 : Maja Koman - Kocham Karpia
 Successfully processed videos AhmVQF5odOY in post 3989149272968404590 : Natalia Kukulska - Rekonstrukcja
+Successfully processed videos 0hRGcPSFeeg in post 1291510030644603149 : Sarsa - Carmen
 Successfully processed videos 73reXUqghbc in post 6196556388528231427 : JELENA ROZGA - OSTANI
 Successfully processed videos g9PZOnU0w4I in post 8494819157938259679 : KIJA FEAT MINISTARKE - NE VRACAM SE NA STARO
 Successfully processed videos 2oedZZGvbOA in post 4645831616374827065 : INA GARDIJAN - PRVA DAMA
@@ -1212,6 +1213,10 @@ Successfully processed videos LTN63dM_hhI in post 4053435385101668920 : Sandra R
 Successfully processed videos 0XazYz5fjos in post 8689781608718570976 : Milica Pavlovic - Hej zeno
 Successfully processed videos cySswFVrW28 in post 3597443691202844986 : Saška Hajder - Bezimena
 Successfully processed videos LUMQYg1G8aY in post 1362911234944814448 : Sara Jo - Bez sna
+Successfully processed videos qR2Sw1ux_hU in post 1423207044179065402 : Tanja Žagar - Dnevi sreče, dnevi žalosti
+Successfully processed videos e3AHm4K3XwU in post 4463715331646763363 : JELENA ROZGA - MOJE PROLJECE
+Successfully processed videos RjYs1RtdZ3o in post 1507743134779759021 : SEVERINA - HALO
+Successfully processed videos h758Ja19WqQ in post 7997748020720992647 : Danijela Martinović - Kao prekjučer
 Successfully processed videos hFCuIiEtMX4 in post 2136301947250011005 : ADDA - Mama Soacra
 Successfully processed videos 7R7dHPHzI3A in post 7978876831907752637 : Lora - Pleaca
 Successfully processed videos 2bF6KJSt7mc in post 1433172030263518272 : VOLTAJ - Kori Gent
@@ -1601,6 +1606,9 @@ Successfully processed videos HARF26kEQbE in post 4254964832107742303 : KAIRA - 
 Successfully processed videos Vq1b0-XaQyQ in post 1737649096249237951 : Rawanne - Iar ea
 Successfully processed videos 9PQi85bnQfQ in post 7547025249240742989 : Delia Rus - Alandala
 Successfully processed videos FUS7qsrm1iY in post 5305218041052836654 : Feli - Nu ma inveti tu
+Successfully processed videos ZgkAmrKxdnU in post 6075457784612426347 : Nicoleta Nuca - N-am Pierdut Nimic
+Successfully processed videos 7j6T-Ld8QAI in post 6356854908097792592 : NICO - Amintirile nu mor
+Successfully processed videos k_t-OFPl4YU in post 7789229992985580071 : Cleopatra Stratan - Adio
 Successfully processed videos 7AGt_qpHl30 in post 3454792388918804952 : Tereza Kerndlová - Když Nebe Padá Nám
 Successfully processed videos Vk7dFgYnbsM in post 2432646889854896542 : Lucie Vondráčková - Paralelní světy
 Successfully processed videos vB8MOXAlNao in post 4077386673127780254 : Rúzsa Magdolna - Aduász
