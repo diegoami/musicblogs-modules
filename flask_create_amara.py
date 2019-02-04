@@ -1,7 +1,7 @@
 from flask import Flask
 from flask_restful import Resource, Api
 from flask import request
-import tools.tool_blog_amara
+import tools.blog_amara_tool
 app = Flask(__name__)
 api = Api(app)
 
@@ -30,7 +30,7 @@ class CreateAmara(Resource):
         print(blogId)
         print(postId)
         print(language_code)
-        tools.tool_blog_amara.subtitles_workflow(blogId, postId, language_code, amara_headers)
+        tools.blog_amara_tool.subtitles_workflow(blogId, postId, language_code, amara_headers)
         return {'ok' : 1, 'blogId' : blogId, 'postId' : postId, 'language_code' : language_code}
 
 api.add_resource(CreateAmara, '/bae/<blogId>/<postId>/<language_code>')

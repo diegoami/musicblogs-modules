@@ -111,8 +111,6 @@ def extract_content_and_video(blogId, postId, posts):
     return result_dict
 
 def insert_amara_tags(blogId, postId, posts, language_code):
-
-
     result_dict = extract_content_and_video(blogId, postId, posts)
     content, videoId, posts_doc = result_dict['content'],result_dict['videoId'],result_dict['posts_doc']
     if content.find('amara') > -1:
