@@ -1013,7 +1013,9 @@ Successfully processed videos CAgyUkE6Ry0 in post 2050758031944466593 : Ana Niko
 Successfully processed videos E6Uuv0G0bd0 in post 929912539162653317 : Djogani - Jagode sa slagom (OFFICIAL VIDEO) HD
 Successfully processed videos v6tuOipj5mk in post 7916847822575319060 : Emina Jahovic - Tvoja greska
 Successfully processed videos Yd_is7iZCtU in post 7810074697321102848 : Dara Bubamara - VOLIM SVE ŠTO VOLE MLADI
-Successfully processed videos Ku2KJ7jlDnc in post 8697451674321627673 : Sara Jovanovic - Zauvek
+=========================================================
+MISSING VIDEO Ku2KJ7jlDnc IN POST 8697451674321627673 : Sara Jovanovic - Zauvek
+=========================================================
 Successfully processed videos ABLV97wxM7Y in post 8749829385691774359 : NEVENA BOZOVIC - BAL
 Successfully processed videos Y0aujySQv4U in post 3827170776976684457 : JELENA TOMASEVIC - VERTIGO
 Successfully processed videos OsUuPT8_FV8 in post 7537383631914719382 : Severina - Tridesete
