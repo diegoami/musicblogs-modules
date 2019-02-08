@@ -3647,7 +3647,9 @@ Successfully processed videos wQewbFDzC5w in post 6096968953854397543 : Фабр
 Successfully processed videos P4ZpiidtYI4 in post 3267483275880342325 : Тутси "Самый самый"
 Successfully processed videos KIJwVXm1e_U in post 6503174495831278614 : Пропаганда-Он меня провожал
 Successfully processed videos XiKbZ9djQ6I in post 6678381428976762940 : Пропаганда - гордая
-Successfully processed videos HFVYKHa28Ts in post 7360121726376747012 : АССОРТИ - САМОЛЁТАМИ
+=========================================================
+MISSING VIDEO HFVYKHa28Ts IN POST 7360121726376747012 : АССОРТИ - САМОЛЁТАМИ
+=========================================================
 Successfully processed videos gbZW6GUA93w in post 1867990143689732669 : Нюша / Nyusha - Не перебивай
 Successfully processed videos pCVe5mXUVLM in post 930023789104543386 : ВИА Гра - Сумасшедший. 2009
 Successfully processed videos 6w-OwP2ER2M in post 2894451867205759433 : Я не вернусь
