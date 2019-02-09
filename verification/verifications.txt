@@ -560,6 +560,7 @@ Successfully processed videos vRECTxZGqYU in post 1730878935337033520 : Paulla -
 Successfully processed videos yUE7vpVG7sc in post 4526172021276497290 : Maja Koman - Kocham Karpia
 Successfully processed videos AhmVQF5odOY in post 3989149272968404590 : Natalia Kukulska - Rekonstrukcja
 Successfully processed videos 0hRGcPSFeeg in post 1291510030644603149 : Sarsa - Carmen
+Successfully processed videos kgVSiLpN0Lg in post 4617984336936242652 : Natalia Szroeder - Nie oglądam się
 Successfully processed videos 73reXUqghbc in post 6196556388528231427 : JELENA ROZGA - OSTANI
 Successfully processed videos g9PZOnU0w4I in post 8494819157938259679 : KIJA FEAT MINISTARKE - NE VRACAM SE NA STARO
 Successfully processed videos 2oedZZGvbOA in post 4645831616374827065 : INA GARDIJAN - PRVA DAMA
@@ -1219,6 +1220,9 @@ Successfully processed videos qR2Sw1ux_hU in post 1423207044179065402 : Tanja Ž
 Successfully processed videos e3AHm4K3XwU in post 4463715331646763363 : JELENA ROZGA - MOJE PROLJECE
 Successfully processed videos RjYs1RtdZ3o in post 1507743134779759021 : SEVERINA - HALO
 Successfully processed videos h758Ja19WqQ in post 7997748020720992647 : Danijela Martinović - Kao prekjučer
+Successfully processed videos P28vDj_KigQ in post 3010279967615527220 : Maya Berović - Sama
+Successfully processed videos LaUV4Iary5E in post 6924054489269949889 : Neda Ukraden - Premalo mi je
+Successfully processed videos QCuqX_IKZjU in post 8574268265346768555 : SEVERINA - KUMA
 Successfully processed videos hFCuIiEtMX4 in post 2136301947250011005 : ADDA - Mama Soacra
 Successfully processed videos 7R7dHPHzI3A in post 7978876831907752637 : Lora - Pleaca
 Successfully processed videos 2bF6KJSt7mc in post 1433172030263518272 : VOLTAJ - Kori Gent
@@ -2113,6 +2117,8 @@ Successfully processed videos 5oqqt9pqZyM in post 2138021120703454685 : Hélène
 Successfully processed videos OrBjkXziXnw in post 6593032422967707362 : Hélène : Je m'appelle Hélène
 Successfully processed videos UCB5zRmQ-qg in post 7478454782680574653 : Alma - La chute est lente
 Successfully processed videos SwFkaFuv8HA in post 1893025366421171119 : Hélène : Peut-être qu'en septembre
+Successfully processed videos 85m-Qgo9_nE in post 6621944865953901263 : Clara Luciani - La grenade
+Successfully processed videos ABPyMbKlSYo in post 4662101805838141396 : Julia - S.E.X.T.O
 Successfully processed videos bXuwhnlg13A in post 385761067360810720 : Elisa - Se Piovesse Il Tuo Nome
 Successfully processed videos A1hchTlWVfo in post 8047103689707608755 : Laura Pausini - La soluzione
 Successfully processed videos SQa4ColupuA in post 2921899976525565837 : Noemi - Porcellana
@@ -2276,6 +2282,10 @@ Successfully processed videos WoE7qA9-1tE in post 8083032600899513030 : Alessand
 Successfully processed videos KIacTWFCm5E in post 8875169685669297730 : Emma - Mondiale
 Successfully processed videos sOAwgYRC3rU in post 6387578522939603964 : Federica Abbate - Finalmente
 Successfully processed videos cuIw58yNblg in post 2999386081875048068 : Malika Ayane - Quanto dura un'ora
+Successfully processed videos wVnXfZa7S8I in post 7821677928434814378 : Arisa - Mi sento bene
+Successfully processed videos StsxXd15Fgc in post 2858411019427372959 : Anna Tatangelo - Le nostre anime di notte
+Successfully processed videos Tt9ni9rFlrY in post 6223210641338280988 : Paola Turci - L'ultimo Ostacolo
+Successfully processed videos N1TO0j5jH68 in post 7538862120743238809 : Alessandra Amoroso - Dalla tua parte
 Successfully processed videos -T5G2j9Og8c in post 5848803195056160208 : Импульсы - Елена Темникова
 Successfully processed videos jOEas7bGM8Q in post 2863579059768961411 : Таисия Повалий - Я помолюсь за тебя
 Successfully processed videos gs1JrhjUpnc in post 3529843302676686150 : LOBODA - SuperSTAR
@@ -2386,7 +2396,9 @@ Successfully processed videos jvpml9j0N6s in post 7021002879975232190 : Маша
 Successfully processed videos r2mm7D7jOk0 in post 4060679249841004746 : Кристина Орбакайте - Ты мой
 Successfully processed videos RiuG-Ftv9mI in post 8462796694921019653 : Анна Калашникова - Две планеты
 Successfully processed videos gjbML7axwq8 in post 2707185166963232385 : Mirami - Екстазі
-Successfully processed videos tXgXDqv6beE in post 3833460773253677424 : Рената Штифель - Ты мой рай
+=========================================================
+MISSING VIDEO tXgXDqv6beE IN POST 3833460773253677424 : Рената Штифель - Ты мой рай
+=========================================================
 Successfully processed videos _bCNq5rcdgM in post 8015279951807122325 : Keren - Мечты
 Successfully processed videos HSlxaW6FMQQ in post 7183032994271267372 : Байрон - Отпусти
 Successfully processed videos uYceJ4yNLJ0 in post 7506813917542463987 : Виктория Ланевская - Счастья Островок
@@ -2568,7 +2580,9 @@ Successfully processed videos 1NI-Ry4oWJU in post 5487914660243679929 : Алек
 Successfully processed videos A9FsaKdwoG4 in post 4373505464245480205 : Алина Гросу - Ложь
 Successfully processed videos rctCUqOrWWs in post 1362474943508789716 : Винтаж - Кто хочет стать королевой
 Successfully processed videos NZtm7h3iJQI in post 5772687102327654116 : Мика Ньютон - В Плену
-Successfully processed videos SF6DK2WgMsE in post 5319466931821260609 : Алина Гросу - Найки
+=========================================================
+MISSING VIDEO SF6DK2WgMsE IN POST 5319466931821260609 : Алина Гросу - Найки
+=========================================================
 Successfully processed videos MsvUscdzkAc in post 8768463791383387371 : МАКSИМ - МОЙ РАЙ
 Successfully processed videos pb_xGZA7zl0 in post 4810524268912020938 : Мика Ньютон - Ангел
 Successfully processed videos 5Fv19KVVya8 in post 3162112541083174897 : KAZKA — CRY / ПЛАКАЛА
@@ -3770,3 +3784,4 @@ Successfully processed videos xoKTtQ7j4OU in post 1673753042964927207 : REFLEX �
 Successfully processed videos 8maveZ9ZMu0 in post 2601342391283469862 : Lama - Привіт, привіт
 Successfully processed videos DaltLrF0yb4 in post 6279815577161301448 : Юлия Ковальчук - Давай
 Successfully processed videos VYjrQY8PKzg in post 9024980625807181020 : ІРИНА ФЕДИШИН - РОМАН
+Successfully processed videos q84t-ZJ-gDc in post 3854561266831652717 : Полина Гагарина - Меланхолия
