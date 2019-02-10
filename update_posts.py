@@ -27,5 +27,5 @@ if __name__ == "__main__":
 
     blog_repository = BlogRepository(args.mongo_connection, args.blogId, amara_headers)
     blog_client = BlogClient(os.path.join(os.path.dirname(__file__), 'client_secrets.json'))
-#    update_blog_collection(blog_repository=blog_repository, blog_client=blog_client, blog_id=args.blogId)
+    update_blog_collection(blog_repository=blog_repository, blog_client=blog_client, blog_id=args.blogId)
     update_subtitles_collection(blog_repository, blog_client, args.blogId, args.languages)
