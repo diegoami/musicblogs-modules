@@ -1,14 +1,12 @@
 
-import argparse
 from pymongo import MongoClient
 import os
 from dotenv import load_dotenv
 load_dotenv()
-import sys
+
 from legacy import youtube_tools
 
 import argparse
-import codecs
 
 
 from legacy.blogspot_tools import iterate_blog_posts, iterate_title_and_videos, BlogPost
@@ -57,7 +55,7 @@ if __name__ == "__main__":
 
     client = MongoClient(mongo_connection)
     musicblogs_database = client.musicblogs
-    posts_collection= musicblogs_database['posts.'+args.blogId]
+    posts_collection = musicblogs_database['posts.'+args.blogId]
 
 
     posts_in_blog = posts_collection.find()
