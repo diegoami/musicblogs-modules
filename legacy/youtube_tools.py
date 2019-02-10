@@ -1,6 +1,4 @@
 import requests
-import json
-import re
 
 
 def verify_link(title,code,api_key):

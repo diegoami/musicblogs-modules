@@ -1,70 +1,33 @@
-
-from pymongo import MongoClient
-import os
-from dotenv import load_dotenv
-load_dotenv()
-
-from legacy import youtube_tools
-
+from blogspotapi import BlogRepository
+from amara.amara_env import amara_headers
 import argparse
+import os
+from youtube3 import YoutubeClient
 
 
-from legacy.blogspot_tools import iterate_blog_posts, iterate_title_and_videos, BlogPost
-import yaml
-
-def verify_blog_collection(posts_collection, blogId, apiKey, data=None):
-    for postId, blogPost in data.items():
-        if not blogPost:
-            continue
-
-        if not hasattr(blogPost, "videoId"):
-            continue
-
-        if not blogPost.videoId:
-            continue
 
 
-        validLink = youtube_tools.verify_link(blogPost.title, blogPost.videoId, apiKey)
+def verify_blog_collection(blog_repository, youtube_client, blog_id):
+
+    for post_id, blog_post in blog_repository.posts_map.items():
+        validLink = youtube_client.verify_video(blog_post.videoId)
         if not validLink:
             print('=========================================================')
-            print(u'MISSING VIDEO {} IN POST {} : {}'.format(blogPost.videoId, postId, blogPost.title))
+            print(u'MISSING VIDEO {} IN POST {} : {}'.format(blog_post.videoId, blog_post.postId, blog_post.title))
             print('=========================================================')
         else:
-            print(u'Successfully processed videos {} in post {} : {}'.format(blogPost.videoId, postId, blogPost.title))
+            print(u'Successfully processed videos {} in post {} : {}'.format(blog_post.videoId, blog_post.postId, blog_post.title))
 
 
 
 if __name__ == "__main__":
-
     parser = argparse.ArgumentParser()
-
-    parser.add_argument('--blogId')
-    parser.add_argument('--configFile')
-    api_key = os.getenv("BLOG-API-KEY")
-    mongo_connection = os.getenv("mongo_connection")
-
+    parser.add_argument('--blogId', type=str)
+    parser.add_argument('--languages', type=str)
+    parser.add_argument('--mongo_connection', type=str, default='mongodb://localhost:27017/musicblogs')
     args = parser.parse_args()
-    api_key = os.getenv("BLOG-API-KEY")
-    mongo_connection = os.getenv("mongo_connection")
 
-    args = parser.parse_args()
-    if (args.configFile):
-        config = yaml.safe_load(open(args.configFile))
-        api_key = config['API-KEY']
-        mongo_connection = config['mongo_connection']
+    blog_repository = BlogRepository(args.mongo_connection, args.blogId, amara_headers)
+    youtube_client = YoutubeClient(os.path.join(os.path.dirname(__file__), 'client_secrets.json'))
 
-    client = MongoClient(mongo_connection)
-    musicblogs_database = client.musicblogs
-    posts_collection = musicblogs_database['posts.'+args.blogId]
-
-
-    posts_in_blog = posts_collection.find()
-    posts_map = \
-        { p['postId']: BlogPost(
-               postId=p['postId'], title=p['title'], videoId=p['videoId'], content=p['content'], labels=p.get('labels',0), url=p.get('url', ''),
-               amara_embed=p.get('amara_embed', '')
-            ) for p in posts_in_blog
-        }
-
-
-    verify_blog_collection(posts_collection, blogId=args.blogId, apiKey=api_key, data=posts_map )
+    verify_blog_collection(blog_repository=blog_repository, youtube_client=youtube_client, blog_id=args.blogId)
