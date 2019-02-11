@@ -1,27 +1,31 @@
-
-
+import argparse
+import os
 import traceback
 
-from tools import tool_youtube_client
-from apiclient.errors import HttpError
-from oauth2client.tools import argparser
+from youtube3 import YoutubeClient
+from googleapiclient.errors import HttpError
+import operator
 
-from tools import tool_blog_client
+from blogspotapi import BlogClient, BlogPost, BlogRepository
+from amara.amara_env import amara_headers
 
 if __name__ == "__main__":
-
-    argparser.add_argument('--blogId')
-    args = argparser.parse_args()
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--blogId')
+    parser.add_argument('--mongo_connection', type=str, default='mongodb://localhost:27017/musicblogs')
+    args = parser.parse_args()
     channelsDict = dict()
-    youtube = tool_youtube_client.get_authenticated_service(args)
-    service, flags = tool_blog_client.login()
-    blogId=args.blogId
-    for post in tool_blog_client.iterate_blog_posts(service, blogId):
+    client_secrets_file = os.path.join(os.path.dirname(__file__), 'client_secrets.json')
+    youtube_client = YoutubeClient(client_secrets_file)
+    blog_client = BlogClient(client_secrets_file)
+    blog_repository = BlogRepository(args.mongo_connection, args.blogId, amara_headers)
+    blogId = args.blogId
+    for post_id, blog_post in blog_repository.posts_map.items():
         try:
-            videoId = tool_blog_client.extract_video(blogId, post['id'], service.posts())
+            videoId = blog_post.videoId
             print('Found video ' + videoId)
-            tool_youtube_client.like_video(youtube, videoId)
-            channelId = tool_youtube_client.get_channel_id(youtube, videoId)
+            youtube_client.like_video(videoId)
+            channelId = youtube_client.get_channel_id( videoId)
             print('Found channel ' + channelId)
             if not channelId in channelsDict:
                 channelsDict[channelId] = 0
@@ -34,7 +38,7 @@ if __name__ == "__main__":
         else:
             print('Liked video ' + videoId)
 
-    sorted_channels = sorted(channelsDict.items(), key=lambda x: x[1], reverse=True)
+    sorted_channels = sorted(channelsDict.items(), key=operator.itemgetter(1), reverse=True)
     print(sorted_channels)
-    for k,v in sorted_channels:
-        tool_youtube_client.subscribe_channel(youtube, k)
+    for channel_id, channel_name in sorted_channels:
+        youtube_client.subscribe_channel(channel_id)
