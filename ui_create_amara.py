@@ -13,7 +13,7 @@ class Application(tk.Frame):
         self.blog_amara_tool = BlogAmaraTool(amara_headers, config_file)
 
     def create_widgets(self):
-        self.blogIdLabel= tk.Label(self)
+        self.blogIdLabel = tk.Label(self)
         self.blogIdLabel["text"] = "blogId"
         self.blogIdLabel.pack()
 
