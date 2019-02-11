@@ -867,9 +867,6 @@ Successfully processed videos 6lfbH2GFzz0 in post 8371400218824307224 : Mira M -
 Successfully processed videos By4tDrHdAzQ in post 3385234386377686803 : MIA BORISAVLJEVIC - NISTA LICNO
 Successfully processed videos n7fkWEcM2jw in post 5948446509721624671 : JELENA ROZGA - UDAJEM SE
 Successfully processed videos vPu3QEfiZ0Q in post 8210955295428017866 : SEVERINA - SEKUNDE
-=========================================================
-MISSING VIDEO Aya8O7CeD_E IN POST 7819061324643752210 : NATASA BEKVALAC - LUDILO
-=========================================================
 Successfully processed videos RaJR8HqfwwA in post 5594017284942265820 : Anabela - Pice za drugare
 Successfully processed videos 6ssNhh7oQss in post 7754721473113491995 : Biljana Secivanovic - Ili ili
 Successfully processed videos 8B-WRCFUtmI in post 4130863301972996191 : Neda Ukraden - Terapija
@@ -902,9 +899,7 @@ Successfully processed videos IJGAoi4H8QM in post 1176451481515383725 : Lidija B
 Successfully processed videos h3hJ-OzQHeE in post 6976213368193678938 : Dajana Jaksic - Nova ljubav stare navike
 Successfully processed videos -qu73PyyRV8 in post 8931156139533004183 : Nikolina Kovac - Hollywood
 Successfully processed videos PrEvlpNyfZM in post 5040606016111521552 : SOFIJA PERIC - PRVI PUT
-=========================================================
-MISSING VIDEO sYSX303c4qw IN POST 2881761897234200117 : JOVANA TIPSIN - MUZIKA ZASPALA
-=========================================================
+Successfully processed videos mUpcROZKcb0 in post 2881761897234200117 : JOVANA TIPSIN - MUZIKA ZASPALA
 Successfully processed videos _6dsHn7GqG8 in post 1962025631533720882 : Indira Radic - Mnogo si se promenio
 Successfully processed videos _EdpIzHnIxQ in post 1377613703142379236 : Ivana Selakov - Godine i laži
 Successfully processed videos LNQU857v5zw in post 3648245865297241423 : GOCA TRZAN - GRADSKE KUCKE
@@ -1816,6 +1811,9 @@ Successfully processed videos 4PdowcESMBA in post 4492986815296411983 : VERONA -
 Successfully processed videos rSbCkdCdITo in post 4757518348752955154 : Mária Čírová - Dokonalý svet
 Successfully processed videos pfN2GB3v_48 in post 3109449525377314687 : Eva Matějovská - Tak si běž
 Successfully processed videos sr8GIWM7B8U in post 5544927851620874087 : Markéta Konvičková - TY
+Successfully processed videos hhjX6LbbY-Y in post 2765106584545276174 : Patai Anna - Leszek én a nyár, ha hóesés van
+Successfully processed videos Kx1jWPXXYyM in post 1337090030375827400 : Eva Matějovská - Na vršku pyramidy
+Successfully processed videos FzA9Nt5jGW0 in post 6109248737987068867 : Barbora Poláková - Sami dva
 Successfully processed videos dzWit_mevK0 in post 4811006299972780875 : Lara Fabian - Papillon
 Successfully processed videos PZpnN2UoASM in post 3407314393744784346 : Najoua Belyzel - Cheveux aux vents
 Successfully processed videos 2z0AJrnUVLY in post 8855178202712189820 : Kamini - Renaissance
@@ -1871,9 +1869,6 @@ Successfully processed videos XHGkGE6b850 in post 4838099803607134347 : Lorie - 
 Successfully processed videos pHy0LkdpxSU in post 3246587387153698102 : Zaho - C'est Chelou
 Successfully processed videos w2wrHUQhdfI in post 1271163689661409920 : Mylène Farmer - L'Amour N'Est Rien...
 Successfully processed videos 6yUb-hqF_wY in post 7852521791533195793 : Zaho - Je Te Promets
-=========================================================
-MISSING VIDEO 1ZBVu3bcnrM IN POST 6241453003029797990 : VITAA - Tu Me Laisseras
-=========================================================
 Successfully processed videos xyqSAsR_Tms in post 1294330556244654145 : Louane - On était beau
 Successfully processed videos PHDVFQnYj2Q in post 7644263806155267505 : Rose - la liste
 Successfully processed videos G5erDuKhr8Q in post 2146421307049126443 : Joyce Jonathan - Je ne veux pas de toi
@@ -2351,9 +2346,7 @@ Successfully processed videos 1Xd48GdAWAQ in post 3221507053679836713 : Оля �
 Successfully processed videos pYl6tgaJaGU in post 1295279911558955321 : Оля Цибульська - Сукня біла
 Successfully processed videos mzNcWgADn3Q in post 627552914173323448 : Ірина Білик - Не ховай очей
 Successfully processed videos R8Xpb7dGBE8 in post 8210855991781866022 : Клава Кока — Забери Меня
-=========================================================
-MISSING VIDEO qYANU_3UtMQ IN POST 1707532765071090301 : МакSим - Здесь и Сейчас
-=========================================================
+Successfully processed videos YSiye3fUaLs in post 1707532765071090301 : МакSим - Здесь и Сейчас
 Successfully processed videos T3BrBaP0hvA in post 5314371840085260886 : Не сдерживай меня - Елена Темникова
 Successfully processed videos aD-nvN8a6Ec in post 1380053680273476309 : Алсу - Не молчи
 Successfully processed videos RU5gpCoXbU0 in post 3985383119362334117 : Юля Паршута - Все в порядке
@@ -2501,9 +2494,7 @@ Successfully processed videos GggXbANOjX8 in post 5232626185985508062 : Юлия
 Successfully processed videos PI3Ioy9paVw in post 3685597604675831213 : Анна Корнильева - Август
 Successfully processed videos 8athLMCarCg in post 519032185782049330 : ВЕСНА - Тянет ко мне
 Successfully processed videos Nm4wMLMIbDU in post 4716399154285096417 : ВЕСНА - Состою из тебя
-=========================================================
-MISSING VIDEO mLqh5RFRarE IN POST 6454341937562094386 : Ксения Луговая - Забыла (Official Video) Премьера 2017
-=========================================================
+Successfully processed videos IGgVOqbVvm4 in post 6454341937562094386 : Ксения Луговая - Забыла (Official Video) Премьера 2017
 Successfully processed videos I5xrK4uoi3k in post 8938603399577721064 : Ирина Дубцова - О нём
 Successfully processed videos GpKUMD5SUck in post 132469817724062439 : LOREN - Люби
 Successfully processed videos Bu6Rbs40JwI in post 4030178703527885594 : Reflex - Ирина Нельсон "После тебя"
@@ -2703,9 +2694,7 @@ Successfully processed videos 5HZt4sKyLsw in post 4551646413116876554 : Selfy - 
 Successfully processed videos GI1Emueo-9o in post 7264533169505072805 : Алена Винницкая - Давай забудем все
 Successfully processed videos Crv92js5EEE in post 7578408419793690849 : Ева Бушмина - Лето напрокат
 Successfully processed videos gACAQaYpI7U in post 409816716852891514 : Нюша / Nyusha – «Целуй»
-=========================================================
-MISSING VIDEO v8vi9ftIrlA IN POST 6337361915686685465 : Настя Кудри - Не шути
-=========================================================
+Successfully processed videos 7nMzf4Y0cXM in post 6337361915686685465 : Настя Кудри - Не шути
 Successfully processed videos wmPgnlhDs9E in post 3848026861953994706 : Татьяна Решетняк - 9 жизней.
 Successfully processed videos dN1EITPC0-U in post 8892636723614583379 : Анна Семенович - Без руля
 Successfully processed videos WzRLPi3kUT0 in post 4140634443997005811 : USTINOVA - Мечта
@@ -3783,3 +3772,4 @@ Successfully processed videos 8maveZ9ZMu0 in post 2601342391283469862 : Lama - �
 Successfully processed videos DaltLrF0yb4 in post 6279815577161301448 : Юлия Ковальчук - Давай
 Successfully processed videos VYjrQY8PKzg in post 9024980625807181020 : ІРИНА ФЕДИШИН - РОМАН
 Successfully processed videos q84t-ZJ-gDc in post 3854561266831652717 : Полина Гагарина - Меланхолия
+Successfully processed videos 9PvQZa10S0w in post 2589603199577848409 : Настя Кудри — Скажи
