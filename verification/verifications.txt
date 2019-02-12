@@ -3419,7 +3419,9 @@ Successfully processed videos Nv8R0LRYnw4 in post 6570918058481477704 : Анже
 Successfully processed videos zEBXANx7rdI in post 5379707892798282228 : Анастасия Стоцкая. Влюбляться
 Successfully processed videos JbVwNJLEHPA in post 5760104696793659315 : Ева Польна. Весь мир на ладони моей
 Successfully processed videos wsEzw5SE0LQ in post 5659990515637547646 : Наташа Гордиенко. Любовь не текила
-Successfully processed videos dgb8iX3_aaU in post 6826962773988899589 : REFLEX - Я буду небом твоим
+=========================================================
+MISSING VIDEO NgdpaelOetw IN POST 6826962773988899589 : REFLEX - Я буду небом твоим
+=========================================================
 Successfully processed videos uF373Iynpsc in post 375584962226262118 : Ани Лорак - Зажигай сердце
 Successfully processed videos O4tHCWHDtkk in post 3734784987222108849 : Сати Казанова feat. Батишта - Чувство лёгкости
 Successfully processed videos YRjVss5tTQo in post 2367423222564437985 : Ирина Дубцова - Ешь, молись, люби...
