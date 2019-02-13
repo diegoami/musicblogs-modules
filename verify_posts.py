@@ -13,10 +13,10 @@ def verify_blog_collection(blog_repository, youtube_client, blog_id):
         validLink = youtube_client.verify_video(blog_post.videoId)
         if not validLink:
             print('=========================================================')
-            print(u'MISSING VIDEO {} IN POST {} : {}'.format(blog_post.videoId, blog_post.postId, blog_post.title))
+            print(u'MISSING VIDEO {} IN POST {}'.format(blog_post.videoId, blog_post.postId))
             print('=========================================================')
         else:
-            print(u'Successfully processed videos {} in post {} : {}'.format(blog_post.videoId, blog_post.postId, blog_post.title))
+            print(u'Successfully processed videos {} in post {} '.format(blog_post.videoId, blog_post.postId))
 
 
 
