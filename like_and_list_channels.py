@@ -40,5 +40,5 @@ if __name__ == "__main__":
 
     sorted_channels = sorted(channelsDict.items(), key=operator.itemgetter(1), reverse=True)
     print(sorted_channels)
-    for channel_id, channel_name in sorted_channels:
-        youtube_client.subscribe_channel(channel_id)
+    #for channel_id, channel_name in sorted_channels:
+    #    youtube_client.subscribe_channel(channel_id)
