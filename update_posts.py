@@ -14,7 +14,7 @@ def update_blog_collection(blog_repository, blog_client, blog_id):
 def update_subtitles_collection(blog_repository, blog_client, blog_id, languages_str, amara_headers):
     languages_list = languages_str.split(',')
     for blog_post in blog_client.iterate_blog_posts(blog_id):
-        blog_repository.update_sub_titles(blog_post, languages_list)
+        blog_repository.update_sub_titles(blog_post, languages_list, amara_headers)
 
 if __name__ == "__main__":
 
