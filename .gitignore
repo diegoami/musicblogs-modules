@@ -56,6 +56,8 @@ client_secrets.json
 client_secrets_yt.json
 legacy/*.txt
 blogger.dat
+youtube.dat
+nano.save
 *.pyc
 *.dmp
 legacy/environment.py
