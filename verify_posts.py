@@ -23,7 +23,7 @@ if __name__ == "__main__":
     parser.add_argument('--mongo_connection', type=str, default='mongodb://localhost:27017/musicblogs')
     args = parser.parse_args()
 
-    blog_repository = BlogRepository(args.mongo_connection, args.blogId, amara_headers)
+    blog_repository = BlogRepository(args.mongo_connection, args.blogId)
     youtube_client = YoutubeClient(os.path.join(os.path.dirname(__file__), 'client_secrets.json'))
 
     verify_blog_collection(blog_repository=blog_repository, youtube_client=youtube_client, blog_id=args.blogId)
