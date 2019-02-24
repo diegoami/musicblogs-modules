@@ -5,10 +5,7 @@ import os
 from youtube3 import YoutubeClient
 
 
-
-
 def verify_blog_collection(blog_repository, youtube_client, blog_id):
-
     for post_id, blog_post in blog_repository.posts_map.items():
         validLink = youtube_client.verify_video(blog_post.videoId)
         if not validLink:
@@ -17,7 +14,6 @@ def verify_blog_collection(blog_repository, youtube_client, blog_id):
             print('=========================================================')
         else:
             print(u'Successfully processed videos {} in post {} '.format(blog_post.videoId, blog_post.postId))
-
 
 
 if __name__ == "__main__":
