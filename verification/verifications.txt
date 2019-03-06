@@ -984,7 +984,9 @@ Successfully processed videos gYpgAbf_yow in post 6174468656198227568
 Successfully processed videos 7XcQm1xIGj8 in post 1994534902898506221 
 Successfully processed videos FLtfDDdbxkg in post 1208394362970372823 
 Successfully processed videos cAcSQ9MjT2w in post 7459717154207176183 
-Successfully processed videos AV_ftDkpzqE in post 114366959470526893 
+=========================================================
+MISSING VIDEO AV_ftDkpzqE IN POST 114366959470526893
+=========================================================
 Successfully processed videos gukfg4KEgsw in post 415334715927539355 
 Successfully processed videos 1skWz4LAmFg in post 1442720153287272888 
 Successfully processed videos cL8-d3QG6g4 in post 9153323284590499284 
