@@ -2499,12 +2499,16 @@ Successfully processed videos QQjU7S1MBpU in post 1888138555895730592
 Successfully processed videos T641sO3o7r0 in post 6085180321162241794 
 Successfully processed videos CPJRJEqH2w4 in post 9136690892479037902 
 Successfully processed videos nBaY0-WpZ5A in post 3142020422790477307 
-Successfully processed videos mS1LgViGfDw in post 871913750579217107 
+=========================================================
+MISSING VIDEO mS1LgViGfDw IN POST 871913750579217107
+=========================================================
 Successfully processed videos o41Padp6Ph8 in post 8753018110259245242 
 Successfully processed videos qNUtIPLHTQ8 in post 3854609572256763000 
 Successfully processed videos tx8uULsqg0k in post 1496870876148943428 
 Successfully processed videos HXlOLgh4euo in post 53817219355681032 
-Successfully processed videos TzG9sr2Amik in post 3965642952227379204 
+=========================================================
+MISSING VIDEO TzG9sr2Amik IN POST 3965642952227379204
+=========================================================
 Successfully processed videos KxxEcOWdZsg in post 3637626111351241798 
 Successfully processed videos izej_xd-ESE in post 3364962238485559921 
 Successfully processed videos erNviOoAJpg in post 4673962895549612859 
@@ -2657,7 +2661,9 @@ Successfully processed videos Ia8c7JCdGyc in post 974496205913093821
 Successfully processed videos y7AkYNP0fWY in post 4553990367135352616 
 Successfully processed videos _EPURajX4ng in post 5091972180809235228 
 Successfully processed videos NvDCgVG_bis in post 2611884817917594801 
-Successfully processed videos 9lK-0_axTKs in post 8180851682514447053 
+=========================================================
+MISSING VIDEO 9lK-0_axTKs IN POST 8180851682514447053
+=========================================================
 Successfully processed videos bCuAoxHSkNw in post 8272577762614792023 
 Successfully processed videos JuSo-HjNHpw in post 7371009561040762411 
 Successfully processed videos 87qSqrGariI in post 4258692763847463805 
