@@ -2108,7 +2108,9 @@ Successfully processed videos qmqruqnj99M in post 1943688544401367615
 Successfully processed videos cIkkPgsp39o in post 1561460741408330337 
 Successfully processed videos D782Iv9GXSU in post 5152011620108263915 
 Successfully processed videos _p6L4rfcMGg in post 6714492895479834131 
-Successfully processed videos JtIqtLV-ixs in post 328419387222077304 
+=========================================================
+MISSING VIDEO JtIqtLV-ixs IN POST 328419387222077304
+=========================================================
 Successfully processed videos 2H0FCcUbt04 in post 5786709130311774271 
 Successfully processed videos EL9DrFAU-Vc in post 7881349740479430258 
 Successfully processed videos B8uoyPZhuUw in post 1225263087589932641 
