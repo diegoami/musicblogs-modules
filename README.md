@@ -17,6 +17,8 @@ Also used to fill the database for http://www.europoplyrics.com .
 ## Credential needed
 
 * client_secrets.json (blogger + youtube)
+* amara.amara_env.py: copy from amara.amara_env_template.py and put your API-KEY there
+
 
 ## Update blogs entries
 
@@ -31,4 +33,4 @@ A mongodb instance should be running. Execute
 python create_entry_for_amara.py --blogId <blogId> --postId <postId> --language_code <language_code>
 ```
 
-.env and client_secrets.json
+
