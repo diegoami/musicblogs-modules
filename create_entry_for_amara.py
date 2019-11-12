@@ -13,5 +13,5 @@ blogId = args.blogId
 language_code = args.language_code
 postId = args.postId
 
-blog_amara_tool = BlogAmaraTool(amara_headers)
+blog_amara_tool = BlogAmaraTool(amara_headers, 'client_secrets.json')
 blog_amara_tool.subtitles_workflow(blogId, postId, language_code)
