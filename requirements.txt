@@ -1,5 +1,5 @@
-amaraapi==0.0.6
-blogspotapi==0.1.9
+amaraapi==0.0.7
+blogspotapi==0.2.0
 click==7.0
 python-dotenv==0.9.1
 pyyaml==3.12
