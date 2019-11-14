@@ -1,5 +1,5 @@
--e git://github.com/diegoami/amaraapi.git@df82ce6916e1e1ea2416b9fd8128ca1b88db157a
--e git://github.com/diegoami/blogspotapi.git@910c6c8fa4ac9217a496b05888834077be2c6f63
+amaraapi==0.0.7
+blogspotapi==0.2.0
 click==7.0
 python-dotenv==0.9.1
 pyyaml==5.1
