@@ -25,11 +25,16 @@ if __name__ == "__main__":
     parser.add_argument('--mongo_connection', type=str, default='mongodb://localhost:27017/musicblogs')
     parser.add_argument('--update_subtitles', dest='update_subtitles', action='store_true')
     parser.add_argument('--no-update_subtitles', dest='update_subtitles', action='store_false')
+    parser.add_argument('--update_blogs', dest='update_blogs', action='store_true')
+    parser.add_argument('--no-update_blogs', dest='update_blogs', action='store_false')
     parser.set_defaults(update_subtitles=True)
+    parser.set_defaults(update_blogs=True)
+
     args = parser.parse_args()
 
     blog_repository = BlogRepository(args.mongo_connection, args.blogId)
     blog_client = BlogClient(os.path.join(os.path.dirname(__file__), 'client_secrets.json'))
-    update_blog_collection(blog_repository, blog_client, args.blogId)
+    if args.update_blogs:
+        update_blog_collection(blog_repository, blog_client, args.blogId)
     if args.update_subtitles:
         update_subtitles_collection(blog_repository, blog_client, args.blogId, args.languages, amara_headers)
