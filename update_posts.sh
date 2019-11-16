@@ -7,3 +7,4 @@ python update_posts.py --blogId 4061164319975225752 --languages cz,sk,cs,hu $@
 python update_posts.py --blogId 2775451793153626665 --languages fr $@
 python update_posts.py --blogId 6377950492326759990 --languages it $@
 python update_posts.py --blogId 446998987295244185 --languages ru,uk $@
+    
