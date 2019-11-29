@@ -2238,7 +2238,9 @@ Successfully processed videos Q6omsDyFNlk in post 1297293181496201532
 Successfully processed videos rRva0YOVtcI in post 3160753194362887845 
 Successfully processed videos FWRCJhsz5t4 in post 4101535500346186969 
 Successfully processed videos Sao_oZJP3qI in post 8355511510126865018 
-Successfully processed videos gJAftnSrumo in post 345949548304294959 
+=========================================================
+MISSING VIDEO gJAftnSrumo IN POST 345949548304294959
+=========================================================
 Successfully processed videos hdJN0ss7jA0 in post 8292671675516618929 
 =========================================================
 MISSING VIDEO XT9IDo-vF5k IN POST 3744739291080144362
