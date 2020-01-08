@@ -3642,7 +3642,9 @@ Successfully processed videos EbuEJBKBnO8 in post 1399768261851858760
 Successfully processed videos 01NggYZ4s-o in post 7609979738148420156 
 Successfully processed videos R07T-0v8ybU in post 8643684435023497779 
 Successfully processed videos qehm9FOjRZU in post 1771653712346962053 
-Successfully processed videos 1HD6LgoFDuY in post 8372590792944605513 
+=========================================================
+MISSING VIDEO 1HD6LgoFDuY IN POST 8372590792944605513
+=========================================================
 Successfully processed videos ymLsf6ryr-0 in post 6635583227883386016 
 Successfully processed videos AfI9CVpp6fg in post 2044922989566949419 
 Successfully processed videos bEc2tAVC4WQ in post 1438703980719535829 
