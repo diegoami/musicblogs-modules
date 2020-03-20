@@ -1200,7 +1200,9 @@ Successfully processed videos ggc_yEsspUk in post 2309742317417044698
 Successfully processed videos awKs_7Tctho in post 5676675179993379640 
 Successfully processed videos h44GLBAumqo in post 8335151884122131221 
 Successfully processed videos uTBqX_1IhEE in post 1924476191642688742 
-Successfully processed videos bIZqCC40op0 in post 6248043950751481811 
+=========================================================
+MISSING VIDEO bIZqCC40op0 IN POST 6248043950751481811
+=========================================================
 Successfully processed videos o20g5Sac7U4 in post 1056893845711843659 
 Successfully processed videos g8Gd-EuQX8Q in post 2439886067660039792 
 Successfully processed videos 4qaAe1pzd2I in post 4468850100113763231 
