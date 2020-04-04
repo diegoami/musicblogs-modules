@@ -1,6 +1,7 @@
 
 import argparse
 import os
+import time
 
 from blogspotapi import BlogClient, BlogPost, BlogRepository
 from amara.amara_env import amara_headers
@@ -8,6 +9,7 @@ from amara.amara_env import amara_headers
 
 def update_blog_collection(blog_repository, blog_client, blog_id):
     for blog_post in blog_client.iterate_blog_posts(blog_id):
+        time.sleep(1)
         blog_repository.update_blog_post(blog_post)
     blog_repository.delete_old_posts()
 
