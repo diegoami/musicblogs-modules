@@ -222,7 +222,9 @@ Successfully processed videos IUhGAX3iXFc in post 8297536859064888259
 Successfully processed videos H0h_EhCnDpI in post 3504455199164792536 
 Successfully processed videos 05Qdu0jkihU in post 6464415107887749429 
 Successfully processed videos BtfGG8dhMNc in post 724320627841299860 
-Successfully processed videos zDD4ELz2ZDY in post 3279894825354068004 
+=========================================================
+MISSING VIDEO zDD4ELz2ZDY IN POST 3279894825354068004
+=========================================================
 Successfully processed videos lWdHL30zezs in post 7429805041598960530 
 Successfully processed videos -9CBg4kfawc in post 1044775432332713789 
 Successfully processed videos nJjgBvtBBCc in post 2931198335403452548 
@@ -234,9 +236,7 @@ Successfully processed videos LFyHxM8YfEc in post 1232181060990943127
 Successfully processed videos ZtGziAgN7K8 in post 4014151808472705732 
 Successfully processed videos ZVF5x-YzUBY in post 5300026369818729898 
 Successfully processed videos HPmH_WoWMcw in post 6026195835522890179 
-=========================================================
-MISSING VIDEO xU3rZ5Rb78A IN POST 9177331857851916202
-=========================================================
+Successfully processed videos b-3VTEGJiVQ in post 9177331857851916202 
 Successfully processed videos _KZr5ko4Oww in post 7947735069164481628 
 Successfully processed videos fZkVZSdHnVA in post 2368669395599883630 
 Successfully processed videos YLVwucag1tA in post 2966939980889976654 
@@ -627,6 +627,12 @@ Successfully processed videos p7TiUVJsuSQ in post 1660586512730599078
 Successfully processed videos lQDHy_jYYFs in post 2853023875349357492 
 Successfully processed videos E4iMxv8B8i4 in post 2495755773389756222 
 Successfully processed videos jkAGnIgMCQQ in post 7522385114562544039 
+Successfully processed videos PAimI_59j_M in post 2648664906129590146 
+Successfully processed videos nIeka-LB7k8 in post 189298362295281931 
+Successfully processed videos JQqcBNiPOxI in post 718990483572612383 
+Successfully processed videos c9SCd9xYpCM in post 1246110090987878121 
+Successfully processed videos -5PowTwPuhY in post 7321421900789330953 
+Successfully processed videos 3MU48gyDrQY in post 7550413180245631665 
 Successfully processed videos 73reXUqghbc in post 6196556388528231427 
 Successfully processed videos g9PZOnU0w4I in post 8494819157938259679 
 Successfully processed videos 2oedZZGvbOA in post 4645831616374827065 
@@ -772,6 +778,7 @@ Successfully processed videos Q0svlQa3t3Y in post 3457293958823329512
 Successfully processed videos cUFaZVIcE_0 in post 5747682599651250815 
 Successfully processed videos e4AYg-Kr6Rc in post 6712683560132504487 
 Successfully processed videos JwqBYpB4Tr4 in post 7529068059508192428 
+Successfully processed videos -AKoKgVls54 in post 7518339579991805873 
 Successfully processed videos bSbU8SHxJe4 in post 7518339579991805873 
 Successfully processed videos ceCQKOiDqvQ in post 7045656049489518770 
 Successfully processed videos nVTI30OGKqw in post 7530722739665591708 
@@ -997,9 +1004,7 @@ Successfully processed videos LtXml6BuN1Q in post 7983843827651646286
 Successfully processed videos hchUCqrGW1M in post 8946996185081741075 
 Successfully processed videos N176ehz2pME in post 1683462974056889960 
 Successfully processed videos rgMybtr2Jn4 in post 8319914319469291088 
-=========================================================
-MISSING VIDEO 6VCC9QIzTjM IN POST 2159451311688897985
-=========================================================
+Successfully processed videos vPm4j3yeqhg in post 2159451311688897985 
 Successfully processed videos 2k4G2Vl3Hhs in post 7501513383552722586 
 Successfully processed videos 4uNFkKs3BPk in post 5523513996356436732 
 Successfully processed videos jYnpdsP1mdk in post 5213748394118323485 
@@ -1205,9 +1210,7 @@ Successfully processed videos ggc_yEsspUk in post 2309742317417044698
 Successfully processed videos awKs_7Tctho in post 5676675179993379640 
 Successfully processed videos h44GLBAumqo in post 8335151884122131221 
 Successfully processed videos uTBqX_1IhEE in post 1924476191642688742 
-=========================================================
-MISSING VIDEO bIZqCC40op0 IN POST 6248043950751481811
-=========================================================
+Successfully processed videos Txip4rYPXcg in post 6248043950751481811 
 Successfully processed videos o20g5Sac7U4 in post 1056893845711843659 
 Successfully processed videos g8Gd-EuQX8Q in post 2439886067660039792 
 Successfully processed videos 4qaAe1pzd2I in post 4468850100113763231 
@@ -1232,9 +1235,7 @@ MISSING VIDEO SSLSSLSSLSS IN POST 6740435241511694467
 =========================================================
 Successfully processed videos vyyVnFUoQfk in post 8347828127674543283 
 Successfully processed videos 9sMN3DGavt8 in post 5662775919884589977 
-=========================================================
-MISSING VIDEO CLn29AKGDMk IN POST 609623026927681670
-=========================================================
+Successfully processed videos Pv_rBaO2BEw in post 609623026927681670 
 Successfully processed videos wtRQNK9NIqI in post 4468106157382505837 
 Successfully processed videos vOhNFHHh78M in post 3498257747689255709 
 Successfully processed videos UAzcuE2wcyY in post 4960345167739170465 
@@ -1385,6 +1386,7 @@ Successfully processed videos 9Y-16dE81O4 in post 4880778920071075440
 Successfully processed videos 4mrr9vyNJdk in post 1643696438065404590 
 Successfully processed videos 5vqxltGSo68 in post 4352438346446896840 
 Successfully processed videos nPS6RTXwr3k in post 974421155481049628 
+Successfully processed videos DjIJx1pb5Go in post 4323283191642519724 
 Successfully processed videos hFCuIiEtMX4 in post 2136301947250011005 
 Successfully processed videos 7R7dHPHzI3A in post 7978876831907752637 
 Successfully processed videos 2bF6KJSt7mc in post 1433172030263518272 
@@ -1743,9 +1745,7 @@ Successfully processed videos HFLcw86qR5E in post 7828581256253994731
 Successfully processed videos cqQgOqsGOAA in post 6404405129625235514 
 Successfully processed videos xOMw2cYFEDg in post 7647774567470434658 
 Successfully processed videos t0O4PN-aF-U in post 6497087514359319889 
-=========================================================
-MISSING VIDEO y6_JKm8Huq0 IN POST 7237751693606728337
-=========================================================
+Successfully processed videos s6CEWmiFXe0 in post 7237751693606728337 
 Successfully processed videos sjb6tHcbPig in post 1434509241283674927 
 =========================================================
 MISSING VIDEO ROMROMROMRO IN POST 4816947456490118715
@@ -1856,6 +1856,10 @@ Successfully processed videos kalOZEY2sOU in post 1837775515393147324
 Successfully processed videos okwv7y20IF8 in post 7936284688377873395 
 Successfully processed videos bbL6eBxhqLg in post 6761759997164588637 
 Successfully processed videos b27Q4OIgZ9c in post 5910587526101768140 
+Successfully processed videos WHDxdftrtb8 in post 8095204633551821356 
+Successfully processed videos Tht_EWTaZT8 in post 3829858430927087852 
+Successfully processed videos wTd_WQK7-uk in post 5651586489289909602 
+Successfully processed videos JkU10QcA0g4 in post 2729988743865703825 
 Successfully processed videos 7AGt_qpHl30 in post 3454792388918804952 
 Successfully processed videos Vk7dFgYnbsM in post 2432646889854896542 
 Successfully processed videos vB8MOXAlNao in post 4077386673127780254 
@@ -1950,6 +1954,7 @@ Successfully processed videos 8FAHYZNnilQ in post 4392109393555974649
 Successfully processed videos bDSN8s_7B-Q in post 2219271169905752969 
 Successfully processed videos RrdZY49v980 in post 3594656217982966293 
 Successfully processed videos 7OFUVbBMhqg in post 6206656286908182909 
+Successfully processed videos xNkmCSAx-yQ in post 465976829091334171 
 Successfully processed videos iUCdxy8amxs in post 465976829091334171 
 Successfully processed videos U7C5TTYC4T0 in post 1175952500945221109 
 Successfully processed videos uX_QqcJxFI4 in post 7806804033906580904 
@@ -1971,6 +1976,7 @@ Successfully processed videos WdLs5kpHJDA in post 7868933254850962513
 Successfully processed videos BnkJODXB504 in post 201001936416609529 
 Successfully processed videos LcEYpd6MMZg in post 7476604335368867504 
 Successfully processed videos DQJVkEMs6Rk in post 6061042723311438754 
+Successfully processed videos r11dcB_8Z1U in post 9072401564876826042 
 Successfully processed videos UQWs0FsaFbI in post 9072401564876826042 
 Successfully processed videos jdOdHPB_exY in post 2377478078773381990 
 Successfully processed videos bWqROly7RC4 in post 3427863666899776585 
@@ -2025,6 +2031,7 @@ Successfully processed videos vHIyD3vC70U in post 8718553957393911054
 Successfully processed videos Gs-nh0WwA0c in post 3011385070371519471 
 Successfully processed videos V9052RexlHo in post 1596556273656879538 
 Successfully processed videos gM_V9fCahs8 in post 4596706526910418890 
+Successfully processed videos oIyOXUvkmVA in post 7848953023987546621 
 Successfully processed videos 7nvT_DDF0H4 in post 7848953023987546621 
 Successfully processed videos QsWKBQFUd1A in post 7685987898788228751 
 Successfully processed videos E0K_9-RGhGI in post 7713149991349781412 
@@ -2056,9 +2063,7 @@ Successfully processed videos rSbCkdCdITo in post 4757518348752955154
 Successfully processed videos pfN2GB3v_48 in post 3109449525377314687 
 Successfully processed videos sr8GIWM7B8U in post 5544927851620874087 
 Successfully processed videos hhjX6LbbY-Y in post 2765106584545276174 
-=========================================================
-MISSING VIDEO Kx1jWPXXYyM IN POST 1337090030375827400
-=========================================================
+Successfully processed videos -8BE4AnfDhQ in post 1337090030375827400 
 Successfully processed videos FzA9Nt5jGW0 in post 6109248737987068867 
 Successfully processed videos F8VFXrBniPQ in post 4027011002129869270 
 Successfully processed videos DS1z-hZoV4k in post 7108959791264576860 
@@ -2082,6 +2087,7 @@ Successfully processed videos oWiGTNJEjus in post 2874146901724062714
 Successfully processed videos 8Elva5-J998 in post 8073112904026228965 
 Successfully processed videos -HY0rTfHwdo in post 8564878130134663754 
 Successfully processed videos 32ebFSn-vB4 in post 7223377888523279879 
+Successfully processed videos o0L0flcM7q0 in post 2024512639255540364 
 Successfully processed videos dzWit_mevK0 in post 4811006299972780875 
 Successfully processed videos PZpnN2UoASM in post 3407314393744784346 
 Successfully processed videos 2z0AJrnUVLY in post 8855178202712189820 
@@ -2103,6 +2109,7 @@ Successfully processed videos Mzu-CshTbek in post 8314815742223998884
 Successfully processed videos Xa6WZkfKlxA in post 1896486825300724752 
 Successfully processed videos n4KO_jVqm8E in post 4185220988752616059 
 Successfully processed videos eXsox2-70VE in post 5382805712908712708 
+Successfully processed videos psHGKVVcHa8 in post 2978680269681067341 
 Successfully processed videos C72piaGmahs in post 2978680269681067341 
 Successfully processed videos fs5sxTIyn0s in post 3522348050414571443 
 Successfully processed videos m19hyq-s2Fc in post 1952080926267856756 
@@ -2331,6 +2338,7 @@ Successfully processed videos 2sqm28cnkR4 in post 2840084302498089799
 Successfully processed videos RgR11IX_Fqc in post 907288429734239375 
 Successfully processed videos sgwHwQ_mt64 in post 5659839948883690160 
 Successfully processed videos 3VWOZ9iHw8c in post 7050926930755489702 
+Successfully processed videos tRFUiuXK5Hk in post 1821214677783328160 
 Successfully processed videos u7hHlB9Y0Cc in post 1821214677783328160 
 Successfully processed videos nWIVZ93zlkc in post 1026016936610734468 
 Successfully processed videos F-XxQkVrgXg in post 5698466851476176427 
@@ -2429,6 +2437,7 @@ Successfully processed videos D0KrWq0i1QI in post 997318021019450927
 Successfully processed videos HubawMct50c in post 4507386983642939093 
 Successfully processed videos aI904z-1rhg in post 4147473261491707937 
 Successfully processed videos CoPyXKqsDJo in post 5211284589630177736 
+Successfully processed videos hJ8XncghD1I in post 4425637443288596198 
 Successfully processed videos bXuwhnlg13A in post 385761067360810720 
 Successfully processed videos A1hchTlWVfo in post 8047103689707608755 
 Successfully processed videos SQa4ColupuA in post 2921899976525565837 
@@ -2612,6 +2621,8 @@ Successfully processed videos VoOc-0vTljc in post 1462127084275606114
 Successfully processed videos zXZnSXr0khw in post 8515033713251819348 
 Successfully processed videos oulNJEJS9nw in post 7131274208504452289 
 Successfully processed videos 7nRo-Qr9w4A in post 8005934745646746010 
+Successfully processed videos tEBP7zA3D-I in post 5043973045025365767 
+Successfully processed videos yVijJoxOUmE in post 8950024014891947091 
 Successfully processed videos -T5G2j9Og8c in post 5848803195056160208 
 Successfully processed videos jOEas7bGM8Q in post 2863579059768961411 
 Successfully processed videos gs1JrhjUpnc in post 3529843302676686150 
@@ -2620,9 +2631,7 @@ Successfully processed videos Pl8u2kY_3IQ in post 4556030362859385286
 Successfully processed videos Tw6j5wLMzWE in post 838236031089834313 
 Successfully processed videos PjTVcLNUbMA in post 8320825886763860009 
 Successfully processed videos PgOXGf6fgtc in post 5220524536226090165 
-=========================================================
-MISSING VIDEO Ai0m-ucz4eM IN POST 3454355148684380945
-=========================================================
+Successfully processed videos P_xZ-MvmFps in post 3454355148684380945 
 Successfully processed videos MILxQKh2iZw in post 3642905533255066390 
 Successfully processed videos l51R9xIlNV8 in post 4098020116905921947 
 Successfully processed videos 5xnKaNke6y0 in post 6269930723259262824 
@@ -2676,9 +2685,7 @@ Successfully processed videos qnw-f0grqtA in post 5577181415416324247
 Successfully processed videos wXrk0vpbTzs in post 4736001798431057254 
 Successfully processed videos 5ZB-wAs_xYI in post 1004474052819437543 
 Successfully processed videos 1Xd48GdAWAQ in post 3221507053679836713 
-=========================================================
-MISSING VIDEO pYl6tgaJaGU IN POST 1295279911558955321
-=========================================================
+Successfully processed videos pYl6tgaJaGU in post 1295279911558955321 
 Successfully processed videos mzNcWgADn3Q in post 627552914173323448 
 Successfully processed videos R8Xpb7dGBE8 in post 8210855991781866022 
 Successfully processed videos YSiye3fUaLs in post 1707532765071090301 
@@ -2696,9 +2703,7 @@ Successfully processed videos sMmP09yMNz0 in post 1148840902165298230
 Successfully processed videos _RJW6PZQi4Q in post 5062909697082360182 
 Successfully processed videos TXyuPWb_m1E in post 7588509666502778042 
 Successfully processed videos FUDq7vSR0Dg in post 7188849456952892054 
-=========================================================
-MISSING VIDEO aPQNGe1ZH8Y IN POST 7210630655479322877
-=========================================================
+Successfully processed videos Xa6jpMQwFio in post 7210630655479322877 
 Successfully processed videos VYSaG_3Vkjk in post 2951568848674248993 
 Successfully processed videos QStkoCMs0Uw in post 7744172008590016422 
 Successfully processed videos A8LYSDjbRZk in post 8049355803289940497 
@@ -2755,7 +2760,9 @@ Successfully processed videos WiEDAmZx_Kg in post 7834440227959246527
 Successfully processed videos gl0XtrSQ34g in post 7185612172571875467 
 Successfully processed videos LCy0SZ7nhkk in post 8768993590858864735 
 Successfully processed videos AbmqOfYgM40 in post 2018911796404637658 
-Successfully processed videos PkRlNc-pgKo in post 4131928181057224683 
+=========================================================
+MISSING VIDEO PkRlNc-pgKo IN POST 4131928181057224683
+=========================================================
 Successfully processed videos 1ctnCE9jVW8 in post 8089969629572331435 
 Successfully processed videos wRldT_GWNJY in post 3316635954703753928 
 Successfully processed videos YqKy6XkvSh4 in post 7435988937884567076 
@@ -2769,9 +2776,7 @@ Successfully processed videos 7zIjubQLxlg in post 7170149018898740650
 Successfully processed videos 51GIWdduOL8 in post 1510049268599010595 
 Successfully processed videos 1Px_srv7IvM in post 6872882211333686151 
 Successfully processed videos wBmXhVELbpY in post 8607438149162785730 
-=========================================================
-MISSING VIDEO F9PG4Wpdqzo IN POST 5233626858158093761
-=========================================================
+Successfully processed videos wqWdWzj-H34 in post 5233626858158093761 
 Successfully processed videos OL3rpM6qVk0 in post 6453192574835561593 
 Successfully processed videos 3tpeIDpOz-A in post 4838811526265031761 
 Successfully processed videos X2qtOgoLSMM in post 6507993953051057995 
@@ -2809,9 +2814,7 @@ Successfully processed videos hBKv-5lXXb0 in post 4618424666851092734
 Successfully processed videos p4LB1nBaxR8 in post 4363004881930529358 
 Successfully processed videos EiAprTXv-CY in post 1173251726715273561 
 Successfully processed videos 6-PeHhWGslc in post 7844817803076291797 
-=========================================================
-MISSING VIDEO QAZ5LKJvDWw IN POST 480290110538153641
-=========================================================
+Successfully processed videos THcz8fdiyQw in post 480290110538153641 
 Successfully processed videos 1ZLcHDcbinM in post 1258664059750891152 
 Successfully processed videos apx3jXhzUOc in post 7739179150899048181 
 Successfully processed videos -MfbuS7ZX2w in post 6835279666640152601 
@@ -2845,9 +2848,7 @@ Successfully processed videos c8wlcSTt2dA in post 842567185254587504
 Successfully processed videos db2Q-5fWI_w in post 3507972534033156461 
 Successfully processed videos 9nGAiptDjj0 in post 5359597786329390359 
 Successfully processed videos _j-Zgas0cvs in post 4439561752012034624 
-=========================================================
-MISSING VIDEO t1mFIo9ij8w IN POST 2179820909476812149
-=========================================================
+Successfully processed videos syv-84jabbQ in post 2179820909476812149 
 Successfully processed videos Yp7w91SA9Bs in post 1127857463144562527 
 Successfully processed videos Zn22vE2YQXc in post 3422027551977862497 
 Successfully processed videos 8XBwJU3Nnu8 in post 4918960697639571555 
@@ -3172,9 +3173,7 @@ Successfully processed videos t6uLhfnqKjI in post 8842644674646689094
 Successfully processed videos NgIBjbpnHLM in post 2620638503727233561 
 Successfully processed videos jQm-tS_rEFQ in post 8769156694246639937 
 Successfully processed videos MlL4sOgt4Hw in post 8120373571950922934 
-=========================================================
-MISSING VIDEO snLdWs2aEJM IN POST 6106740931307672171
-=========================================================
+Successfully processed videos IAs-R7gnkss in post 6106740931307672171 
 Successfully processed videos LWBEzdQjJd8 in post 8431105747211999381 
 Successfully processed videos 15oOtv-cTP8 in post 7352849637461081551 
 Successfully processed videos zd25KUexRBM in post 4880485441360805982 
@@ -3208,8 +3207,12 @@ Successfully processed videos n--TEFlviTU in post 8303630529395403876
 Successfully processed videos chjCbB4PXGc in post 944291225678911906 
 Successfully processed videos HagHyHn0eOM in post 6561994768257101875 
 Successfully processed videos o5xwzlMOf70 in post 2848367502515819858 
+Successfully processed videos 4wMfkXGoWb0 in post 8888416077152585688 
+Successfully processed videos _os5-Dt9Gvg in post 3965446479003413833 
+Successfully processed videos HPQdOXRQQks in post 6319013568853075978 
+Successfully processed videos n9-2q3x3bEs in post 4843506480327342852 
 =========================================================
-MISSING VIDEO SvHKbY3ExJU IN POST 8888416077152585688
+MISSING VIDEO zy3s46MJyDw IN POST 4411158767215171871
 =========================================================
 Successfully processed videos _os5-Dt9Gvg in post 3965446479003413833 
 Successfully processed videos HPQdOXRQQks in post 6319013568853075978 
@@ -3222,15 +3225,15 @@ Successfully processed videos Jg3gwyoUrhE in post 8538518502323246561
 Successfully processed videos 4yMA6agUuZI in post 3949386255589717553 
 Successfully processed videos 0x9nbZ98wik in post 2308149047002683606 
 Successfully processed videos NPBqP4oZzzs in post 1236635305428575659 
-=========================================================
-MISSING VIDEO SSBcyJlLfwY IN POST 6303933148522176344
-=========================================================
+Successfully processed videos ganBKbb-q4g in post 6303933148522176344 
 Successfully processed videos VLfrHcZeHPc in post 5295547203375270861 
 Successfully processed videos UuxN2TBORBs in post 7244834323226246676 
 Successfully processed videos hJwzDKLDkPs in post 6594269046086091748 
 Successfully processed videos QMBAl5-AWV0 in post 3244998172428104898 
 Successfully processed videos cDn2-BxtnnU in post 4108894028932945064 
-Successfully processed videos E-zDYwBIhhQ in post 4781459824547496458 
+=========================================================
+MISSING VIDEO E-zDYwBIhhQ IN POST 4781459824547496458
+=========================================================
 Successfully processed videos MHbaXsje6gg in post 576099179239473813 
 Successfully processed videos 5pmoZXdV5MA in post 1734131625378221838 
 Successfully processed videos iFyewXjyCYk in post 1099452772375705005 
@@ -3266,7 +3269,9 @@ Successfully processed videos B0wfFdqi2Hc in post 5511118628094133729
 Successfully processed videos YqHyLUpCdJM in post 3061806994351872230 
 Successfully processed videos W6xNTyy73EY in post 3061992092039253457 
 Successfully processed videos aBo5DxhJ12w in post 2558894202409194996 
-Successfully processed videos wStpiGP2Gn0 in post 3529294841692089061 
+=========================================================
+MISSING VIDEO wStpiGP2Gn0 IN POST 3529294841692089061
+=========================================================
 Successfully processed videos 0YVPBjDcDDM in post 1170950349646632316 
 Successfully processed videos y7eQliWSJMM in post 3156177713423024955 
 Successfully processed videos -gr71Hoios8 in post 5292290904324277547 
@@ -3284,7 +3289,9 @@ Successfully processed videos 7EB3bLCWjXU in post 4474623340503557824
 Successfully processed videos Loz06GXPFR8 in post 4218228655310074687 
 Successfully processed videos dsioPbL8pug in post 6825353098494888547 
 Successfully processed videos 75ZWqaMTR4Q in post 7496606046787986080 
-Successfully processed videos yM5i-FCbN5A in post 1814671222428746703 
+=========================================================
+MISSING VIDEO yM5i-FCbN5A IN POST 1814671222428746703
+=========================================================
 Successfully processed videos hUmEj8B3Iuw in post 4478591935717324850 
 Successfully processed videos 6WC-K1b9TY8 in post 8071713077163188883 
 Successfully processed videos Nwl-vtix29c in post 1597263839780528937 
@@ -3301,9 +3308,7 @@ Successfully processed videos qp8O669X8xU in post 8280535188788639364
 Successfully processed videos 17bDlpdr1e0 in post 1667800936825283693 
 Successfully processed videos 9iBFj_RoT5Q in post 2564392018074957190 
 Successfully processed videos Y9pFwxDoq8k in post 4995959647799583516 
-=========================================================
-MISSING VIDEO u0NLQgb4sQI IN POST 1865448831581835978
-=========================================================
+Successfully processed videos vfoiv6GWJD8 in post 1865448831581835978 
 Successfully processed videos Tg5PxgWlzwA in post 6852237480121631845 
 Successfully processed videos snYib4OyTt0 in post 4875955512590398346 
 Successfully processed videos HyKW8ZZT20Q in post 2901257826857751126 
@@ -3329,9 +3334,7 @@ Successfully processed videos hZycKTzInNs in post 5635222397607155131
 Successfully processed videos Iwy7gvjYgOQ in post 9020191607488573063 
 Successfully processed videos W9aaqDCbpgU in post 1517841974480033008 
 Successfully processed videos cWv1pPfmn5U in post 3738446848675252638 
-=========================================================
-MISSING VIDEO PM5oTkbQwII IN POST 3336481555021803783
-=========================================================
+Successfully processed videos LROOUeCqbX0 in post 3336481555021803783 
 Successfully processed videos 7w7T0R5ViVw in post 8065297911815100756 
 Successfully processed videos zKtxI1NN6Ts in post 7369980477211034959 
 Successfully processed videos 3-4nvJbVWgI in post 344710820363199242 
@@ -3368,12 +3371,13 @@ Successfully processed videos DqY-udtbzAE in post 1198063039290295115
 Successfully processed videos zsp1upKp-Zk in post 3236527868740159979 
 Successfully processed videos WbYLw_DOOPQ in post 4599556748028124771 
 Successfully processed videos b71R8pmrsHI in post 7872631676687547750 
+Successfully processed videos rBW1pAiQIDY in post 3861256662215962949 
+Successfully processed videos wYSysajyuTM in post 5861805442691353728 
+Successfully processed videos B3c8otqUT-I in post 5636206098875051104 
+Successfully processed videos kaf1_XcZggU in post 630777194215283670 
 Successfully processed videos Nif4J8eMvHQ in post 3861256662215962949 
 Successfully processed videos wYSysajyuTM in post 5861805442691353728 
 Successfully processed videos B3c8otqUT-I in post 5636206098875051104 
-=========================================================
-MISSING VIDEO XRqP--k4Wzk IN POST 630777194215283670
-=========================================================
 Successfully processed videos XCvh0VVnvBs in post 5702130211144049473 
 Successfully processed videos obK70IWay5c in post 4931699121560885895 
 Successfully processed videos UUgXjVllnzY in post 8968416279604912843 
@@ -3387,9 +3391,7 @@ Successfully processed videos 3rA20D2gQlw in post 2501427191705051617
 Successfully processed videos PDm9HfLCagM in post 5691490985493284632 
 Successfully processed videos Ci80zeq7kUI in post 3013914556127802303 
 Successfully processed videos OlsTOUi6hI0 in post 6091111337495655349 
-=========================================================
-MISSING VIDEO haVKUTc8pJc IN POST 5236198101577964916
-=========================================================
+Successfully processed videos kBPcrD6BETo in post 5236198101577964916 
 Successfully processed videos q_ztJwVQ_sA in post 505941444412762985 
 Successfully processed videos h3CSjWiTEQI in post 2933101625272144161 
 Successfully processed videos gpZNziPIrK4 in post 8982443435493407702 
@@ -3427,9 +3429,7 @@ Successfully processed videos _4LIUuaoIIc in post 850057311793792475
 Successfully processed videos sMivLwKEw4o in post 6116814948033477245 
 Successfully processed videos njSn5VS-cVM in post 6985414039108100130 
 Successfully processed videos 8FDyI-UQEtQ in post 4305659334147481987 
-=========================================================
-MISSING VIDEO ooGzc7UF240 IN POST 5551448996961713339
-=========================================================
+Successfully processed videos bP9INEo387Q in post 5551448996961713339 
 Successfully processed videos 7JkvT7KVnX4 in post 584582831835149488 
 Successfully processed videos g_ERLc9tbJY in post 8968279969242168477 
 Successfully processed videos PxxWsn9sCQU in post 6314508485314277984 
@@ -3465,9 +3465,7 @@ Successfully processed videos Y1LLm3sCr10 in post 3735655638142665812
 Successfully processed videos Pr6bvyuBikc in post 1815261076321266114 
 Successfully processed videos sTf0IQxvqHU in post 7431925701514449350 
 Successfully processed videos Q1dk6hnaTZg in post 8155004381614494004 
-=========================================================
-MISSING VIDEO WWiWofgSCKo IN POST 4869593938952998567
-=========================================================
+Successfully processed videos Z2Tj1xQgiZY in post 4869593938952998567 
 Successfully processed videos TIvIID230bA in post 4965353965434548302 
 Successfully processed videos wf1CFbjRGzw in post 3694340493612997224 
 Successfully processed videos hkxChZzwzrQ in post 2676457204195449604 
@@ -3482,9 +3480,7 @@ Successfully processed videos -Wv3yldQOEI in post 895814978074969264
 Successfully processed videos VSZIxUCOIVA in post 1459589925170516673 
 Successfully processed videos TmSlday-Op0 in post 3898941183054662540 
 Successfully processed videos i6wNw-OScuU in post 3054426771259504301 
-=========================================================
-MISSING VIDEO KsKjmwVVcg0 IN POST 5300114999308111195
-=========================================================
+Successfully processed videos FR9Q5CkiCRs in post 5300114999308111195 
 Successfully processed videos 5JTelNcuqu8 in post 849619458794696612 
 Successfully processed videos BPeUFYst7so in post 5269801961155018705 
 Successfully processed videos -tDX5aC9MDs in post 7493135521087712854 
@@ -3529,9 +3525,7 @@ Successfully processed videos I6YiDrzh25E in post 5787380499349465215
 Successfully processed videos x9GhAL00Zy8 in post 3666044933760220026 
 Successfully processed videos bjx7hdHg_hY in post 3501638990299193771 
 Successfully processed videos ktu1DR8Tpk4 in post 4913901876274075447 
-=========================================================
-MISSING VIDEO uM_a86EoPW4 IN POST 116123408716065074
-=========================================================
+Successfully processed videos JuGlZsWLYGY in post 116123408716065074 
 Successfully processed videos 0yl-OPRCK38 in post 6436285450653452903 
 Successfully processed videos z6tbDveDJNo in post 7794883016866686033 
 Successfully processed videos qdQ2y300ajM in post 1450165574194943392 
@@ -3552,9 +3546,7 @@ Successfully processed videos LiUKhYECFh4 in post 8635261302645386831
 Successfully processed videos _Qmz2ktJaSk in post 7681300435455953350 
 Successfully processed videos ACOWQfXdk1s in post 2591104031763436227 
 Successfully processed videos LDWQHLgqs0s in post 89081581355486133 
-=========================================================
-MISSING VIDEO afpGjxmthfc IN POST 855411980837398909
-=========================================================
+Successfully processed videos jwKXFrROVi0 in post 855411980837398909 
 Successfully processed videos iyoakIm6R84 in post 6399641730882822003 
 Successfully processed videos y-RJfReHABA in post 2346620072622165191 
 Successfully processed videos EMiyCPQGIYo in post 3950097201939208836 
@@ -3606,9 +3598,7 @@ Successfully processed videos EMG1RFiBK_4 in post 8081561457574007723
 Successfully processed videos _jSHxIivyiI in post 1680619821772406 
 Successfully processed videos REi3nZ0gvJc in post 4890653441281418742 
 Successfully processed videos 2qKbNjPC0DI in post 4231165152290602130 
-=========================================================
-MISSING VIDEO OuUf0gULIa4 IN POST 6076861736391062691
-=========================================================
+Successfully processed videos OCPnaSMnAgU in post 6076861736391062691 
 =========================================================
 MISSING VIDEO RreS8eLtRHc IN POST 7245081258742020485
 =========================================================
@@ -3617,7 +3607,9 @@ Successfully processed videos ltsfXY78lDs in post 8730596403687923657
 Successfully processed videos YyCif5lTh7s in post 3623984214383395766 
 Successfully processed videos 42REgu0PsmA in post 6972426749901292575 
 Successfully processed videos 7uFkzW68sjw in post 132397011535736182 
-Successfully processed videos 4C2QfNbrNw8 in post 2571531523384276818 
+=========================================================
+MISSING VIDEO 4C2QfNbrNw8 IN POST 2571531523384276818
+=========================================================
 Successfully processed videos XIZfCXBUuyw in post 6016500438198871114 
 Successfully processed videos KIb_I_tPH5A in post 320948740326177752 
 Successfully processed videos 73IP75eqZgg in post 4840435512907300045 
@@ -3638,13 +3630,9 @@ Successfully processed videos c7eI-wk26FE in post 8484451179671119362
 Successfully processed videos hdMF0edX9Os in post 1841772836899525757 
 Successfully processed videos yfetozC7F7Y in post 3101361227657352228 
 Successfully processed videos RjObnc58fAM in post 7468794548226142794 
-=========================================================
-MISSING VIDEO DhT6B5WY9fY IN POST 5802072322518123451
-=========================================================
+Successfully processed videos mN7YrumXil8 in post 5802072322518123451 
 Successfully processed videos T1TKf2r2pWU in post 5722402179915651351 
-=========================================================
-MISSING VIDEO YZcMgcXcTvs IN POST 7977308098326003078
-=========================================================
+Successfully processed videos WHR744YAFoo in post 7977308098326003078 
 Successfully processed videos o8Qd83hQV2o in post 3167524460083534237 
 Successfully processed videos bj5UBafGIbc in post 3374940856497054651 
 Successfully processed videos _r9sXlKWQp0 in post 6576058247897674384 
@@ -3937,7 +3925,9 @@ Successfully processed videos vTrhxpMVNP4 in post 837128545302474686
 Successfully processed videos teHCn4mYK4k in post 4599352691133109698 
 Successfully processed videos xSTSq8_Wp_Y in post 4970632068695848526 
 Successfully processed videos gdnsLFgcajU in post 8454582243046813441 
-Successfully processed videos eC3Pf2MCJHE in post 9082078401819718470 
+=========================================================
+MISSING VIDEO eC3Pf2MCJHE IN POST 9082078401819718470
+=========================================================
 Successfully processed videos RKEZX4vMcJ8 in post 9186292951608208669 
 Successfully processed videos LAx3v5FJOgo in post 1566133403700786295 
 Successfully processed videos Urc8hBZDqYc in post 454879110931969661 
@@ -4239,3 +4229,10 @@ Successfully processed videos URV6RVfZTGc in post 7595627677659751961
 Successfully processed videos ht4Bd7moiMo in post 7179911576546238283 
 Successfully processed videos huNBwNng5kw in post 2008098852866187135 
 Successfully processed videos odynNGc9WRA in post 7754424512162032363 
+Successfully processed videos qywzfSS8swg in post 2999933503017198835 
+Successfully processed videos pNAfPboYtEw in post 3254094314001119200 
+Successfully processed videos mLKWDIlTcmk in post 5350180064284097362 
+Successfully processed videos KPA50EO6_ow in post 8260340793666645423 
+Successfully processed videos Og8-a5hAZ3Q in post 2516476884501366836 
+Successfully processed videos 51lIpYiskRM in post 6411084174199733272 
+Successfully processed videos MYEYFDKMjUI in post 987175029322359396 
