@@ -7,7 +7,7 @@ from blogspotapi import BlogClient, BlogPost, BlogRepository
 
 from youtube3 import YoutubeClient
 import logging
-logging.basicConfig(level=logging.WARNING)
+logging.basicConfig(level=logging.INFO)
 
 def update_blog_collection(blog_repository, blog_client, blog_id):
     logging.info(f'Updating blog collection for blog id {blog_id}')
