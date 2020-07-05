@@ -35,7 +35,12 @@ def verify_blog_collection(blog_repository, youtube_client, blog_client, blog_id
             if not validLink:
                 logging.warning(u'INVALID VIDEO IN POST {}, BLOG {}'.format(post_id, blog_id))
                 blog_repository.invalidate_link(post_id, video_url)
-                blog_client.invalidate_post(blog_id, post_id)
+                try:
+                    blog_client.invalidate_post(blog_id, post_id)
+                except Exception as e:
+                    logging.error(e, exc_info=True)
+                    logging.info(f'Could not revert {post_id}. Moving on....')
+
     logging.info(f'Done')
 
 
