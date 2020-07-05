@@ -63,12 +63,13 @@ if __name__ == "__main__":
     parser.add_argument('--no-update_blogs', dest='update_blogs', action='store_false')
     parser.add_argument('--verify_urls', dest='verify_urls', action='store_true')
     parser.add_argument('--no-verify_urls', dest='verify_urls', action='store_false')
-    parser.set_defaults(update_subtitles=True)
     parser.set_defaults(update_blogs=True)
+    parser.set_defaults(update_subtitles=True)
     parser.set_defaults(verify_urls=True)
 
     args = parser.parse_args()
 
+    logging.info(f'Args: update_blogs: {args.update_blogs}, update_subtitles: {args.update_subtitles}, verify_urls: {args.verify_urls}')
     blog_repository = BlogRepository(args.mongo_connection, args.blogId)
     blog_client = BlogClient(os.path.join(os.path.dirname(__file__), 'client_secrets.json'))
     youtube_client = YoutubeClient(os.path.join(os.path.dirname(__file__), 'client_secrets.json'))
