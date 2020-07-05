@@ -12,6 +12,8 @@ logging.basicConfig(level=logging.INFO, stream=sys.stdout)
 def update_blog_collection(blog_repository, blog_client, blog_id):
     logging.info(f'Updating blog collection for blog id {blog_id}')
     for index, blog_post in enumerate(blog_client.iterate_blog_posts(blog_id)):
+        if index % 100 == 0:
+            logging.info(f'Processed {index} posts')
         time.sleep(0.5)
         blog_repository.update_blog_post(blog_post)
     blog_repository.delete_old_posts()
