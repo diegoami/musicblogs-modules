@@ -17,11 +17,9 @@ class BlogAmaraTool:
         amara_video.get_actions(language_code)
         amara_video.post_subtitles(language_code, conv_lyrics)
 
-    def test_add_amaratags(self, blogId, postId, language_code):
-        self.blog_client.insert_amara_tags(blogId, postId, language_code)
 
     def subtitles_workflow(self, blogId, postId, language_code):
-        self.test_add_amaratags(blogId, postId, language_code)
+        self.blog_client.insert_amara_tags(blogId, postId, language_code)
         self.post_video_from_blog(blogId, postId, language_code)
 
 

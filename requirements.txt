@@ -1,6 +1,6 @@
 amaraapi==0.0.7
 beautifulsoup4==4.8.2
-blogspotapi==0.3.2
+blogspotapi==1.0.0
 cachetools==4.0.0
 chardet==3.0.4
 Click==7.0
