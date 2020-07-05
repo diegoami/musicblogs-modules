@@ -79,8 +79,8 @@ if __name__ == "__main__":
         blog_repository = BlogRepository(args.mongo_connection, args.blogId)
         blog_client = BlogClient(os.path.join(os.path.dirname(__file__), 'client_secrets.json'))
         youtube_client = YoutubeClient(os.path.join(os.path.dirname(__file__), 'client_secrets.json'))
-#        if args.update_blogs:
-#            update_blog_collection(blog_repository, blog_client, args.blogId)
+        if args.update_blogs:
+            update_blog_collection(blog_repository, blog_client, args.blogId)
         if args.update_subtitles:
             update_subtitles_collection(blog_repository, blog_client, args.blogId, args.languages, amara_headers)
         if args.verify_urls:
